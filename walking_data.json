@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T20:12:35.683729+00:00",
+  "lastUpdated": "2026-05-18T21:04:45.407013+00:00",
   "teams": [
     {
       "id": 132544,
@@ -153,7 +153,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 870,
+              "steps": 9249,
               "activities": 0
             }
           }
@@ -305,7 +305,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 2512,
+              "steps": 2732,
               "activities": 5850
             }
           }
@@ -367,7 +367,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 5239,
+              "steps": 5670,
               "activities": 0
             }
           }
@@ -443,7 +443,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 6006,
+              "steps": 6872,
               "activities": 0
             }
           }
@@ -481,7 +481,12 @@
         {
           "name": "Hossain Amirizadeh",
           "username": "HOSAMI01",
-          "dailyData": {}
+          "dailyData": {
+            "2026-05-18": {
+              "steps": 0,
+              "activities": 7650
+            }
+          }
         }
       ]
     },
@@ -637,7 +642,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 10465,
+              "steps": 14365,
               "activities": 0
             }
           }
@@ -1005,7 +1010,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 3524,
+              "steps": 3538,
               "activities": 0
             }
           }
@@ -1429,7 +1434,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 5885,
+              "steps": 7845,
               "activities": 1764
             }
           }
@@ -1487,7 +1492,7 @@
           "username": "sugarpickles",
           "dailyData": {
             "2026-05-18": {
-              "steps": 452,
+              "steps": 492,
               "activities": 3255
             }
           }
