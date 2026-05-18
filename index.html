@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Step Up Walking Challenge 2026</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js" integrity="sha384-iU8HYtnGQ8Cy4zl7gbNMOhsDTTKX02BTXptVP/vqAWIaTfM7isw76iyZCsjL2eVi" crossorigin="anonymous"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f1f5f9;color:#1e293b;font-size:14px;line-height:1.5}
+.page{max-width:1200px;margin:0 auto;padding:16px}
+.header{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:18px 22px;margin-bottom:14px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.header h1{font-size:20px;font-weight:700}
+.header p{font-size:12px;color:#64748b;margin-top:3px}
+.meta{text-align:right}
+.meta .lbl{font-size:11px;color:#94a3b8}
+.meta .val{font-size:12px;font-weight:600;color:#334155}
+.stats-bar{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:14px}
+.stat{background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:14px 16px}
+.stat .sl{font-size:11px;color:#94a3b8;text-transform:uppercase;letter-spacing:.4px}
+.stat .sv{font-size:22px;font-weight:800;margin-top:2px}
+.stat .ss{font-size:11px;color:#94a3b8;margin-top:1px}
+.tabs{display:flex;gap:4px;margin-bottom:14px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:4px;width:fit-content}
+.tab{padding:7px 18px;border-radius:7px;cursor:pointer;font-size:13px;font-weight:600;color:#64748b;transition:all .15s;border:none;background:none}
+.tab.active{background:#3b82f6;color:#fff}
+.tab-content{display:none}
+.tab-content.active{display:block}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px}
+.card{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:18px}
+.card h2{font-size:14px;font-weight:700;margin-bottom:14px}
+.team-row{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid #f1f5f9}
+.team-row:last-child{border-bottom:none}
+.rank{font-size:16px;font-weight:800;width:26px;text-align:center;flex-shrink:0}
+.dot{width:11px;height:11px;border-radius:50%;flex-shrink:0}
+.ti{flex:1;min-width:0}
+.ti .tn{font-weight:600;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ti .tm{font-size:11px;color:#94a3b8}
+.ti .bar-bg{background:#f1f5f9;border-radius:2px;height:4px;margin-top:5px}
+.ti .bar-fg{height:4px;border-radius:2px}
+.ts{text-align:right;flex-shrink:0}
+.ts .steps{font-size:15px;font-weight:700}
+.ts .avg{font-size:11px;color:#94a3b8}
+.chart-wrap{position:relative;height:195px}
+.full-card{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:18px;margin-bottom:14px}
+.full-card h2{font-size:14px;font-weight:700;margin-bottom:14px}
+table{width:100%;border-collapse:collapse}
+th{font-size:11px;color:#94a3b8;text-transform:uppercase;letter-spacing:.4px;padding:7px 10px;text-align:left;border-bottom:1px solid #e2e8f0;white-space:nowrap}
+td{padding:8px 10px;font-size:13px;border-bottom:1px solid #f8fafc;white-space:nowrap}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:#fafbfd}
+.badge{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;vertical-align:middle}
+.day-card{background:#fff;border:1px solid #e2e8f0;border-radius:12px;padding:18px;margin-bottom:14px}
+.day-card h2{font-size:14px;font-weight:700;margin-bottom:10px}
+.day-controls{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.day-controls label{font-size:12px;color:#64748b}
+.day-controls select{padding:5px 10px;border:1px solid #e2e8f0;border-radius:6px;font-size:13px;background:#fff;cursor:pointer}
+/* History table */
+.hist-controls{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap;align-items:center}
+.hist-controls select{padding:5px 10px;border:1px solid #e2e8f0;border-radius:6px;font-size:13px;background:#fff;cursor:pointer}
+.hist-controls label{font-size:12px;color:#64748b}
+.scroll-wrap{overflow-x:auto}
+.hist-table th{font-size:10px;padding:5px 7px}
+.hist-table td{font-size:12px;padding:5px 7px}
+.cell-hit{background:#d1fae5;color:#065f46;font-weight:600;border-radius:3px;display:inline-block;padding:1px 4px;min-width:52px;text-align:right}
+.cell-miss{background:#fee2e2;color:#991b1b;border-radius:3px;display:inline-block;padding:1px 4px;min-width:52px;text-align:right}
+.cell-zero{color:#cbd5e1;display:inline-block;padding:1px 4px;min-width:52px;text-align:right}
+.total-col{font-weight:700;background:#f8fafc}
+@media(max-width:700px){.two-col{grid-template-columns:1fr}.stats-bar{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <div>
+      <h1>🚶 Step Up Walking Challenge 2026</h1>
+      <p id="subhead">Loading…</p>
+    </div>
+    <div class="meta">
+      <div class="lbl">Last synced</div>
+      <div class="val" id="lastSync">—</div>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat"><div class="sl">Total Steps</div><div class="sv" id="statSteps">—</div><div class="ss">all 4 teams</div></div>
+    <div class="stat"><div class="sl">Active Members</div><div class="sv" id="statMembers">—</div><div class="ss">with steps recorded</div></div>
+    <div class="stat"><div class="sl">Daily Goal</div><div class="sv">8,000</div><div class="ss">steps / person</div></div>
+    <div class="stat"><div class="sl">Challenge Day</div><div class="sv" id="statDay">—</div><div class="ss" id="statDaysLeft">—</div></div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('dashboard')">📊 Dashboard</button>
+    <button class="tab" onclick="switchTab('history')">📅 Full History</button>
+  </div>
+
+  <!-- DASHBOARD TAB -->
+  <div id="tab-dashboard" class="tab-content active">
+    <div class="two-col">
+      <div class="card">
+        <h2>🏆 Team Standings</h2>
+        <div id="teamStandings"></div>
+      </div>
+      <div class="card">
+        <h2>📈 Cumulative Steps by Team</h2>
+        <div class="chart-wrap"><canvas id="lineChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="full-card">
+      <h2>👟 Individual Leaderboard</h2>
+      <table>
+        <thead><tr>
+          <th>#</th><th>Member</th><th>Team</th>
+          <th>Total Steps</th><th>Activities</th><th>Daily Avg</th><th>Active Days</th><th>Goal Hit Days</th>
+        </tr></thead>
+        <tbody id="leaderBody"></tbody>
+      </table>
+    </div>
+
+    <div class="day-card">
+      <h2>📅 Day Breakdown</h2>
+      <div class="day-controls">
+        <label>Select day:</label>
+        <select id="dayPick" onchange="renderDay(this.value)"></select>
+      </div>
+      <div id="dayDetail"></div>
+    </div>
+  </div>
+
+  <!-- HISTORY TAB -->
+  <div id="tab-history" class="tab-content">
+    <div class="full-card">
+      <h2>📋 Full Step History — All Members × All Days</h2>
+      <p style="font-size:12px;color:#64748b;margin-bottom:14px;">
+        Green = met 8,000 step goal &nbsp;·&nbsp; Red = below goal &nbsp;·&nbsp; Grey = no data
+      </p>
+      <div class="hist-controls">
+        <label>Filter by team:</label>
+        <select id="histTeamFilter" onchange="renderHistory()">
+          <option value="all">All Teams</option>
+          <option value="132544">Walkaholics</option><option value="132626">PSCC Build</option><option value="132610">BusOps</option><option value="132609">Fast & Comply</option>
+        </select>
+      </div>
+      <div class="scroll-wrap">
+        <table class="hist-table" id="histTable">
+          <thead id="histHead"></thead>
+          <tbody id="histBody"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const DATA = {"lastUpdated":"2026-05-17T23:34:48.534587Z","teams":[{"id":132544,"name":"Accounting Walkaholics","color":"#10b981","members":[{"name":"Achal Pande","username":"achalpande","dailyData":{"2026-05-17":{"steps":17804,"activities":0}}},{"name":"Nadeem Aslam","username":"aslam707nadeem","dailyData":{}},{"name":"SANTANU BANERJEE","username":"banerjees","dailyData":{}},{"name":"Hossain Amirizadeh","username":"HOSAMI01","dailyData":{}},{"name":"Ashwin Jain","username":"jainrishwin","dailyData":{"2026-05-17":{"steps":6805,"activities":0}}},{"name":"Praveen Bhaskar","username":"praveenbhaskar","dailyData":{}},{"name":"Prem Piskala","username":"prepis02","dailyData":{"2026-05-17":{"steps":3018,"activities":0}}},{"name":"Ramiza Khan","username":"RizaK","dailyData":{"2026-05-17":{"steps":571,"activities":0}}},{"name":"Sravan Paruchuri","username":"SravanParuchuri","dailyData":{"2026-05-17":{"steps":1505,"activities":0}}}]},{"id":132626,"name":"PSCC Build is Too Fit to Quit","color":"#f97316","members":[{"name":"Praveen Lethakula","username":"PraveenLethakula","dailyData":{}},{"name":"Priyanka Reddy","username":"PriyankaReddy","dailyData":{}},{"name":"Ramkumar Nagendran","username":"ramnirai","dailyData":{"2026-05-17":{"steps":3409,"activities":10320}}},{"name":"Ramesh Ramasamy","username":"rramesh3057","dailyData":{}},{"name":"Satish Gudavalli","username":"sivgud01","dailyData":{}},{"name":"Srikanth Yeddanapudi","username":"SRIYED02","dailyData":{}},{"name":"TEJDEEP VILLURI","username":"TEJDEEP","dailyData":{"2026-05-17":{"steps":3988,"activities":0}}}]},{"id":132610,"name":"BusOps Walking Deadlines","color":"#6366f1","members":[{"name":"Bhavan Adavikolanu","username":"bhaada02","dailyData":{}},{"name":"Cibi SAMPATHKUMAR","username":"cibsam01","dailyData":{}},{"name":"Raju Dola","username":"mandol01","dailyData":{}},{"name":"Sainath Kala","username":"sainathkala","dailyData":{}},{"name":"Siddhartha Natuva","username":"sidnat01","dailyData":{}},{"name":"SriB Chennapragada","username":"srib16","dailyData":{}},{"name":"Stephanie Navarrete","username":"stephnav","dailyData":{"2026-05-17":{"steps":7482,"activities":0}}}]},{"id":132609,"name":"Fast and Fully Compliant","color":"#eab308","members":[{"name":"Barbara Nelson","username":"BarbaraN","dailyData":{}},{"name":"chaitanya v","username":"chaitanyav","dailyData":{"2026-05-17":{"steps":437,"activities":0}}},{"name":"Ameya Sule","username":"FFCRoadRunner","dailyData":{"2026-05-17":{"steps":526,"activities":0}}},{"name":"Frankie Blair","username":"frabla02","dailyData":{"2026-05-17":{"steps":12374,"activities":0}}},{"name":"Lally Reyes","username":"lalrey01","dailyData":{"2026-05-17":{"steps":12069,"activities":0}}},{"name":"Michelle Huey","username":"MichelleHuey","dailyData":{}},{"name":"Sreeni Jampana","username":"sreeni","dailyData":{}},{"name":"Carrie Vallone","username":"sugarpickles","dailyData":{}}]}]};
+const TEAMS_CFG = [{"id":132544,"name":"Accounting Walkaholics","short":"Walkaholics","color":"#10b981"},{"id":132626,"name":"PSCC Build is Too Fit to Quit","short":"PSCC Build","color":"#f97316"},{"id":132610,"name":"BusOps Walking Deadlines","short":"BusOps","color":"#6366f1"},{"id":132609,"name":"Fast and Fully Compliant","short":"Fast & Comply","color":"#eab308"}];
+const CHALLENGE_START = '2026-05-18';
+const CHALLENGE_END   = '2026-06-15';
+const DAILY_GOAL      = 8000;
+
+let lineChart = null;
+
+function fmt(n) { return (n||0).toLocaleString(); }
+function dateLabel(d) {
+  return new Date(d+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric'});
+}
+function allDays() {
+  const days=[]; const d=new Date(CHALLENGE_START+'T00:00:00');
+  const end=new Date(CHALLENGE_END+'T00:00:00');
+  while(d<=end){ days.push(d.toISOString().split('T')[0]); d.setDate(d.getDate()+1); }
+  return days;
+}
+function todayStr() { return new Date().toISOString().split('T')[0]; }
+function challengeDay() {
+  const diff=Math.floor((new Date(todayStr())-new Date(CHALLENGE_START+'T00:00:00'))/86400000)+1;
+  return Math.max(1,Math.min(diff,29));
+}
+function daysLeft() {
+  const diff=Math.floor((new Date(CHALLENGE_END+'T00:00:00')-new Date(todayStr()))/86400000);
+  return Math.max(0,diff);
+}
+function memberTotal(m) {
+  let steps=0,acts=0,days=0;
+  for(const v of Object.values(m.dailyData||{})){
+    steps+=v.steps||0; acts+=v.activities||0;
+    if((v.steps||0)>0) days++;
+  }
+  const goalDays=Object.entries(m.dailyData||{}).filter(([,v])=>(v.steps||0)>=DAILY_GOAL).length;
+  return {steps,acts,days,avg:days?Math.round(steps/days):0,goalDays};
+}
+function teamTotal(team) {
+  let steps=0,acts=0;
+  for(const m of team.members){ const t=memberTotal(m); steps+=t.steps; acts+=t.acts; }
+  return {steps,acts,mc:team.members.length,avg:team.members.length?Math.round(steps/team.members.length):0};
+}
+function teamCfg(id) {
+  return TEAMS_CFG.find(t=>t.id===id)||{name:'Unknown',short:'?',color:'#888'};
+}
+
+function switchTab(name) {
+  document.querySelectorAll('.tab-content').forEach(el=>el.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(el=>el.classList.remove('active'));
+  document.getElementById('tab-'+name).classList.add('active');
+  event.target.classList.add('active');
+  if(name==='history') renderHistory();
+}
+
+function init() {
+  // Header
+  const cd=challengeDay(), dl=daysLeft();
+  document.getElementById('subhead').textContent=
+    `May 18 – June 15, 2026 · Day ${cd} of 29 · ${dl} day${dl===1?'':'s'} remaining`;
+  if(DATA.lastUpdated) {
+    document.getElementById('lastSync').textContent=
+      new Date(DATA.lastUpdated).toLocaleString('en-US',{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+  }
+
+  // Stats
+  let grand=0, activeMem=0;
+  DATA.teams.forEach(team=>{
+    const t=teamTotal(team); grand+=t.steps;
+    team.members.forEach(m=>{ if(memberTotal(m).steps>0) activeMem++; });
+  });
+  document.getElementById('statSteps').textContent=fmt(grand);
+  document.getElementById('statMembers').textContent=activeMem;
+  document.getElementById('statDay').textContent=`${cd} / 29`;
+  document.getElementById('statDaysLeft').textContent=`${dl} day${dl===1?'':'s'} remaining`;
+
+  // Team standings
+  const tStats=DATA.teams.map(team=>{
+    const cfg=teamCfg(team.id);
+    return {...teamTotal(team), cfg, team};
+  }).sort((a,b)=>b.steps-a.steps);
+  const maxT=tStats[0]?.steps||1;
+  const medals=['🥇','🥈','🥉','4️⃣'];
+  document.getElementById('teamStandings').innerHTML=tStats.map((t,i)=>{
+    const pct=Math.round(t.steps/maxT*100);
+    return `<div class="team-row">
+      <div class="rank">${medals[i]||i+1}</div>
+      <div class="dot" style="background:${t.cfg.color}"></div>
+      <div class="ti">
+        <div class="tn" title="${t.cfg.name}">${t.cfg.short}</div>
+        <div class="tm">${t.mc} members</div>
+        <div class="bar-bg"><div class="bar-fg" style="width:${pct}%;background:${t.cfg.color}"></div></div>
+      </div>
+      <div class="ts">
+        <div class="steps">${fmt(t.steps)}</div>
+        <div class="avg">${fmt(t.avg)} avg/member</div>
+      </div>
+    </div>`;
+  }).join('');
+
+  // Individual leaderboard
+  const allM=[];
+  DATA.teams.forEach(team=>{
+    const cfg=teamCfg(team.id);
+    team.members.forEach(m=>{
+      allM.push({...m,...memberTotal(m),cfg});
+    });
+  });
+  allM.sort((a,b)=>b.steps-a.steps);
+  const maxM=allM[0]?.steps||1;
+  document.getElementById('leaderBody').innerHTML=allM.map((m,i)=>{
+    const bp=Math.round(m.steps/maxM*100);
+    return `<tr>
+      <td style="color:#94a3b8;font-weight:700">${i+1}</td>
+      <td><strong>${m.name}</strong></td>
+      <td><span class="badge" style="background:${m.cfg.color}"></span>${m.cfg.short}</td>
+      <td>
+        ${fmt(m.steps)}
+        <span style="display:inline-block;vertical-align:middle;margin-left:6px;background:#f1f5f9;border-radius:2px;height:5px;width:80px;overflow:hidden">
+          <span style="display:block;background:${m.cfg.color};width:${bp}%;height:5px"></span>
+        </span>
+      </td>
+      <td>${fmt(m.acts)}</td>
+      <td>${fmt(m.avg)}</td>
+      <td>${m.days}</td>
+      <td>${m.goalDays}</td>
+    </tr>`;
+  }).join('');
+
+  // Day selector
+  const days=allDays();
+  const today=todayStr();
+  const pastDays=days.filter(d=>d<=today);
+  const sel=document.getElementById('dayPick');
+  sel.innerHTML=pastDays.slice().reverse().map(d=>
+    `<option value="${d}">${new Date(d+'T12:00:00').toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'})}</option>`
+  ).join('');
+  if(pastDays.length) renderDay(pastDays[pastDays.length-1]);
+
+  // Chart
+  buildChart(pastDays);
+}
+
+function renderDay(day) {
+  if(!day) return;
+  const rows=[];
+  DATA.teams.forEach(team=>{
+    const cfg=teamCfg(team.id);
+    team.members.forEach(m=>{
+      const d=m.dailyData?.[day];
+      rows.push({name:m.name,cfg,steps:d?.steps||0,acts:d?.activities||0});
+    });
+  });
+  rows.sort((a,b)=>b.steps-a.steps);
+  const maxS=rows[0]?.steps||1;
+  const dayLabel=new Date(day+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+  document.getElementById('dayDetail').innerHTML=`
+    <p style="font-size:12px;color:#64748b;margin-bottom:12px">${dayLabel}</p>
+    <table>
+      <thead><tr><th>#</th><th>Member</th><th>Team</th><th>Steps</th><th>Activities</th><th>vs Goal</th></tr></thead>
+      <tbody>
+        ${rows.map((r,i)=>{
+          const pct=Math.min(100,Math.round(r.steps/DAILY_GOAL*100));
+          const col=pct>=100?'#10b981':pct>=70?'#f97316':'#ef4444';
+          const bp=Math.round(r.steps/maxS*80);
+          return `<tr>
+            <td style="color:#94a3b8;font-weight:700">${i+1}</td>
+            <td><strong>${r.name}</strong></td>
+            <td><span class="badge" style="background:${r.cfg.color}"></span>${r.cfg.short}</td>
+            <td>${fmt(r.steps)} <span style="display:inline-block;vertical-align:middle;margin-left:4px;background:#f1f5f9;border-radius:2px;height:4px;width:${bp}px"></span></td>
+            <td>${fmt(r.acts)}</td>
+            <td style="color:${col};font-weight:600">${pct}%</td>
+          </tr>`;
+        }).join('')}
+      </tbody>
+    </table>`;
+}
+
+function buildChart(pastDays) {
+  const datasets=TEAMS_CFG.map(cfg=>{
+    const team=DATA.teams.find(t=>t.id===cfg.id);
+    let cum=0;
+    const pts=pastDays.map(day=>{
+      if(team) team.members.forEach(m=>{cum+=m.dailyData?.[day]?.steps||0;});
+      return cum;
+    });
+    return {label:cfg.short,data:pts,borderColor:cfg.color,backgroundColor:'transparent',borderWidth:2.5,tension:0.3,pointRadius:pastDays.length>10?2:3};
+  });
+  if(lineChart) lineChart.destroy();
+  const ctx=document.getElementById('lineChart').getContext('2d');
+  lineChart=new Chart(ctx,{
+    type:'line',
+    data:{labels:pastDays.map(d=>d.slice(5)),datasets},
+    options:{
+      responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{position:'bottom',labels:{boxWidth:12,font:{size:11},padding:8}}},
+      scales:{
+        x:{grid:{display:false},ticks:{font:{size:10},maxTicksLimit:10}},
+        y:{grid:{color:'#f1f5f9'},ticks:{font:{size:10},callback:v=>v>=1000?(v/1000).toFixed(0)+'k':v}}
+      }
+    }
+  });
+}
+
+function renderHistory() {
+  const teamFilter=document.getElementById('histTeamFilter').value;
+  const days=allDays();
+  const today=todayStr();
+  const pastDays=days.filter(d=>d<=today);
+
+  // Build member list
+  const rows=[];
+  DATA.teams.forEach(team=>{
+    if(teamFilter!=='all' && team.id!==parseInt(teamFilter)) return;
+    const cfg=teamCfg(team.id);
+    team.members.forEach(m=>{
+      const tot=memberTotal(m);
+      rows.push({m,cfg,tot});
+    });
+  });
+  rows.sort((a,b)=>b.tot.steps-a.tot.steps);
+
+  // Header
+  document.getElementById('histHead').innerHTML=`<tr>
+    <th>#</th><th>Member</th><th>Team</th>
+    ${pastDays.map(d=>`<th title="${new Date(d+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'})}">${d.slice(5)}</th>`).join('')}
+    <th class="total-col">Total</th><th>Avg/Day</th>
+  </tr>`;
+
+  // Body
+  document.getElementById('histBody').innerHTML=rows.map((row,i)=>{
+    const cells=pastDays.map(day=>{
+      const s=row.m.dailyData?.[day]?.steps||0;
+      const a=row.m.dailyData?.[day]?.activities||0;
+      if(s===0) return `<td><span class="cell-zero">—</span></td>`;
+      const cls=s>=DAILY_GOAL?'cell-hit':'cell-miss';
+      const tip=a>0?` title="Steps: ${s.toLocaleString()} | Activities: ${a.toLocaleString()}"` :'';
+      return `<td${tip}><span class="${cls}">${s>=1000?(s/1000).toFixed(1)+'k':s}</span></td>`;
+    }).join('');
+    return `<tr>
+      <td style="color:#94a3b8;font-weight:700">${i+1}</td>
+      <td><strong>${row.m.name}</strong></td>
+      <td><span class="badge" style="background:${row.cfg.color}"></span>${row.cfg.short}</td>
+      ${cells}
+      <td class="total-col">${fmt(row.tot.steps)}</td>
+      <td style="color:#64748b">${fmt(row.tot.avg)}</td>
+    </tr>`;
+  }).join('');
+}
+
+init();
+</script>
+</body>
+</html>
