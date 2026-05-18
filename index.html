@@ -181,11 +181,12 @@ function daysLeft() {
 }
 function memberTotal(m) {
   let steps=0,acts=0,days=0;
-  for(const v of Object.values(m.dailyData||{})){
+  for(const [date,v] of Object.entries(m.dailyData||{})){
+    if(date<CHALLENGE_START||date>CHALLENGE_END) continue; // only count challenge days
     steps+=v.steps||0; acts+=v.activities||0;
     if((v.steps||0)>0) days++;
   }
-  const goalDays=Object.entries(m.dailyData||{}).filter(([,v])=>(v.steps||0)>=DAILY_GOAL).length;
+  const goalDays=Object.entries(m.dailyData||{}).filter(([d,v])=>d>=CHALLENGE_START&&d<=CHALLENGE_END&&(v.steps||0)>=DAILY_GOAL).length;
   return {steps,acts,days,avg:days?Math.round(steps/days):0,goalDays};
 }
 function teamTotal(team) {
