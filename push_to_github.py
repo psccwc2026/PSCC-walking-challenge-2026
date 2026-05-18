@@ -457,6 +457,32 @@ init();
 </html>"""
 
 
+def _push_file(path, content_bytes, message=None):
+    """Generic helper to push any file to GitHub via Contents API."""
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
+    headers = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
+    sha = None
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req) as resp:
+            sha = json.loads(resp.read()).get("sha")
+    except urllib.error.HTTPError as e:
+        if e.code != 404: raise
+    payload = {
+        "message": message or f"Update {path} {date.today().isoformat()}",
+        "content": base64.b64encode(content_bytes).decode(),
+    }
+    if sha: payload["sha"] = sha
+    req = urllib.request.Request(url, data=json.dumps(payload).encode(),
+        headers={**headers, "Content-Type": "application/json"}, method="PUT")
+    with urllib.request.urlopen(req) as resp:
+        return json.loads(resp.read())
+
+
 def push_to_github(html_content):
     """Push HTML to GitHub via Contents API."""
     url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_PATH}"
@@ -519,6 +545,12 @@ def main():
 
     print("🚀 Pushing to GitHub Pages...")
     push_to_github(html)
+
+    # Also push walking_data.json so GitHub has the latest data (avoids git conflict in Actions)
+    with open(DATA_FILE) as f:
+        json_content = f.read()
+    _push_file("walking_data.json", json_content.encode("utf-8"))
+    print("   walking_data.json synced to repo")
 
     print(f"\n✅ Live at: {PAGES_URL}")
     print("   (GitHub Pages may take ~60 seconds to refresh after first publish)")
