@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T21:04:45.407013+00:00",
+  "lastUpdated": "2026-05-18T23:49:48.092470+00:00",
   "teams": [
     {
       "id": 132544,
@@ -153,7 +153,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 9249,
+              "steps": 9642,
               "activities": 0
             }
           }
@@ -231,7 +231,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 23839,
+              "steps": 24924,
               "activities": 0
             }
           }
@@ -305,8 +305,8 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 2732,
-              "activities": 5850
+              "steps": 2744,
+              "activities": 9750
             }
           }
         },
@@ -367,7 +367,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 5670,
+              "steps": 6552,
               "activities": 0
             }
           }
@@ -443,7 +443,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 6872,
+              "steps": 7718,
               "activities": 0
             }
           }
@@ -642,7 +642,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 14365,
+              "steps": 14775,
               "activities": 0
             }
           }
@@ -836,7 +836,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 596,
+              "steps": 652,
               "activities": 14340
             }
           }
@@ -932,7 +932,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 4043,
+              "steps": 7555,
               "activities": 0
             }
           }
@@ -1010,7 +1010,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 3538,
+              "steps": 3788,
               "activities": 0
             }
           }
@@ -1142,7 +1142,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 567,
+              "steps": 18312,
               "activities": 0
             }
           }
@@ -1356,7 +1356,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 3153,
+              "steps": 6549,
               "activities": 0
             }
           }
@@ -1434,7 +1434,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 7845,
+              "steps": 10347,
               "activities": 1764
             }
           }
@@ -1492,8 +1492,8 @@
           "username": "sugarpickles",
           "dailyData": {
             "2026-05-18": {
-              "steps": 492,
-              "activities": 3255
+              "steps": 708,
+              "activities": 9655
             }
           }
         }
