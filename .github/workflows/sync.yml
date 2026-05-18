@@ -2,12 +2,7 @@ name: Sync Walking Data
 
 on:
   schedule:
-    - cron: '0 15 * * *'   # 8:00 AM PDT
-    - cron: '0 19 * * *'   # 12:00 PM PDT
-    - cron: '0 20 * * *'   # 1:00 PM PDT
-    - cron: '0 0 * * *'    # 5:00 PM PDT
-    - cron: '0 3 * * *'    # 8:00 PM PDT
-    - cron: '0 7 * * *'    # 12:00 AM PDT
+    - cron: '0 * * * *'   # Every hour
   workflow_dispatch:
 
 jobs:
