@@ -111,7 +111,7 @@ tr:hover td{background:#fafbfd}
       <table>
         <thead><tr>
           <th>#</th><th>Member</th><th>Team</th>
-          <th>Total Steps</th><th>Activities</th><th>Daily Avg</th><th>Active Days</th><th>Goal Hit Days</th>
+          <th>Steps</th><th>Activity Steps</th><th>Total Steps ↕</th><th>Daily Avg</th><th>Active Days</th><th>Goal Hit Days</th>
         </tr></thead>
         <tbody id="leaderBody"></tbody>
       </table>
@@ -182,17 +182,18 @@ function daysLeft() {
 function memberTotal(m) {
   let steps=0,acts=0,days=0;
   for(const [date,v] of Object.entries(m.dailyData||{})){
-    if(date<CHALLENGE_START||date>CHALLENGE_END) continue; // only count challenge days
+    if(date<CHALLENGE_START||date>CHALLENGE_END) continue;
     steps+=v.steps||0; acts+=v.activities||0;
-    if((v.steps||0)>0) days++;
+    if(((v.steps||0)+(v.activities||0))>0) days++;
   }
-  const goalDays=Object.entries(m.dailyData||{}).filter(([d,v])=>d>=CHALLENGE_START&&d<=CHALLENGE_END&&(v.steps||0)>=DAILY_GOAL).length;
-  return {steps,acts,days,avg:days?Math.round(steps/days):0,goalDays};
+  const total=steps+acts;
+  const goalDays=Object.entries(m.dailyData||{}).filter(([d,v])=>d>=CHALLENGE_START&&d<=CHALLENGE_END&&((v.steps||0)+(v.activities||0))>=DAILY_GOAL).length;
+  return {steps,acts,total,days,avg:days?Math.round(total/days):0,goalDays};
 }
 function teamTotal(team) {
-  let steps=0,acts=0;
-  for(const m of team.members){ const t=memberTotal(m); steps+=t.steps; acts+=t.acts; }
-  return {steps,acts,mc:team.members.length,avg:team.members.length?Math.round(steps/team.members.length):0};
+  let steps=0,acts=0,total=0;
+  for(const m of team.members){ const t=memberTotal(m); steps+=t.steps; acts+=t.acts; total+=t.total; }
+  return {steps,acts,total,mc:team.members.length,avg:team.members.length?Math.round(total/team.members.length):0};
 }
 function teamCfg(id) {
   return TEAMS_CFG.find(t=>t.id===id)||{name:'Unknown',short:'?',color:'#888'};
@@ -219,8 +220,8 @@ function init() {
   // Stats
   let grand=0, activeMem=0;
   DATA.teams.forEach(team=>{
-    const t=teamTotal(team); grand+=t.steps;
-    team.members.forEach(m=>{ if(memberTotal(m).steps>0) activeMem++; });
+    const t=teamTotal(team); grand+=t.total;
+    team.members.forEach(m=>{ if(memberTotal(m).total>0) activeMem++; });
   });
   document.getElementById('statSteps').textContent=fmt(grand);
   document.getElementById('statMembers').textContent=activeMem;
@@ -231,11 +232,11 @@ function init() {
   const tStats=DATA.teams.map(team=>{
     const cfg=teamCfg(team.id);
     return {...teamTotal(team), cfg, team};
-  }).sort((a,b)=>b.steps-a.steps);
-  const maxT=tStats[0]?.steps||1;
+  }).sort((a,b)=>b.total-a.total);
+  const maxT=tStats[0]?.total||1;
   const medals=['🥇','🥈','🥉','4️⃣'];
   document.getElementById('teamStandings').innerHTML=tStats.map((t,i)=>{
-    const pct=Math.round(t.steps/maxT*100);
+    const pct=Math.round(t.total/maxT*100);
     return `<div class="team-row">
       <div class="rank">${medals[i]||i+1}</div>
       <div class="dot" style="background:${t.cfg.color}"></div>
@@ -245,7 +246,7 @@ function init() {
         <div class="bar-bg"><div class="bar-fg" style="width:${pct}%;background:${t.cfg.color}"></div></div>
       </div>
       <div class="ts">
-        <div class="steps">${fmt(t.steps)}</div>
+        <div class="steps">${fmt(t.total)}</div>
         <div class="avg">${fmt(t.avg)} avg/member</div>
       </div>
     </div>`;
@@ -259,21 +260,22 @@ function init() {
       allM.push({...m,...memberTotal(m),cfg});
     });
   });
-  allM.sort((a,b)=>b.steps-a.steps);
-  const maxM=allM[0]?.steps||1;
+  allM.sort((a,b)=>b.total-a.total);
+  const maxM=allM[0]?.total||1;
   document.getElementById('leaderBody').innerHTML=allM.map((m,i)=>{
-    const bp=Math.round(m.steps/maxM*100);
+    const bp=Math.round(m.total/maxM*100);
     return `<tr>
       <td style="color:#94a3b8;font-weight:700">${i+1}</td>
       <td><strong>${m.name}</strong></td>
       <td><span class="badge" style="background:${m.cfg.color}"></span>${m.cfg.short}</td>
+      <td style="color:#64748b;font-size:12px">${fmt(m.steps)}</td>
+      <td style="color:#64748b;font-size:12px">${fmt(m.acts)}</td>
       <td>
-        ${fmt(m.steps)}
+        <strong>${fmt(m.total)}</strong>
         <span style="display:inline-block;vertical-align:middle;margin-left:6px;background:#f1f5f9;border-radius:2px;height:5px;width:80px;overflow:hidden">
           <span style="display:block;background:${m.cfg.color};width:${bp}%;height:5px"></span>
         </span>
       </td>
-      <td>${fmt(m.acts)}</td>
       <td>${fmt(m.avg)}</td>
       <td>${m.days}</td>
       <td>${m.goalDays}</td>
@@ -301,27 +303,29 @@ function renderDay(day) {
     const cfg=teamCfg(team.id);
     team.members.forEach(m=>{
       const d=m.dailyData?.[day];
-      rows.push({name:m.name,cfg,steps:d?.steps||0,acts:d?.activities||0});
+      const steps=d?.steps||0, acts=d?.activities||0;
+      rows.push({name:m.name,cfg,steps,acts,total:steps+acts});
     });
   });
-  rows.sort((a,b)=>b.steps-a.steps);
-  const maxS=rows[0]?.steps||1;
+  rows.sort((a,b)=>b.total-a.total);
+  const maxS=rows[0]?.total||1;
   const dayLabel=new Date(day+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
   document.getElementById('dayDetail').innerHTML=`
     <p style="font-size:12px;color:#64748b;margin-bottom:12px">${dayLabel}</p>
     <table>
-      <thead><tr><th>#</th><th>Member</th><th>Team</th><th>Steps</th><th>Activities</th><th>vs Goal</th></tr></thead>
+      <thead><tr><th>#</th><th>Member</th><th>Team</th><th>Steps</th><th>Activity Steps</th><th>Total Steps</th><th>vs Goal</th></tr></thead>
       <tbody>
         ${rows.map((r,i)=>{
-          const pct=Math.min(100,Math.round(r.steps/DAILY_GOAL*100));
+          const pct=Math.min(100,Math.round(r.total/DAILY_GOAL*100));
           const col=pct>=100?'#10b981':pct>=70?'#f97316':'#ef4444';
-          const bp=Math.round(r.steps/maxS*80);
+          const bp=Math.round(r.total/maxS*80);
           return `<tr>
             <td style="color:#94a3b8;font-weight:700">${i+1}</td>
             <td><strong>${r.name}</strong></td>
             <td><span class="badge" style="background:${r.cfg.color}"></span>${r.cfg.short}</td>
-            <td>${fmt(r.steps)} <span style="display:inline-block;vertical-align:middle;margin-left:4px;background:#f1f5f9;border-radius:2px;height:4px;width:${bp}px"></span></td>
-            <td>${fmt(r.acts)}</td>
+            <td style="color:#64748b">${fmt(r.steps)}</td>
+            <td style="color:#64748b">${fmt(r.acts)}</td>
+            <td><strong>${fmt(r.total)}</strong> <span style="display:inline-block;vertical-align:middle;margin-left:4px;background:#f1f5f9;border-radius:2px;height:4px;width:${bp}px"></span></td>
             <td style="color:${col};font-weight:600">${pct}%</td>
           </tr>`;
         }).join('')}
@@ -334,7 +338,7 @@ function buildChart(pastDays) {
     const team=DATA.teams.find(t=>t.id===cfg.id);
     let cum=0;
     const pts=pastDays.map(day=>{
-      if(team) team.members.forEach(m=>{cum+=m.dailyData?.[day]?.steps||0;});
+      if(team) team.members.forEach(m=>{cum+=(m.dailyData?.[day]?.steps||0)+(m.dailyData?.[day]?.activities||0);});
       return cum;
     });
     return {label:cfg.short,data:pts,borderColor:cfg.color,backgroundColor:'transparent',borderWidth:2.5,tension:0.3,pointRadius:pastDays.length>10?2:3};
@@ -385,10 +389,11 @@ function renderHistory() {
     const cells=pastDays.map(day=>{
       const s=row.m.dailyData?.[day]?.steps||0;
       const a=row.m.dailyData?.[day]?.activities||0;
-      if(s===0) return `<td><span class="cell-zero">—</span></td>`;
-      const cls=s>=DAILY_GOAL?'cell-hit':'cell-miss';
-      const tip=a>0?` title="Steps: ${s.toLocaleString()} | Activities: ${a.toLocaleString()}"` :'';
-      return `<td${tip}><span class="${cls}">${s>=1000?(s/1000).toFixed(1)+'k':s}</span></td>`;
+      const t=s+a;
+      if(t===0) return `<td><span class="cell-zero">—</span></td>`;
+      const cls=t>=DAILY_GOAL?'cell-hit':'cell-miss';
+      const tip=` title="Steps: ${s.toLocaleString()} | Activity Steps: ${a.toLocaleString()} | Total: ${t.toLocaleString()}"`;
+      return `<td${tip}><span class="${cls}">${t>=1000?(t/1000).toFixed(1)+'k':t}</span></td>`;
     }).join('');
     return `<tr>
       <td style="color:#94a3b8;font-weight:700">${i+1}</td>
