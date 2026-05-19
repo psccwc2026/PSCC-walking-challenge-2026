@@ -224,7 +224,7 @@ tr:hover td{{background:#fafbfd}}
         <label>Filter by team:</label>
         <select id="histTeamFilter" onchange="renderHistory()">
           <option value="all">All Teams</option>
-          {''.join(f'<option value="{t["id"]}">{t["short"]}</option>' for t in TEAMS)}
+          {''.join(f'<option value="{t["id"]}">{t["name"]}</option>' for t in TEAMS)}
         </select>
       </div>
       <div class="scroll-wrap">
@@ -282,7 +282,7 @@ function teamTotal(team) {{
   return {{steps,acts,total,mc:team.members.length,avg:team.members.length?Math.round(total/team.members.length):0}};
 }}
 function teamCfg(id) {{
-  return TEAMS_CFG.find(t=>t.id===id)||{{name:'Unknown',short:'?',color:'#888'}};
+  return TEAMS_CFG.find(t=>t.id===id)||{{name:'Unknown',color:'#888'}};
 }}
 
 function switchTab(name) {{
@@ -334,7 +334,7 @@ function init() {{
       <div class="rank">${{medals[i]||i+1}}</div>
       <div class="dot" style="background:${{t.cfg.color}}"></div>
       <div class="ti">
-        <div class="tn" title="${{t.cfg.name}}">${{t.cfg.short}} ${{rankBadge}}</div>
+        <div class="tn">${{t.cfg.name}} ${{rankBadge}}</div>
         <div class="tm">${{t.mc}} members</div>
         <div class="bar-bg"><div class="bar-fg" style="width:${{pct}}%;background:${{t.cfg.color}}"></div></div>
       </div>
@@ -383,7 +383,7 @@ function init() {{
         <strong>${{m.name}}</strong>
         ${{hasData?`<button class="expand-btn" data-idx="${{i}}" onclick="toggleExpand(${{i}})" title="Show daily breakdown">▼</button>`:''}}
       </td>
-      <td><span class="badge" style="background:${{m.cfg.color}}"></span>${{m.cfg.short}}</td>
+      <td><span class="badge" style="background:${{m.cfg.color}}"></span>${{m.cfg.name}}</td>
       <td style="color:#64748b;font-size:12px">${{fmt(m.steps)}}</td>
       <td style="color:#64748b;font-size:12px">${{fmt(m.acts)}}</td>
       <td style="padding:0 10px">
@@ -454,7 +454,7 @@ function renderDay(day) {{
           return `<tr>
             <td style="color:#94a3b8;font-weight:700">${{i+1}}</td>
             <td><strong>${{r.name}}</strong>${{expandBtn}}</td>
-            <td><span class="badge" style="background:${{r.cfg.color}}"></span>${{r.cfg.short}}</td>
+            <td><span class="badge" style="background:${{r.cfg.color}}"></span>${{r.cfg.name}}</td>
             <td style="color:#64748b">${{fmt(r.steps)}}</td>
             <td style="color:#64748b">${{fmt(r.acts)}}</td>
             <td style="padding:0 10px"><div style="display:flex;align-items:center;justify-content:flex-end;gap:5px"><div style="width:60px;flex-shrink:0;background:#f1f5f9;border-radius:2px;height:4px;overflow:hidden"><div style="background:${{r.cfg.color}};width:${{bp}}%;height:4px"></div></div><strong style="min-width:62px;text-align:right;display:inline-block">${{fmt(r.total)}}</strong></div></td>
@@ -473,7 +473,8 @@ function buildChart(pastDays) {{
       if(team) team.members.forEach(m=>{{cum+=(m.dailyData?.[day]?.steps||0)+(m.dailyData?.[day]?.activities||0);}});
       return cum;
     }});
-    return {{label:cfg.short,data:pts,borderColor:cfg.color,backgroundColor:'transparent',borderWidth:2.5,tension:0.3,pointRadius:pastDays.length>10?2:3}};
+    const lbl=cfg.name.length>22?cfg.name.slice(0,20)+'…':cfg.name;
+    return {{label:lbl,data:pts,borderColor:cfg.color,backgroundColor:'transparent',borderWidth:2.5,tension:0.3,pointRadius:pastDays.length>10?2:3}};
   }});
   if(lineChart) lineChart.destroy();
   const ctx=document.getElementById('lineChart').getContext('2d');
@@ -530,7 +531,7 @@ function renderHistory() {{
     return `<tr>
       <td style="color:#94a3b8;font-weight:700">${{i+1}}</td>
       <td><strong>${{row.m.name}}</strong></td>
-      <td><span class="badge" style="background:${{row.cfg.color}}"></span>${{row.cfg.short}}</td>
+      <td><span class="badge" style="background:${{row.cfg.color}}"></span>${{row.cfg.name}}</td>
       ${{cells}}
       <td class="total-col">${{fmt(row.tot.total)}}</td>
       <td class="avg-col" style="color:#64748b">${{fmt(row.tot.avg)}}</td>
