@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T06:05:29.102682+00:00",
+  "lastUpdated": "2026-05-19T06:10:35.437811+00:00",
   "teams": [
     {
       "id": 132544,
@@ -241,7 +241,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 27752,
+              "steps": 29969,
               "activities": 20680,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/19/0_NWWZEWJGba_large.jpg",
               "activityTexts": [
@@ -508,8 +508,11 @@
           "username": "HOSAMI01",
           "dailyData": {
             "2026-05-18": {
-              "steps": 0,
-              "activities": 7650
+              "steps": 3539,
+              "activities": 7650,
+              "activityTexts": [
+                "45 minutes of Bicycling (moderate, 12-14mph/20-22k"
+              ]
             }
           },
           "memberId": 1456313
@@ -1574,7 +1577,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 18826,
+      "tally": 19466,
       "outOf": 199
     },
     "132609": {
@@ -1583,7 +1586,7 @@
       "outOf": 199
     },
     "132626": {
-      "position": 93,
+      "position": 94,
       "tally": 5421,
       "outOf": 199
     },
