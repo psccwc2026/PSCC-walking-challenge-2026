@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T03:40:15.045398+00:00",
+  "lastUpdated": "2026-05-19T03:45:12.505515+00:00",
   "teams": [
     {
       "id": 132544,
@@ -157,7 +157,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 16317,
+              "steps": 16754,
               "activities": 0
             }
           }
@@ -371,7 +371,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 7419,
+              "steps": 8127,
               "activities": 0
             }
           }
@@ -1018,7 +1018,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 4005,
+              "steps": 4654,
               "activities": 0
             }
           }
@@ -1505,7 +1505,7 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 5877,
-              "activities": 17055
+              "activities": 18885
             }
           }
         }
