@@ -108,13 +108,26 @@ tr:hover td{{background:#fafbfd}}
 .hist-controls{{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap;align-items:center}}
 .hist-controls select{{padding:5px 10px;border:1px solid #e2e8f0;border-radius:6px;font-size:13px;background:#fff;cursor:pointer}}
 .hist-controls label{{font-size:12px;color:#64748b}}
-.scroll-wrap{{overflow-x:auto}}
-.hist-table th{{font-size:10px;padding:5px 7px}}
-.hist-table td{{font-size:12px;padding:5px 7px}}
-.cell-hit{{background:#d1fae5;color:#065f46;font-weight:600;border-radius:3px;display:inline-block;padding:1px 4px;min-width:52px;text-align:right}}
-.cell-miss{{background:#fee2e2;color:#991b1b;border-radius:3px;display:inline-block;padding:1px 4px;min-width:52px;text-align:right}}
-.cell-zero{{color:#cbd5e1;display:inline-block;padding:1px 4px;min-width:52px;text-align:right}}
-.total-col{{font-weight:700;background:#f8fafc}}
+.scroll-wrap{{overflow-x:auto;border-radius:8px;border:1px solid #e2e8f0}}
+.hist-table{{border-collapse:separate;border-spacing:0}}
+.hist-table th{{font-size:10px;padding:5px 8px;white-space:nowrap;background:#f8fafc;position:sticky;top:0;z-index:2;border-bottom:2px solid #e2e8f0}}
+.hist-table td{{font-size:12px;padding:4px 8px;border-bottom:1px solid #f1f5f9;white-space:nowrap}}
+/* Sticky member # column */
+.hist-table th:nth-child(1),.hist-table td:nth-child(1){{position:sticky;left:0;z-index:3;background:#f8fafc;border-right:1px solid #e2e8f0;min-width:32px}}
+.hist-table td:nth-child(1){{background:#fff}}
+/* Sticky member name column */
+.hist-table th:nth-child(2),.hist-table td:nth-child(2){{position:sticky;left:32px;z-index:3;background:#f8fafc;border-right:1px solid #e2e8f0;min-width:160px}}
+.hist-table td:nth-child(2){{background:#fff}}
+/* Sticky team column */
+.hist-table th:nth-child(3),.hist-table td:nth-child(3){{position:sticky;left:192px;z-index:3;background:#f8fafc;border-right:2px solid #e2e8f0;min-width:110px}}
+.hist-table td:nth-child(3){{background:#fff}}
+.hist-table tr:hover td{{background:#fafbfd!important}}
+.hist-table th:nth-child(1){{z-index:4}}
+.cell-hit{{background:#d1fae5;color:#065f46;font-weight:600;border-radius:3px;display:inline-block;padding:1px 5px;min-width:46px;text-align:right}}
+.cell-miss{{background:#fee2e2;color:#991b1b;border-radius:3px;display:inline-block;padding:1px 5px;min-width:46px;text-align:right}}
+.cell-zero{{color:#cbd5e1;display:inline-block;padding:1px 5px;min-width:46px;text-align:center}}
+.total-col{{font-weight:700;background:#f8fafc!important;border-left:2px solid #e2e8f0;position:sticky;right:72px;z-index:2;text-align:right}}
+.avg-col{{background:#f8fafc!important;position:sticky;right:0;z-index:2;min-width:72px;text-align:right;border-left:1px solid #e2e8f0}}
 /* Expandable leaderboard rows */
 .expand-btn{{background:none;border:none;cursor:pointer;font-size:13px;color:#94a3b8;padding:2px 5px;border-radius:4px;transition:transform .2s,color .2s;margin-left:4px;vertical-align:middle}}
 .expand-btn:hover{{color:#3b82f6}}
@@ -500,7 +513,7 @@ function renderHistory() {{
   document.getElementById('histHead').innerHTML=`<tr>
     <th>#</th><th>Member</th><th>Team</th>
     ${{pastDays.map(d=>`<th title="${{new Date(d+'T12:00:00').toLocaleDateString('en-US',{{weekday:'long',month:'long',day:'numeric'}})}}">${{d.slice(5)}}</th>`).join('')}}
-    <th class="total-col">Total</th><th>Avg/Day</th>
+    <th class="total-col">Total</th><th class="avg-col">Avg/Day</th>
   </tr>`;
 
   // Body
@@ -520,7 +533,7 @@ function renderHistory() {{
       <td><span class="badge" style="background:${{row.cfg.color}}"></span>${{row.cfg.short}}</td>
       ${{cells}}
       <td class="total-col">${{fmt(row.tot.total)}}</td>
-      <td style="color:#64748b">${{fmt(row.tot.avg)}}</td>
+      <td class="avg-col" style="color:#64748b">${{fmt(row.tot.avg)}}</td>
     </tr>`;
   }}).join('');
 }}
