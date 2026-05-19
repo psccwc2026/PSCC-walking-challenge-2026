@@ -78,7 +78,10 @@ body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
 .rank{{font-size:16px;font-weight:800;width:26px;text-align:center;flex-shrink:0}}
 .dot{{width:11px;height:11px;border-radius:50%;flex-shrink:0}}
 .ti{{flex:1;min-width:0}}
-.ti .tn{{font-weight:600;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}
+.ti .tn{{font-weight:600;font-size:13px;display:flex;align-items:center;gap:5px;overflow:hidden}}
+.rank-badge{{display:inline-flex;align-items:center;gap:1px;background:#e0f2fe;color:#0369a1;font-size:10px;font-weight:700;padding:1px 5px;border-radius:20px;white-space:nowrap;flex-shrink:0}}
+.rank-badge .rank-sep{{color:#7dd3fc;margin:0 1px;font-weight:400}}
+.rank-badge-gray{{background:#f1f5f9;color:#64748b}}
 .ti .tm{{font-size:11px;color:#94a3b8}}
 .ti .bar-bg{{background:#f1f5f9;border-radius:2px;height:4px;margin-top:5px}}
 .ti .bar-fg{{height:4px;border-radius:2px}}
@@ -298,6 +301,7 @@ function init() {{
   document.getElementById('statDaysLeft').textContent=`${{dl}} day${{dl===1?'':'s'}} remaining`;
 
   // Team standings
+  const rankings=DATA.challengeRankings||{{}};
   const tStats=DATA.teams.map(team=>{{
     const cfg=teamCfg(team.id);
     return {{...teamTotal(team), cfg, team}};
@@ -306,11 +310,18 @@ function init() {{
   const medals=['🥇','🥈','🥉','4️⃣'];
   document.getElementById('teamStandings').innerHTML=tStats.map((t,i)=>{{
     const pct=Math.round(t.total/maxT*100);
+    const r=rankings[String(t.team.id)]||{{}};
+    const outOf=r.outOf||224;
+    const rankBadge=r.position
+      ? `<span class="rank-badge" title="Global challenge rank: #${{r.position}} out of ${{outOf}} teams">#${{r.position}}<span class="rank-sep">/</span>${{outOf}}</span>`
+      : (r.belowTop10
+          ? `<span class="rank-badge rank-badge-gray" title="Not yet in global top 10">top 10</span>`
+          : '');
     return `<div class="team-row">
       <div class="rank">${{medals[i]||i+1}}</div>
       <div class="dot" style="background:${{t.cfg.color}}"></div>
       <div class="ti">
-        <div class="tn" title="${{t.cfg.name}}">${{t.cfg.short}}</div>
+        <div class="tn" title="${{t.cfg.name}}">${{t.cfg.short}} ${{rankBadge}}</div>
         <div class="tm">${{t.mc}} members</div>
         <div class="bar-bg"><div class="bar-fg" style="width:${{pct}}%;background:${{t.cfg.color}}"></div></div>
       </div>
