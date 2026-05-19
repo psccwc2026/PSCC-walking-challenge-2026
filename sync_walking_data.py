@@ -125,7 +125,7 @@ def fetch_journal_data(token, start_date, end_date):
 
 
 CHALLENGE_ID    = 90886
-PROGRAM_TEAMS   = 224   # total teams enrolled in the program
+PROGRAM_TEAMS   = 199   # teams in "2026 Global Activity Challenge (Steps + Activities)"
 
 
 def fetch_challenge_rankings(token, existing_teams, challenge_start):
