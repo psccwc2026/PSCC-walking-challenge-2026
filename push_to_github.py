@@ -396,7 +396,10 @@ function renderDay(day) {{
     team.members.forEach(m=>{{
       const d=m.dailyData?.[day];
       const steps=d?.steps||0, acts=d?.activities||0;
-      rows.push({{name:m.name,cfg,steps,acts,total:steps+acts}});
+      rows.push({{name:m.name,cfg,steps,acts,total:steps+acts,
+        photo:d?.photo||'',
+        activityTexts:d?.activityTexts||[],
+        journalText:d?.journalText||''}});
     }});
   }});
   rows.sort((a,b)=>b.total-a.total);
@@ -411,15 +414,26 @@ function renderDay(day) {{
           const pct=Math.min(100,Math.round(r.total/DAILY_GOAL*100));
           const col=pct>=100?'#10b981':pct>=70?'#f97316':'#ef4444';
           const bp=Math.round(r.total/maxS*80);
+          const hasDetail=r.photo||r.activityTexts.length||r.journalText;
+          const expandBtn=hasDetail?`<button class="expand-btn" data-idx="d${{i}}" onclick="toggleExpand('d${{i}}')" title="Show activity details">▼</button>`:'';
+          const photoHtml=r.photo?`<img class="de-photo" src="${{r.photo}}" loading="lazy" onclick="openPhoto('${{r.photo}}')" title="Click to enlarge">`:'';
+          const actHtml=r.activityTexts.map(t=>`<div class="de-activity-text">🏃 ${{t}}</div>`).join('');
+          const jHtml=r.journalText?`<div class="de-activity-text" style="color:#64748b">💬 ${{r.journalText}}</div>`:'';
+          const expandRow=hasDetail?`<tr id="expand-d${{i}}" class="expand-row" style="display:none"><td colspan="7">
+            <div class="expand-inner" style="padding:10px 14px">
+              <div class="day-entry" style="max-width:100%">
+                ${{actHtml}}${{jHtml}}${{photoHtml}}
+              </div>
+            </div></td></tr>`:'';
           return `<tr>
             <td style="color:#94a3b8;font-weight:700">${{i+1}}</td>
-            <td><strong>${{r.name}}</strong></td>
+            <td><strong>${{r.name}}</strong>${{expandBtn}}</td>
             <td><span class="badge" style="background:${{r.cfg.color}}"></span>${{r.cfg.short}}</td>
             <td style="color:#64748b">${{fmt(r.steps)}}</td>
             <td style="color:#64748b">${{fmt(r.acts)}}</td>
             <td><strong>${{fmt(r.total)}}</strong> <span style="display:inline-block;vertical-align:middle;margin-left:4px;background:#f1f5f9;border-radius:2px;height:4px;width:${{bp}}px"></span></td>
             <td style="color:${{col}};font-weight:600">${{pct}}%</td>
-          </tr>`;
+          </tr>${{expandRow}}`;
         }}).join('')}}
       </tbody>
     </table>`;
