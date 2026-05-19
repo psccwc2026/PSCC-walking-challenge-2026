@@ -311,12 +311,10 @@ function init() {{
   document.getElementById('teamStandings').innerHTML=tStats.map((t,i)=>{{
     const pct=Math.round(t.total/maxT*100);
     const r=rankings[String(t.team.id)]||{{}};
-    const outOf=r.outOf||224;
+    const outOf=r.outOf||199;
     const rankBadge=r.position
-      ? `<span class="rank-badge" title="Global challenge rank: #${{r.position}} out of ${{outOf}} teams">#${{r.position}}<span class="rank-sep">/</span>${{outOf}}</span>`
-      : (r.belowTop10
-          ? `<span class="rank-badge rank-badge-gray" title="Not yet in global top 10">top 10</span>`
-          : '');
+      ? `<span class="rank-badge" title="Global challenge rank: #${{r.position}} out of ${{outOf}} teams">🌍 #${{r.position}}<span class="rank-sep">/</span>${{outOf}}</span>`
+      : '';
     return `<div class="team-row">
       <div class="rank">${{medals[i]||i+1}}</div>
       <div class="dot" style="background:${{t.cfg.color}}"></div>
