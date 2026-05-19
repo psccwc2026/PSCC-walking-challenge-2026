@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T14:40:30.324153+00:00",
+  "lastUpdated": "2026-05-19T14:45:43.766970+00:00",
   "teams": [
     {
       "id": 132544,
@@ -685,6 +685,10 @@
               "activityTexts": [
                 "30 minutes of Weight lifting"
               ]
+            },
+            "2026-05-19": {
+              "steps": 6846,
+              "activities": 0
             }
           },
           "memberId": 1456374
@@ -928,7 +932,12 @@
         {
           "name": "Srikanth Yeddanapudi",
           "username": "SRIYED02",
-          "dailyData": {},
+          "dailyData": {
+            "2026-05-18": {
+              "steps": 9403,
+              "activities": 0
+            }
+          },
           "memberId": 1456378
         }
       ]
@@ -1082,7 +1091,7 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 455,
+              "steps": 673,
               "activities": 0
             }
           },
@@ -1649,13 +1658,13 @@
       "outOf": 199
     },
     "132626": {
-      "position": 81,
-      "tally": 8106,
+      "position": 50,
+      "tally": 10427,
       "outOf": 199
     },
     "132610": {
-      "position": 145,
-      "tally": 4904,
+      "position": 144,
+      "tally": 4935,
       "outOf": 199
     }
   },
