@@ -373,13 +373,13 @@ function init() {{
       <td><span class="badge" style="background:${{m.cfg.color}}"></span>${{m.cfg.short}}</td>
       <td style="color:#64748b;font-size:12px">${{fmt(m.steps)}}</td>
       <td style="color:#64748b;font-size:12px">${{fmt(m.acts)}}</td>
-      <td>
-        <span style="display:inline-flex;align-items:center;gap:6px">
-          <span style="display:inline-block;background:#f1f5f9;border-radius:2px;height:5px;width:80px;overflow:hidden;flex-shrink:0">
-            <span style="display:block;background:${{m.cfg.color}};width:${{bp}}%;height:5px"></span>
-          </span>
-          <strong>${{fmt(m.total)}}</strong>
-        </span>
+      <td style="padding:0 10px">
+        <div style="display:flex;align-items:center;justify-content:flex-end;gap:6px">
+          <div style="width:80px;flex-shrink:0;background:#f1f5f9;border-radius:2px;height:5px;overflow:hidden">
+            <div style="background:${{m.cfg.color}};width:${{bp}}%;height:5px"></div>
+          </div>
+          <strong style="min-width:62px;text-align:right;display:inline-block">${{fmt(m.total)}}</strong>
+        </div>
       </td>
       <td>${{fmt(m.avg)}}</td>
       <td>${{m.days}}</td>
@@ -444,7 +444,7 @@ function renderDay(day) {{
             <td><span class="badge" style="background:${{r.cfg.color}}"></span>${{r.cfg.short}}</td>
             <td style="color:#64748b">${{fmt(r.steps)}}</td>
             <td style="color:#64748b">${{fmt(r.acts)}}</td>
-            <td><span style="display:inline-flex;align-items:center;gap:5px"><span style="display:inline-block;background:#f1f5f9;border-radius:2px;height:4px;width:60px;overflow:hidden;flex-shrink:0"><span style="display:block;background:${{r.cfg.color}};width:${{bp}}%;height:4px"></span></span><strong>${{fmt(r.total)}}</strong></span></td>
+            <td style="padding:0 10px"><div style="display:flex;align-items:center;justify-content:flex-end;gap:5px"><div style="width:60px;flex-shrink:0;background:#f1f5f9;border-radius:2px;height:4px;overflow:hidden"><div style="background:${{r.cfg.color}};width:${{bp}}%;height:4px"></div></div><strong style="min-width:62px;text-align:right;display:inline-block">${{fmt(r.total)}}</strong></div></td>
             <td style="color:${{col}};font-weight:600">${{pct}}%</td>
           </tr>${{expandRow}}`;
         }}).join('')}}
