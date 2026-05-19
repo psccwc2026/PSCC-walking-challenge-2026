@@ -124,6 +124,67 @@ def fetch_journal_data(token, start_date, end_date):
     return journal_lookup
 
 
+CHALLENGE_ID    = 90886
+PROGRAM_TEAMS   = 224   # total teams enrolled in the program
+
+
+def fetch_challenge_rankings(token, existing_teams, challenge_start):
+    """
+    Fetch the global challenge leaderboard (top-10) and return a dict:
+      { teamId: {"position": int, "tally": int, "outOf": int} }
+    For our teams not in the top-10, position is inferred by comparing
+    their computed tally against the bottom of the top-10.
+    Tally = (total_steps + total_activities) / num_members / days_elapsed.
+    """
+    headers = {**HEADERS_BASE, "Authorization": f"Bearer {token}"}
+    url = f"{API_BASE}/challenges/{CHALLENGE_ID}/leaderboard"
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        result = json.loads(resp.read())
+    top10 = result.get("data") or []
+
+    # Build a lookup from team ID to position/tally for the top-10
+    board = {e["id"]: {"position": e["position"], "tally": e["tally"]} for e in top10}
+    min_top10_tally = min((e["tally"] for e in top10), default=0)
+
+    # Compute each of our teams' tallies from the local data
+    today_date = date.today()
+    start = date.fromisoformat(challenge_start)
+    days_elapsed = max((today_date - start).days + 1, 1)
+
+    rankings = {}
+    for team in existing_teams:
+        tid = team["id"]
+        members = team.get("members", [])
+        num_members = len(members) or 1
+        total_steps = 0
+        total_activities = 0
+        for m in members:
+            for d_str, d_data in m.get("dailyData", {}).items():
+                if d_str >= challenge_start:
+                    total_steps     += d_data.get("steps", 0)
+                    total_activities += d_data.get("activities", 0)
+        computed_tally = (total_steps + total_activities) // num_members // days_elapsed
+
+        if tid in board:
+            rankings[tid] = {
+                "position": board[tid]["position"],
+                "tally":    board[tid]["tally"],
+                "outOf":    PROGRAM_TEAMS,
+            }
+        else:
+            # Estimate: below top-10, compare tally to bottom of top-10
+            # We don't know exact rank beyond 10, so infer ">10"
+            rankings[tid] = {
+                "position": None,   # unknown exact rank, but > 10
+                "tally":    computed_tally,
+                "outOf":    PROGRAM_TEAMS,
+                "belowTop10": True,
+            }
+
+    return rankings, top10
+
+
 def load_existing():
     if os.path.exists(DATA_FILE):
         try:
@@ -237,6 +298,23 @@ def main(start_date=None, end_date=None):
                         if j.get("journalText"):
                             day_data["journalText"] = j["journalText"]
         print(f" ✓ {len(journal_lookup)} entries ({photo_count} with photos)")
+    except Exception as e:
+        print(f" ✗ ERROR: {e}")
+
+    # Fetch global challenge rankings for all 4 teams
+    print("   Fetching global challenge rankings...", end="", flush=True)
+    try:
+        rankings, top10 = fetch_challenge_rankings(token, existing["teams"], CHALLENGE_START)
+        existing["challengeRankings"] = rankings
+        existing["challengeLeaderboardTop10"] = top10
+        ranked = [v for v in rankings.values() if v.get("position")]
+        print(f" ✓ {len(ranked)}/4 teams in top-10 leaderboard")
+        for team in existing["teams"]:
+            r = rankings.get(team["id"], {})
+            pos = r.get("position")
+            tally = r.get("tally", 0)
+            label = f"#{pos}" if pos else ">10"
+            print(f"      {team['name']}: {label} / {PROGRAM_TEAMS} (tally={tally})")
     except Exception as e:
         print(f" ✗ ERROR: {e}")
 
