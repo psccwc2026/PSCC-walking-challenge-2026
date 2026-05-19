@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T03:15:14.639608+00:00",
+  "lastUpdated": "2026-05-19T03:20:43.901001+00:00",
   "teams": [
     {
       "id": 132544,
@@ -235,8 +235,8 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 26419,
-              "activities": 0
+              "steps": 26844,
+              "activities": 20680
             }
           }
         },
@@ -309,7 +309,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 5649,
+              "steps": 5717,
               "activities": 13650
             }
           }
@@ -646,8 +646,8 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 16414,
-              "activities": 0
+              "steps": 16974,
+              "activities": 3000
             }
           }
         },
