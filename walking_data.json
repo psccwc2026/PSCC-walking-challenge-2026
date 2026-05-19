@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T05:16:15.832824+00:00",
+  "lastUpdated": "2026-05-19T05:18:31.054784+00:00",
   "teams": [
     {
       "id": 132544,
@@ -241,7 +241,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 27073,
+              "steps": 27499,
               "activities": 20680,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/19/0_NWWZEWJGba_large.jpg",
               "activityTexts": [
@@ -1570,25 +1570,25 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 18743,
-      "outOf": 224
+      "tally": 18791,
+      "outOf": 199
     },
     "132626": {
       "position": null,
       "tally": 2710,
-      "outOf": 224,
+      "outOf": 199,
       "belowTop10": true
     },
     "132610": {
       "position": null,
       "tally": 1196,
-      "outOf": 224,
+      "outOf": 199,
       "belowTop10": true
     },
     "132609": {
       "position": 9,
       "tally": 12295,
-      "outOf": 224
+      "outOf": 199
     }
   },
   "challengeLeaderboardTop10": [
@@ -1603,7 +1603,7 @@
       "id": 132544,
       "teamName": "Accounting Walkaholics",
       "avatar": "https://cdn.tbybewell.com/prod/team-logos/132544.png",
-      "tally": 18743,
+      "tally": 18791,
       "position": 2
     },
     {
@@ -1617,7 +1617,7 @@
       "id": 132474,
       "teamName": "The Halfletics",
       "avatar": "https://cdn.tbybewell.com/prod/team-logos/132474.png",
-      "tally": 14155,
+      "tally": 14314,
       "position": 4
     },
     {
