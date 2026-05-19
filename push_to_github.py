@@ -398,7 +398,7 @@ function init() {{
       <td>${{m.days}}</td>
       <td>${{m.goalDays}}</td>
     </tr>
-    ${{hasData?`<tr id="expand-${{i}}" class="expand-row" style="display:none"><td colspan="9"><div class="expand-inner">${{dayEntries}}</div></td></tr>`:''}}`;
+    ${{hasData?`<tr id="expand-${{i}}" class="expand-row" style="display:none"><td colspan="9"><div style="overflow-x:auto;-webkit-overflow-scrolling:touch"><div class="expand-inner" style="flex-wrap:nowrap">${{dayEntries}}</div></div></td></tr>`:''}}`;
   }}).join('');
 
   // Day selector
