@@ -339,8 +339,8 @@ function init() {{
         <div class="bar-bg"><div class="bar-fg" style="width:${{pct}}%;background:${{t.cfg.color}}"></div></div>
       </div>
       <div class="ts">
-        <div class="steps">${{fmt(t.avg)}}</div>
-        <div class="avg">avg/member · ${{fmt(t.total)}} total</div>
+        <div class="steps">${{fmt(t.avg)}} <span style="font-size:11px;font-weight:400;color:#94a3b8">avg/member</span></div>
+        <div class="avg">${{fmt(t.total)}} total steps</div>
       </div>
     </div>`;
   }}).join('');
