@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T19:12:51.940525+00:00",
+  "lastUpdated": "2026-05-19T19:15:42.747681+00:00",
   "teams": [
     {
       "id": 132544,
@@ -482,12 +482,7 @@
             },
             "2026-05-18": {
               "steps": 8503,
-              "activities": 7435,
-              "activityTexts": [
-                "15 minutes of Circuit training",
-                "10 minutes of Jumping Rope, moderate",
-                "15 minutes of Bicycling (leisurely, < 12mph/20kph)"
-              ]
+              "activities": 7435
             },
             "2026-05-19": {
               "steps": 3710,
@@ -1633,10 +1628,7 @@
             },
             "2026-05-18": {
               "steps": 11937,
-              "activities": 2250,
-              "activityTexts": [
-                "50 minutes of Yoga"
-              ]
+              "activities": 2250
             }
           },
           "memberId": 1456298
@@ -1697,8 +1689,13 @@
       "outOf": 199
     },
     "132626": {
-      "position": 45,
+      "position": 46,
       "tally": 12863,
+      "outOf": 199
+    },
+    "132610": {
+      "position": 155,
+      "tally": 5347,
       "outOf": 199
     }
   },
