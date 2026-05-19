@@ -320,11 +320,11 @@ function init() {{
   const tStats=DATA.teams.map(team=>{{
     const cfg=teamCfg(team.id);
     return {{...teamTotal(team), cfg, team}};
-  }}).sort((a,b)=>b.total-a.total);
-  const maxT=tStats[0]?.total||1;
+  }}).sort((a,b)=>b.avg-a.avg);
+  const maxT=tStats[0]?.avg||1;
   const medals=['🥇','🥈','🥉','4️⃣'];
   document.getElementById('teamStandings').innerHTML=tStats.map((t,i)=>{{
-    const pct=Math.round(t.total/maxT*100);
+    const pct=Math.round(t.avg/maxT*100);
     const r=rankings[String(t.team.id)]||{{}};
     const outOf=r.outOf||199;
     const rankBadge=r.position
@@ -339,8 +339,8 @@ function init() {{
         <div class="bar-bg"><div class="bar-fg" style="width:${{pct}}%;background:${{t.cfg.color}}"></div></div>
       </div>
       <div class="ts">
-        <div class="steps">${{fmt(t.total)}}</div>
-        <div class="avg">${{fmt(t.avg)}} avg/member</div>
+        <div class="steps">${{fmt(t.avg)}}</div>
+        <div class="avg">avg/member · ${{fmt(t.total)}} total</div>
       </div>
     </div>`;
   }}).join('');
