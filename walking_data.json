@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T05:15:05.195538+00:00",
+  "lastUpdated": "2026-05-19T05:15:21.953983+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1565,102 +1565,6 @@
           "memberId": 1456304
         }
       ]
-    }
-  ],
-  "challengeRankings": {
-    "132544": {
-      "position": 2,
-      "tally": 18743,
-      "outOf": 224
-    },
-    "132626": {
-      "position": null,
-      "tally": 2710,
-      "outOf": 224,
-      "belowTop10": true
-    },
-    "132610": {
-      "position": null,
-      "tally": 1196,
-      "outOf": 224,
-      "belowTop10": true
-    },
-    "132609": {
-      "position": 9,
-      "tally": 12295,
-      "outOf": 224
-    }
-  },
-  "challengeLeaderboardTop10": [
-    {
-      "id": 132509,
-      "teamName": "Kindred Soles - 2026",
-      "avatar": "https://cdn.tbybewell.com/prod/team-logos/132509.jpg",
-      "tally": 24478,
-      "position": 1
-    },
-    {
-      "id": 132544,
-      "teamName": "Accounting Walkaholics",
-      "avatar": "https://cdn.tbybewell.com/prod/team-logos/132544.png",
-      "tally": 18743,
-      "position": 2
-    },
-    {
-      "id": 132531,
-      "teamName": "Les Petites Francaises",
-      "avatar": "https://cdn.tbybewell.com/prod/team-logos/132531.png",
-      "tally": 15321,
-      "position": 3
-    },
-    {
-      "id": 132474,
-      "teamName": "The Halfletics",
-      "avatar": "https://cdn.tbybewell.com/prod/team-logos/132474.png",
-      "tally": 14155,
-      "position": 4
-    },
-    {
-      "id": 132374,
-      "teamName": "the rACEers",
-      "avatar": "https://cdn.tbybewell.com/images/defaultTeamLogos020-lion.png",
-      "tally": 13487,
-      "position": 5
-    },
-    {
-      "id": 132655,
-      "teamName": "Walk the Dog 26",
-      "avatar": "https://cdn.tbybewell.com/images/defaultTeamLogos005-maple-leaf.png",
-      "tally": 12910,
-      "position": 6
-    },
-    {
-      "id": 132905,
-      "teamName": "UlmStriders",
-      "avatar": "https://cdn.tbybewell.com/images/defaultTeamLogos020-paper-plane.png",
-      "tally": 12404,
-      "position": 7
-    },
-    {
-      "id": 132475,
-      "teamName": "Tech Babes",
-      "avatar": "https://cdn.tbybewell.com/prod/team-logos/132475.png",
-      "tally": 12395,
-      "position": 8
-    },
-    {
-      "id": 132609,
-      "teamName": "Fast and Fully Compliant",
-      "avatar": "https://cdn.tbybewell.com/prod/team-logos/132609.png",
-      "tally": 12295,
-      "position": 9
-    },
-    {
-      "id": 132425,
-      "teamName": "LappingLaptops",
-      "avatar": "https://cdn.tbybewell.com/prod/team-logos/132425.png",
-      "tally": 12067,
-      "position": 10
     }
   ]
 }
