@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T13:15:30.006762+00:00",
+  "lastUpdated": "2026-05-19T13:20:30.342039+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1594,8 +1594,12 @@
           "username": "sugarpickles",
           "dailyData": {
             "2026-05-18": {
-              "steps": 5877,
+              "steps": 5972,
               "activities": 18885
+            },
+            "2026-05-19": {
+              "steps": 306,
+              "activities": 0
             }
           },
           "memberId": 1456304
@@ -1611,7 +1615,7 @@
     },
     "132609": {
       "position": 7,
-      "tally": 17893,
+      "tally": 17905,
       "outOf": 199
     },
     "132626": {
@@ -1620,7 +1624,7 @@
       "outOf": 199
     },
     "132610": {
-      "position": 133,
+      "position": 134,
       "tally": 4835,
       "outOf": 199
     }
