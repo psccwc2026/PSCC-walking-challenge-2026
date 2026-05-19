@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T19:10:06.939057+00:00",
+  "lastUpdated": "2026-05-19T19:10:28.795895+00:00",
   "teams": [
     {
       "id": 132544,
@@ -482,12 +482,7 @@
             },
             "2026-05-18": {
               "steps": 8503,
-              "activities": 7435,
-              "activityTexts": [
-                "15 minutes of Circuit training",
-                "10 minutes of Jumping Rope, moderate",
-                "15 minutes of Bicycling (leisurely, < 12mph/20kph)"
-              ]
+              "activities": 7435
             },
             "2026-05-19": {
               "steps": 3710,
@@ -537,10 +532,7 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 3539,
-              "activities": 7650,
-              "activityTexts": [
-                "45 minutes of Bicycling (moderate, 12-14mph/20-22k"
-              ]
+              "activities": 7650
             }
           },
           "memberId": 1456313
@@ -921,10 +913,7 @@
             },
             "2026-05-18": {
               "steps": 2626,
-              "activities": 14340,
-              "activityTexts": [
-                "60 minutes of HIIT (High intensity interval traini"
-              ]
+              "activities": 14340
             },
             "2026-05-19": {
               "steps": 551,
@@ -1168,11 +1157,7 @@
             },
             "2026-05-18": {
               "steps": 1575,
-              "activities": 5400,
-              "activityTexts": [
-                "15 minutes of Body Weight Exercises (Squats, etc) ",
-                "30 minutes of Bicycling (leisurely, < 12mph/20kph)"
-              ]
+              "activities": 5400
             }
           },
           "memberId": 1456294
@@ -1643,10 +1628,7 @@
             },
             "2026-05-18": {
               "steps": 11937,
-              "activities": 2250,
-              "activityTexts": [
-                "50 minutes of Yoga"
-              ]
+              "activities": 2250
             }
           },
           "memberId": 1456298
@@ -1680,12 +1662,7 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 5972,
-              "activities": 18885,
-              "activityTexts": [
-                "31 minutes of Walking, brisk",
-                "69 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
-                "30 minutes of Walking, stroll"
-              ]
+              "activities": 18885
             },
             "2026-05-19": {
               "steps": 4792,
