@@ -256,13 +256,16 @@ function allDays() {{
   while(d<=end){{ days.push(d.toISOString().split('T')[0]); d.setDate(d.getDate()+1); }}
   return days;
 }}
-function todayStr() {{ return new Date().toISOString().split('T')[0]; }}
+function todayStr() {{
+  const d=new Date();
+  return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+}}
 function challengeDay() {{
-  const diff=Math.floor((new Date(todayStr())-new Date(CHALLENGE_START+'T00:00:00'))/86400000)+1;
+  const diff=Math.floor((new Date(todayStr()+'T00:00:00')-new Date(CHALLENGE_START+'T00:00:00'))/86400000)+1;
   return Math.max(1,Math.min(diff,29));
 }}
 function daysLeft() {{
-  const diff=Math.floor((new Date(CHALLENGE_END+'T00:00:00')-new Date(todayStr()))/86400000);
+  const diff=Math.floor((new Date(CHALLENGE_END+'T00:00:00')-new Date(todayStr()+'T00:00:00'))/86400000);
   return Math.max(0,diff);
 }}
 function memberTotal(m) {{
