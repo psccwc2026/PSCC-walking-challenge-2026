@@ -94,6 +94,8 @@ body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
 table{{width:100%;border-collapse:collapse}}
 th{{font-size:11px;color:#94a3b8;text-transform:uppercase;letter-spacing:.4px;padding:7px 10px;text-align:left;border-bottom:1px solid #e2e8f0;white-space:nowrap}}
 td{{padding:8px 10px;font-size:13px;border-bottom:1px solid #f8fafc;white-space:nowrap}}
+/* Right-align numeric columns (Steps, Activity Steps, Total Steps, Daily Avg, Active Days, Goal Hit Days) */
+th:nth-child(n+4),td:nth-child(n+4){{text-align:right}}
 tr:last-child td{{border-bottom:none}}
 tr:hover td{{background:#fafbfd}}
 .badge{{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;vertical-align:middle}}
