@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T18:30:36.790848+00:00",
+  "lastUpdated": "2026-05-19T18:35:25.538637+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1031,7 +1031,11 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 10992,
+              "steps": 11176,
+              "activities": 0
+            },
+            "2026-05-19": {
+              "steps": 1394,
               "activities": 0
             }
           },
@@ -1498,7 +1502,7 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 2252,
+              "steps": 2698,
               "activities": 0
             }
           },
@@ -1661,7 +1665,7 @@
               "activities": 18885
             },
             "2026-05-19": {
-              "steps": 840,
+              "steps": 4222,
               "activities": 8400,
               "activityTexts": [
                 "42 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
@@ -1675,23 +1679,23 @@
   ],
   "challengeRankings": {
     "132544": {
-      "position": 4,
+      "position": 5,
       "tally": 24919,
       "outOf": 199
     },
     "132609": {
       "position": 8,
-      "tally": 22591,
+      "tally": 23070,
       "outOf": 199
     },
     "132626": {
-      "position": 42,
+      "position": 43,
       "tally": 12863,
       "outOf": 199
     },
     "132610": {
-      "position": 159,
-      "tally": 5122,
+      "position": 155,
+      "tally": 5347,
       "outOf": 199
     }
   },
