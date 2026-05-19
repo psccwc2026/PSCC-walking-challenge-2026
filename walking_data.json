@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T04:00:24.593990+00:00",
+  "lastUpdated": "2026-05-19T04:19:10.972594+00:00",
   "teams": [
     {
       "id": 132544,
@@ -80,9 +80,14 @@
             },
             "2026-05-18": {
               "steps": 15956,
-              "activities": 13750
+              "activities": 13750,
+              "activityTexts": [
+                "45 minutes of Cricket",
+                "79 minutes of Body Weight Exercises (Squats, etc) "
+              ]
             }
-          }
+          },
+          "memberId": 1453382
         },
         {
           "name": "Achal Pande",
@@ -157,10 +162,11 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 16754,
+              "steps": 18253,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1453442
         },
         {
           "name": "Sravan Paruchuri",
@@ -236,9 +242,14 @@
             },
             "2026-05-18": {
               "steps": 26966,
-              "activities": 20680
+              "activities": 20680,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/19/0_NWWZEWJGba_large.jpg",
+              "activityTexts": [
+                "94 minutes of Swimming hard"
+              ]
             }
-          }
+          },
+          "memberId": 1456064
         },
         {
           "name": "SANTANU BANERJEE",
@@ -312,7 +323,8 @@
               "steps": 6558,
               "activities": 13650
             }
-          }
+          },
+          "memberId": 1453462
         },
         {
           "name": "Nadeem Aslam",
@@ -374,7 +386,8 @@
               "steps": 8127,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1453439
         },
         {
           "name": "Prem Piskala",
@@ -409,10 +422,11 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 4076,
+              "steps": 6588,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456310
         },
         {
           "name": "Ramiza Khan",
@@ -448,9 +462,15 @@
             },
             "2026-05-18": {
               "steps": 8420,
-              "activities": 7435
+              "activities": 7435,
+              "activityTexts": [
+                "15 minutes of Circuit training",
+                "10 minutes of Jumping Rope, moderate",
+                "15 minutes of Bicycling (leisurely, < 12mph/20kph)"
+              ]
             }
-          }
+          },
+          "memberId": 1460532
         },
         {
           "name": "Praveen Bhaskar",
@@ -480,7 +500,8 @@
               "steps": 11666,
               "activities": 2000
             }
-          }
+          },
+          "memberId": 1453636
         },
         {
           "name": "Hossain Amirizadeh",
@@ -490,7 +511,8 @@
               "steps": 0,
               "activities": 7650
             }
-          }
+          },
+          "memberId": 1456313
         }
       ]
     },
@@ -571,7 +593,8 @@
               "steps": 20117,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456296
         },
         {
           "name": "Ramkumar Nagendran",
@@ -647,9 +670,13 @@
             },
             "2026-05-18": {
               "steps": 16974,
-              "activities": 3000
+              "activities": 3000,
+              "activityTexts": [
+                "30 minutes of Weight lifting"
+              ]
             }
-          }
+          },
+          "memberId": 1456374
         },
         {
           "name": "Praveen Lethakula",
@@ -711,7 +738,8 @@
               "steps": 2433,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456289
         },
         {
           "name": "Priyanka Reddy",
@@ -777,7 +805,8 @@
               "steps": 1336,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456435
         },
         {
           "name": "Satish Gudavalli",
@@ -841,9 +870,13 @@
             },
             "2026-05-18": {
               "steps": 2625,
-              "activities": 14340
+              "activities": 14340,
+              "activityTexts": [
+                "60 minutes of HIIT (High intensity interval traini"
+              ]
             }
-          }
+          },
+          "memberId": 1456373
         },
         {
           "name": "Ramesh Ramasamy",
@@ -865,12 +898,14 @@
               "steps": 1012,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1460585
         },
         {
           "name": "Srikanth Yeddanapudi",
           "username": "SRIYED02",
-          "dailyData": {}
+          "dailyData": {},
+          "memberId": 1456378
         }
       ]
     },
@@ -940,10 +975,11 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 10668,
+              "steps": 10992,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456295
         },
         {
           "name": "Stephanie Navarrete",
@@ -1018,10 +1054,11 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 4662,
+              "steps": 4714,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456173
         },
         {
           "name": "Raju Dola",
@@ -1043,7 +1080,8 @@
               "steps": 870,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456293
         },
         {
           "name": "Sainath Kala",
@@ -1053,22 +1091,26 @@
               "steps": 0,
               "activities": 3900
             }
-          }
+          },
+          "memberId": 1456294
         },
         {
           "name": "Bhavan Adavikolanu",
           "username": "bhaada02",
-          "dailyData": {}
+          "dailyData": {},
+          "memberId": 1452087
         },
         {
           "name": "Siddhartha Natuva",
           "username": "sidnat01",
-          "dailyData": {}
+          "dailyData": {},
+          "memberId": 1461341
         },
         {
           "name": "SriB Chennapragada",
           "username": "srib16",
-          "dailyData": {}
+          "dailyData": {},
+          "memberId": 1456290
         }
       ]
     },
@@ -1153,7 +1195,8 @@
               "steps": 18312,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456303
         },
         {
           "name": "Michelle Huey",
@@ -1223,7 +1266,8 @@
               "steps": 5311,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456301
         },
         {
           "name": "Lally Reyes",
@@ -1301,7 +1345,8 @@
               "steps": 1194,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456302
         },
         {
           "name": "Barbara Nelson",
@@ -1371,7 +1416,8 @@
               "steps": 9053,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1452695
         },
         {
           "name": "Chaitanya V",
@@ -1449,7 +1495,8 @@
               "steps": 13818,
               "activities": 14964
             }
-          }
+          },
+          "memberId": 1456292
         },
         {
           "name": "Sreeni Jampana",
@@ -1479,7 +1526,8 @@
               "steps": 11569,
               "activities": 0
             }
-          }
+          },
+          "memberId": 1456298
         },
         {
           "name": "Ameya Sule",
@@ -1497,7 +1545,8 @@
               "steps": 7407,
               "activities": 2025
             }
-          }
+          },
+          "memberId": 1456306
         },
         {
           "name": "Carrie Vallone",
@@ -1505,9 +1554,15 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 5877,
-              "activities": 18885
+              "activities": 18885,
+              "activityTexts": [
+                "31 minutes of Walking, brisk",
+                "69 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
+                "30 minutes of Walking, stroll"
+              ]
             }
-          }
+          },
+          "memberId": 1456304
         }
       ]
     }
