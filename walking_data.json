@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T13:25:26.299178+00:00",
+  "lastUpdated": "2026-05-19T13:30:36.840577+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1225,7 +1225,7 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 1359,
+              "steps": 2560,
               "activities": 0
             }
           },
@@ -1602,7 +1602,7 @@
             },
             "2026-05-19": {
               "steps": 61,
-              "activities": 0
+              "activities": 2025
             }
           },
           "memberId": 1456306
@@ -1633,16 +1633,16 @@
     },
     "132609": {
       "position": 6,
-      "tally": 19747,
+      "tally": 20045,
       "outOf": 199
     },
     "132626": {
-      "position": 124,
+      "position": 125,
       "tally": 5591,
       "outOf": 199
     },
     "132610": {
-      "position": 136,
+      "position": 137,
       "tally": 4835,
       "outOf": 199
     }
