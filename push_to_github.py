@@ -440,14 +440,17 @@ function renderDay(day) {{
           const pct=Math.min(100,Math.round(r.total/DAILY_GOAL*100));
           const col=pct>=100?'#10b981':pct>=70?'#f97316':'#ef4444';
           const bp=Math.round(r.total/maxS*100);
-          const hasDetail=r.photo||r.activityTexts.length||r.journalText;
+          const hasDetail=r.acts>0||r.photo||r.activityTexts.length||r.journalText;
           const expandBtn=hasDetail?`<button class="expand-btn" data-idx="d${{i}}" onclick="toggleExpand('d${{i}}')" title="Show activity details">▼</button>`:'';
           const photoHtml=r.photo?`<img class="de-photo" src="${{r.photo}}" loading="lazy" onclick="openPhoto('${{r.photo}}')" title="Click to enlarge">`:'';
           const actHtml=r.activityTexts.map(t=>`<div class="de-activity-text">🏃 ${{t}}</div>`).join('');
           const jHtml=r.journalText?`<div class="de-activity-text" style="color:#64748b">💬 ${{r.journalText}}</div>`:'';
           const expandRow=hasDetail?`<tr id="expand-d${{i}}" class="expand-row" style="display:none"><td colspan="7">
             <div class="expand-inner" style="padding:10px 14px">
-              <div class="day-entry" style="max-width:100%">
+              <div class="day-entry">
+                <div class="de-total" style="color:${{pct>=100?'#10b981':'#1e293b'}}">${{fmt(r.total)}}</div>
+                <div class="de-steps">👟 ${{fmt(r.steps)}} steps</div>
+                ${{r.acts>0?`<div class="de-acts">⚡ ${{fmt(r.acts)}} activity</div>`:''}}
                 ${{actHtml}}${{jHtml}}${{photoHtml}}
               </div>
             </div></td></tr>`:'';
@@ -657,6 +660,14 @@ def main():
         json_content = f.read()
     _push_file("walking_data.json", json_content.encode("utf-8"))
     print("   walking_data.json synced to repo")
+
+    # Keep Python scripts in sync so GitHub Actions always runs the latest version
+    for script_name in ("push_to_github.py", "sync_walking_data.py"):
+        script_path = os.path.join(WORKSPACE, script_name)
+        if os.path.exists(script_path):
+            with open(script_path, "rb") as f:
+                _push_file(script_name, f.read(), message=f"Auto-sync {script_name}")
+    print("   push_to_github.py + sync_walking_data.py synced to repo")
 
     print(f"\n✅ Live at: {PAGES_URL}")
     print("   (GitHub Pages may take ~60 seconds to refresh after first publish)")
