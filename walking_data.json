@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T17:30:29.835876+00:00",
+  "lastUpdated": "2026-05-19T17:35:35.499188+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1675,7 +1675,7 @@
   ],
   "challengeRankings": {
     "132544": {
-      "position": 4,
+      "position": 5,
       "tally": 23683,
       "outOf": 199
     },
