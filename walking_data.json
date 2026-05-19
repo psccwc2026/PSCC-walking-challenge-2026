@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T22:35:35.695585+00:00",
+  "lastUpdated": "2026-05-19T22:40:51.573453+00:00",
   "teams": [
     {
       "id": 132544,
@@ -707,7 +707,7 @@
               ]
             },
             "2026-05-19": {
-              "steps": 12325,
+              "steps": 12479,
               "activities": 3000,
               "activityTexts": [
                 "30 minutes of Weight lifting"
@@ -1195,7 +1195,7 @@
           "username": "sidnat01",
           "dailyData": {
             "2026-05-19": {
-              "steps": 3015,
+              "steps": 4093,
               "activities": 0
             },
             "2026-05-18": {
@@ -1720,12 +1720,12 @@
     },
     "132626": {
       "position": 43,
-      "tally": 14021,
+      "tally": 14043,
       "outOf": 199
     },
     "132610": {
       "position": 152,
-      "tally": 6271,
+      "tally": 6289,
       "outOf": 199
     }
   },
