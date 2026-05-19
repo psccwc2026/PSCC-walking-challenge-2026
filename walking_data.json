@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T07:30:26.511843+00:00",
+  "lastUpdated": "2026-05-19T07:35:25.170167+00:00",
   "teams": [
     {
       "id": 132544,
@@ -509,10 +509,7 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 3539,
-              "activities": 7650,
-              "activityTexts": [
-                "45 minutes of Bicycling (moderate, 12-14mph/20-22k"
-              ]
+              "activities": 7650
             }
           },
           "memberId": 1456313
@@ -1350,7 +1347,7 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 1194,
+              "steps": 1949,
               "activities": 0
             }
           },
@@ -1582,8 +1579,8 @@
       "outOf": 199
     },
     "132609": {
-      "position": 16,
-      "tally": 12295,
+      "position": 15,
+      "tally": 12390,
       "outOf": 199
     },
     "132626": {
