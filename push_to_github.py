@@ -374,9 +374,11 @@ function init() {{
       <td style="color:#64748b;font-size:12px">${{fmt(m.steps)}}</td>
       <td style="color:#64748b;font-size:12px">${{fmt(m.acts)}}</td>
       <td>
-        <strong>${{fmt(m.total)}}</strong>
-        <span style="display:inline-block;vertical-align:middle;margin-left:6px;background:#f1f5f9;border-radius:2px;height:5px;width:80px;overflow:hidden">
-          <span style="display:block;background:${{m.cfg.color}};width:${{bp}}%;height:5px"></span>
+        <span style="display:inline-flex;align-items:center;gap:6px">
+          <span style="display:inline-block;background:#f1f5f9;border-radius:2px;height:5px;width:80px;overflow:hidden;flex-shrink:0">
+            <span style="display:block;background:${{m.cfg.color}};width:${{bp}}%;height:5px"></span>
+          </span>
+          <strong>${{fmt(m.total)}}</strong>
         </span>
       </td>
       <td>${{fmt(m.avg)}}</td>
@@ -424,7 +426,7 @@ function renderDay(day) {{
         ${{rows.map((r,i)=>{{
           const pct=Math.min(100,Math.round(r.total/DAILY_GOAL*100));
           const col=pct>=100?'#10b981':pct>=70?'#f97316':'#ef4444';
-          const bp=Math.round(r.total/maxS*80);
+          const bp=Math.round(r.total/maxS*100);
           const hasDetail=r.photo||r.activityTexts.length||r.journalText;
           const expandBtn=hasDetail?`<button class="expand-btn" data-idx="d${{i}}" onclick="toggleExpand('d${{i}}')" title="Show activity details">▼</button>`:'';
           const photoHtml=r.photo?`<img class="de-photo" src="${{r.photo}}" loading="lazy" onclick="openPhoto('${{r.photo}}')" title="Click to enlarge">`:'';
@@ -442,7 +444,7 @@ function renderDay(day) {{
             <td><span class="badge" style="background:${{r.cfg.color}}"></span>${{r.cfg.short}}</td>
             <td style="color:#64748b">${{fmt(r.steps)}}</td>
             <td style="color:#64748b">${{fmt(r.acts)}}</td>
-            <td><strong>${{fmt(r.total)}}</strong> <span style="display:inline-block;vertical-align:middle;margin-left:4px;background:#f1f5f9;border-radius:2px;height:4px;width:${{bp}}px"></span></td>
+            <td><span style="display:inline-flex;align-items:center;gap:5px"><span style="display:inline-block;background:#f1f5f9;border-radius:2px;height:4px;width:60px;overflow:hidden;flex-shrink:0"><span style="display:block;background:${{r.cfg.color}};width:${{bp}}%;height:4px"></span></span><strong>${{fmt(r.total)}}</strong></span></td>
             <td style="color:${{col}};font-weight:600">${{pct}}%</td>
           </tr>${{expandRow}}`;
         }}).join('')}}
