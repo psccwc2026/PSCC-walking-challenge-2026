@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T05:45:24.495676+00:00",
+  "lastUpdated": "2026-05-19T05:50:23.918802+00:00",
   "teams": [
     {
       "id": 132544,
@@ -241,7 +241,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 27499,
+              "steps": 27752,
               "activities": 20680,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/19/0_NWWZEWJGba_large.jpg",
               "activityTexts": [
@@ -383,7 +383,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 8127,
+              "steps": 8132,
               "activities": 0
             }
           },
@@ -461,7 +461,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 8420,
+              "steps": 8481,
               "activities": 7435,
               "activityTexts": [
                 "15 minutes of Circuit training",
@@ -1574,11 +1574,11 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 18791,
+      "tally": 18826,
       "outOf": 199
     },
     "132609": {
-      "position": 10,
+      "position": 11,
       "tally": 12295,
       "outOf": 199
     },
