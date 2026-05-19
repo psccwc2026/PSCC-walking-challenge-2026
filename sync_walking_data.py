@@ -128,61 +128,49 @@ CHALLENGE_ID    = 90886
 PROGRAM_TEAMS   = 199   # teams in "2026 Global Activity Challenge (Steps + Activities)"
 
 
-def fetch_challenge_rankings(token, existing_teams, challenge_start):
+def fetch_challenge_rankings(token):
     """
-    Fetch the global challenge leaderboard (top-10) and return a dict:
-      { teamId: {"position": int, "tally": int, "outOf": int} }
-    For our teams not in the top-10, position is inferred by comparing
-    their computed tally against the bottom of the top-10.
-    Tally = (total_steps + total_activities) / num_members / days_elapsed.
+    Fetch the full paginated global challenge leaderboard and return:
+      rankings: { teamId: {"position": int, "tally": int, "outOf": int} }
+      total:    int  (total teams in challenge)
+    Uses paginated=1 to get proper page-by-page results (199 teams, 20 pages).
     """
     headers = {**HEADERS_BASE, "Authorization": f"Bearer {token}"}
-    url = f"{API_BASE}/challenges/{CHALLENGE_ID}/leaderboard"
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        result = json.loads(resp.read())
-    top10 = result.get("data") or []
-
-    # Build a lookup from team ID to position/tally for the top-10
-    board = {e["id"]: {"position": e["position"], "tally": e["tally"]} for e in top10}
-    min_top10_tally = min((e["tally"] for e in top10), default=0)
-
-    # Compute each of our teams' tallies from the local data
-    today_date = date.today()
-    start = date.fromisoformat(challenge_start)
-    days_elapsed = max((today_date - start).days + 1, 1)
-
+    OUR_TEAM_IDS = {t["id"] for t in TEAMS}
     rankings = {}
-    for team in existing_teams:
-        tid = team["id"]
-        members = team.get("members", [])
-        num_members = len(members) or 1
-        total_steps = 0
-        total_activities = 0
-        for m in members:
-            for d_str, d_data in m.get("dailyData", {}).items():
-                if d_str >= challenge_start:
-                    total_steps     += d_data.get("steps", 0)
-                    total_activities += d_data.get("activities", 0)
-        computed_tally = (total_steps + total_activities) // num_members // days_elapsed
+    total = PROGRAM_TEAMS
 
-        if tid in board:
-            rankings[tid] = {
-                "position": board[tid]["position"],
-                "tally":    board[tid]["tally"],
-                "outOf":    PROGRAM_TEAMS,
-            }
-        else:
-            # Estimate: below top-10, compare tally to bottom of top-10
-            # We don't know exact rank beyond 10, so infer ">10"
-            rankings[tid] = {
-                "position": None,   # unknown exact rank, but > 10
-                "tally":    computed_tally,
-                "outOf":    PROGRAM_TEAMS,
-                "belowTop10": True,
-            }
+    for page in range(1, 25):
+        params = urllib.parse.urlencode({
+            "page": str(page), "perPage": "10",
+            "paginated": "1", "showUserPage": "0", "organizationLeaderboard": "0",
+        })
+        url = f"{API_BASE}/challenges/{CHALLENGE_ID}/leaderboard?{params}"
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            result = json.loads(resp.read())
 
-    return rankings, top10
+        inner      = result.get("data", {})
+        entries    = inner.get("data", []) if isinstance(inner, dict) else []
+        pagination = inner.get("pagination", {}) if isinstance(inner, dict) else {}
+        total      = pagination.get("total", total)
+
+        if not entries:
+            break
+
+        for e in entries:
+            tid = e.get("id")
+            if tid in OUR_TEAM_IDS:
+                rankings[tid] = {
+                    "position": e.get("position"),
+                    "tally":    e.get("tally"),
+                    "outOf":    total,
+                }
+
+        if not pagination.get("has_more", True):
+            break
+
+    return rankings, total
 
 
 def load_existing():
@@ -301,20 +289,17 @@ def main(start_date=None, end_date=None):
     except Exception as e:
         print(f" ✗ ERROR: {e}")
 
-    # Fetch global challenge rankings for all 4 teams
+    # Fetch global challenge rankings for all 4 teams (full paginated scan)
     print("   Fetching global challenge rankings...", end="", flush=True)
     try:
-        rankings, top10 = fetch_challenge_rankings(token, existing["teams"], CHALLENGE_START)
+        rankings, total_teams = fetch_challenge_rankings(token)
         existing["challengeRankings"] = rankings
-        existing["challengeLeaderboardTop10"] = top10
-        ranked = [v for v in rankings.values() if v.get("position")]
-        print(f" ✓ {len(ranked)}/4 teams in top-10 leaderboard")
+        print(f" ✓ found {len(rankings)}/4 teams across {total_teams} total")
         for team in existing["teams"]:
             r = rankings.get(team["id"], {})
-            pos = r.get("position")
+            pos = r.get("position", "?")
             tally = r.get("tally", 0)
-            label = f"#{pos}" if pos else ">10"
-            print(f"      {team['name']}: {label} / {PROGRAM_TEAMS} (tally={tally})")
+            print(f"      {team['name']}: #{pos} / {total_teams} (tally={tally})")
     except Exception as e:
         print(f" ✗ ERROR: {e}")
 
