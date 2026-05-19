@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T22:40:51.573453+00:00",
+  "lastUpdated": "2026-05-19T22:45:46.193170+00:00",
   "teams": [
     {
       "id": 132544,
@@ -490,7 +490,7 @@
               ]
             },
             "2026-05-19": {
-              "steps": 5530,
+              "steps": 7441,
               "activities": 0
             }
           },
@@ -1195,7 +1195,7 @@
           "username": "sidnat01",
           "dailyData": {
             "2026-05-19": {
-              "steps": 4093,
+              "steps": 4207,
               "activities": 0
             },
             "2026-05-18": {
@@ -1607,7 +1607,7 @@
               "activities": 14964
             },
             "2026-05-19": {
-              "steps": 2124,
+              "steps": 4311,
               "activities": 6360
             }
           },
@@ -1709,13 +1709,13 @@
   ],
   "challengeRankings": {
     "132544": {
-      "position": 5,
-      "tally": 27121,
+      "position": 4,
+      "tally": 27333,
       "outOf": 199
     },
     "132609": {
       "position": 8,
-      "tally": 23665,
+      "tally": 23939,
       "outOf": 199
     },
     "132626": {
@@ -1725,7 +1725,7 @@
     },
     "132610": {
       "position": 152,
-      "tally": 6289,
+      "tally": 6305,
       "outOf": 199
     }
   },
