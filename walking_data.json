@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T10:51:14.415963+00:00",
+  "lastUpdated": "2026-05-19T13:00:35.529231+00:00",
   "teams": [
     {
       "id": 132544,
@@ -162,7 +162,11 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 18358,
+              "steps": 18435,
+              "activities": 0
+            },
+            "2026-05-19": {
+              "steps": 75,
               "activities": 0
             }
           },
@@ -241,12 +245,16 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 29969,
+              "steps": 30252,
               "activities": 20680,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/19/0_NWWZEWJGba_large.jpg",
               "activityTexts": [
                 "94 minutes of Swimming hard"
               ]
+            },
+            "2026-05-19": {
+              "steps": 1669,
+              "activities": 0
             }
           },
           "memberId": 1456064
@@ -383,7 +391,11 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 8132,
+              "steps": 8263,
+              "activities": 0
+            },
+            "2026-05-19": {
+              "steps": 340,
               "activities": 0
             }
           },
@@ -497,7 +509,11 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 11666,
+              "steps": 13031,
+              "activities": 2000
+            },
+            "2026-05-19": {
+              "steps": 6809,
               "activities": 2000
             }
           },
@@ -669,7 +685,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 16974,
+              "steps": 17901,
               "activities": 3000,
               "activityTexts": [
                 "30 minutes of Weight lifting"
@@ -871,6 +887,10 @@
             "2026-05-18": {
               "steps": 2626,
               "activities": 14340
+            },
+            "2026-05-19": {
+              "steps": 262,
+              "activities": 0
             }
           },
           "memberId": 1456373
@@ -1108,7 +1128,16 @@
         {
           "name": "Siddhartha Natuva",
           "username": "sidnat01",
-          "dailyData": {},
+          "dailyData": {
+            "2026-05-19": {
+              "steps": 2986,
+              "activities": 0
+            },
+            "2026-05-18": {
+              "steps": 1286,
+              "activities": 5850
+            }
+          },
           "memberId": 1461341
         },
         {
@@ -1274,6 +1303,10 @@
             "2026-05-01": {
               "steps": 5311,
               "activities": 0
+            },
+            "2026-05-18": {
+              "steps": 24140,
+              "activities": 0
             }
           },
           "memberId": 1456301
@@ -1351,8 +1384,8 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 10868,
-              "activities": 0
+              "steps": 11959,
+              "activities": 3675
             }
           },
           "memberId": 1456302
@@ -1553,6 +1586,10 @@
             "2026-05-18": {
               "steps": 7503,
               "activities": 2025
+            },
+            "2026-05-19": {
+              "steps": 61,
+              "activities": 0
             }
           },
           "memberId": 1456306
@@ -1563,12 +1600,7 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 5877,
-              "activities": 18885,
-              "activityTexts": [
-                "31 minutes of Walking, brisk",
-                "69 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
-                "30 minutes of Walking, stroll"
-              ]
+              "activities": 18885
             }
           },
           "memberId": 1456304
@@ -1579,22 +1611,22 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 19466,
+      "tally": 20882,
       "outOf": 199
     },
     "132609": {
-      "position": 14,
-      "tally": 13824,
+      "position": 7,
+      "tally": 17893,
       "outOf": 199
     },
     "132626": {
-      "position": 113,
-      "tally": 5422,
+      "position": 124,
+      "tally": 5591,
       "outOf": 199
     },
     "132610": {
-      "position": 160,
-      "tally": 3388,
+      "position": 131,
+      "tally": 4835,
       "outOf": 199
     }
   },
