@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T03:30:16.916514+00:00",
+  "lastUpdated": "2026-05-19T03:35:13.198913+00:00",
   "teams": [
     {
       "id": 132544,
@@ -309,7 +309,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 6014,
+              "steps": 6058,
               "activities": 13650
             }
           }
@@ -1368,7 +1368,7 @@
               "activities": 0
             },
             "2026-05-18": {
-              "steps": 8996,
+              "steps": 9053,
               "activities": 0
             }
           }
@@ -1504,7 +1504,7 @@
           "username": "sugarpickles",
           "dailyData": {
             "2026-05-18": {
-              "steps": 5110,
+              "steps": 5877,
               "activities": 17055
             }
           }
