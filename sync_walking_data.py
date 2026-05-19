@@ -86,18 +86,33 @@ def fetch_team_data(team_id, token, start_date, end_date):
         return json.loads(resp.read())
 
 
-def fetch_journal_data(token, start_date, end_date):
-    """Fetch all journal entries (with photos + activity text) for the program."""
+def fetch_journal_data(token):
+    """Fetch journal entries (photos + activity text) for a rolling 3-day window.
+
+    Querying the full challenge range hits ~475 entries/day across all 199 program
+    teams, so a 20-page cap would miss data by day 3. Instead we always fetch only
+    the last 3 days — enough to capture late-logged activities while staying well
+    within a 50-page safety cap (~1,500 entries max).  The merge step is additive,
+    so previously stored texts are never overwritten.
+    """
+    from datetime import timedelta
     headers = {**HEADERS_BASE, "Authorization": f"Bearer {token}"}
+
+    today      = date.today()
+    win_start  = max(date.fromisoformat(CHALLENGE_START), today - timedelta(days=2))
+    win_end    = min(today, date.fromisoformat(CHALLENGE_END))
+    start_date = f"{win_start.isoformat()}T00:00:00.000Z"
+    end_date   = f"{win_end.isoformat()}T23:59:59.999Z"
+
     # Build lookup: {(memberId, "YYYY-MM-DD"): {photo, activityTexts, journalText}}
     journal_lookup = {}
     page = 1
     while True:
         params = urllib.parse.urlencode({
             "startDate": start_date,
-            "endDate": end_date,
-            "perPage": "50",
-            "page": str(page),
+            "endDate":   end_date,
+            "perPage":   "50",
+            "page":      str(page),
         })
         url = f"{API_BASE}/programs/3270/journals?{params}"
         req = urllib.request.Request(url, headers=headers)
@@ -113,13 +128,15 @@ def fetch_journal_data(token, start_date, end_date):
                 continue
             key = (member_id, date_str)
             activity_texts = [a.get("text", "") for a in (entry.get("activities") or []) if a.get("text")]
+            # Prefer richer entry: keep existing if new one has less detail
+            existing = journal_lookup.get(key, {})
             journal_lookup[key] = {
-                "photo":         entry.get("imageLarge") or entry.get("image") or "",
-                "activityTexts": activity_texts,
-                "journalText":   entry.get("text") or "",
+                "photo":         entry.get("imageLarge") or entry.get("image") or existing.get("photo", ""),
+                "activityTexts": activity_texts or existing.get("activityTexts", []),
+                "journalText":   entry.get("text") or existing.get("journalText", ""),
             }
         page += 1
-        if page > 20:  # safety cap
+        if page > 50:  # safety cap — 50 pages × 50 entries = 2,500 max
             break
     return journal_lookup
 
@@ -166,6 +183,10 @@ def fetch_challenge_rankings(token):
                     "tally":    e.get("tally"),
                     "outOf":    total,
                 }
+
+        # Stop as soon as we've found all 4 teams — no need to scan further
+        if len(rankings) == len(TEAMS):
+            break
 
         if not pagination.get("has_more", True):
             break
@@ -264,10 +285,10 @@ def main(start_date=None, end_date=None):
         except Exception as e:
             print(f" ✗ ERROR: {e}")
 
-    # Fetch journal data (photos + activity text) and merge into daily entries
-    print("   Fetching journal entries (photos + activity text)...", end="", flush=True)
+    # Fetch journal data (photos + activity text) — rolling 3-day window
+    print("   Fetching journal entries (photos + activity text, last 3 days)...", end="", flush=True)
     try:
-        journal_lookup = fetch_journal_data(token, start_date, end_date)
+        journal_lookup = fetch_journal_data(token)
         photo_count = sum(1 for v in journal_lookup.values() if v.get("photo"))
         # Layer journal data into each member's daily records
         for team in existing["teams"]:
