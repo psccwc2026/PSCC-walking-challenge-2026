@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T05:25:25.827439+00:00",
+  "lastUpdated": "2026-05-19T05:30:23.284663+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1600,7 +1600,7 @@
       "id": 132509,
       "teamName": "Kindred Soles - 2026",
       "avatar": "https://cdn.tbybewell.com/prod/team-logos/132509.jpg",
-      "tally": 24478,
+      "tally": 24847,
       "position": 1
     },
     {
@@ -1639,17 +1639,17 @@
       "position": 6
     },
     {
+      "id": 132475,
+      "teamName": "Tech Babes",
+      "avatar": "https://cdn.tbybewell.com/prod/team-logos/132475.png",
+      "tally": 12837,
+      "position": 7
+    },
+    {
       "id": 132905,
       "teamName": "UlmStriders",
       "avatar": "https://cdn.tbybewell.com/images/defaultTeamLogos020-paper-plane.png",
       "tally": 12404,
-      "position": 7
-    },
-    {
-      "id": 132475,
-      "teamName": "Tech Babes",
-      "avatar": "https://cdn.tbybewell.com/prod/team-logos/132475.png",
-      "tally": 12395,
       "position": 8
     },
     {
