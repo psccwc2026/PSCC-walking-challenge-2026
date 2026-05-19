@@ -110,6 +110,23 @@ tr:hover td{{background:#fafbfd}}
 .cell-miss{{background:#fee2e2;color:#991b1b;border-radius:3px;display:inline-block;padding:1px 4px;min-width:52px;text-align:right}}
 .cell-zero{{color:#cbd5e1;display:inline-block;padding:1px 4px;min-width:52px;text-align:right}}
 .total-col{{font-weight:700;background:#f8fafc}}
+/* Expandable leaderboard rows */
+.expand-btn{{background:none;border:none;cursor:pointer;font-size:13px;color:#94a3b8;padding:2px 5px;border-radius:4px;transition:transform .2s,color .2s;margin-left:4px;vertical-align:middle}}
+.expand-btn:hover{{color:#3b82f6}}
+.expand-btn.open{{transform:rotate(180deg);color:#3b82f6}}
+.expand-row td{{padding:0!important;background:#fafbff;border-bottom:2px solid #e2e8f0}}
+.expand-inner{{padding:14px 16px 16px;display:flex;flex-wrap:wrap;gap:12px}}
+.day-entry{{background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:12px 14px;min-width:160px;flex:0 0 auto}}
+.day-entry .de-date{{font-size:11px;color:#94a3b8;font-weight:600;text-transform:uppercase;margin-bottom:4px}}
+.day-entry .de-total{{font-size:16px;font-weight:800;color:#1e293b}}
+.day-entry .de-steps{{font-size:11px;color:#64748b;margin-top:1px}}
+.day-entry .de-acts{{font-size:11px;color:#6366f1;margin-top:1px}}
+.day-entry .de-activity-text{{font-size:11px;color:#10b981;margin-top:4px;font-style:italic}}
+.day-entry .de-photo{{margin-top:8px;width:100%;max-width:200px;border-radius:8px;cursor:pointer;display:block}}
+.photo-modal{{display:none;position:fixed;inset:0;background:rgba(0,0,0,.75);z-index:999;align-items:center;justify-content:center}}
+.photo-modal.open{{display:flex}}
+.photo-modal img{{max-width:90vw;max-height:90vh;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.5)}}
+.photo-modal .close-btn{{position:fixed;top:16px;right:20px;background:rgba(255,255,255,.15);color:#fff;border:none;font-size:24px;cursor:pointer;border-radius:50%;width:36px;height:36px;line-height:34px;text-align:center}}
 @media(max-width:700px){{.two-col{{grid-template-columns:1fr}}.stats-bar{{grid-template-columns:1fr 1fr}}}}
 </style>
 </head>
@@ -170,6 +187,12 @@ tr:hover td{{background:#fafbfd}}
       </div>
       <div id="dayDetail"></div>
     </div>
+  </div>
+
+  <!-- Photo modal -->
+  <div class="photo-modal" id="photoModal" onclick="closePhoto()">
+    <button class="close-btn" onclick="closePhoto()">✕</button>
+    <img id="photoModalImg" src="" alt="Workout photo">
   </div>
 
   <!-- HISTORY TAB -->
@@ -253,6 +276,7 @@ function switchTab(name) {{
 }}
 
 function init() {{
+  const today=todayStr();
   // Header
   const cd=challengeDay(), dl=daysLeft();
   document.getElementById('subhead').textContent=
@@ -309,9 +333,32 @@ function init() {{
   const maxM=allM[0]?.total||1;
   document.getElementById('leaderBody').innerHTML=allM.map((m,i)=>{{
     const bp=Math.round(m.total/maxM*100);
-    return `<tr>
+    // Build expandable day-by-day entries
+    const days=allDays().filter(d=>d<=today);
+    const dayEntries=days.filter(d=>{{
+      const v=m.dailyData?.[d]; return v&&((v.steps||0)+(v.activities||0))>0;
+    }}).reverse().map(d=>{{
+      const v=m.dailyData[d];
+      const tot=(v.steps||0)+(v.activities||0);
+      const goalMet=tot>=DAILY_GOAL;
+      const photo=v.photo?`<img class="de-photo" src="${{v.photo}}" loading="lazy" onclick="openPhoto('${{v.photo}}')" title="Click to enlarge">`:'';
+      const actText=(v.activityTexts||[]).map(t=>`<div class="de-activity-text">🏃 ${{t}}</div>`).join('');
+      const journalText=v.journalText?`<div class="de-activity-text" style="color:#64748b">💬 ${{v.journalText}}</div>`:'';
+      return `<div class="day-entry">
+        <div class="de-date">${{dateLabel(d)}}</div>
+        <div class="de-total" style="color:${{goalMet?'#10b981':'#1e293b'}}">${{fmt(tot)}}</div>
+        <div class="de-steps">👟 ${{fmt(v.steps||0)}} steps</div>
+        ${{(v.activities||0)>0?`<div class="de-acts">⚡ ${{fmt(v.activities||0)}} activity</div>`:''}}
+        ${{actText}}${{journalText}}${{photo}}
+      </div>`;
+    }}).join('');
+    const hasData=dayEntries.length>0;
+    return `<tr class="member-row">
       <td style="color:#94a3b8;font-weight:700">${{i+1}}</td>
-      <td><strong>${{m.name}}</strong></td>
+      <td>
+        <strong>${{m.name}}</strong>
+        ${{hasData?`<button class="expand-btn" data-idx="${{i}}" onclick="toggleExpand(${{i}})" title="Show daily breakdown">▼</button>`:''}}
+      </td>
       <td><span class="badge" style="background:${{m.cfg.color}}"></span>${{m.cfg.short}}</td>
       <td style="color:#64748b;font-size:12px">${{fmt(m.steps)}}</td>
       <td style="color:#64748b;font-size:12px">${{fmt(m.acts)}}</td>
@@ -324,12 +371,12 @@ function init() {{
       <td>${{fmt(m.avg)}}</td>
       <td>${{m.days}}</td>
       <td>${{m.goalDays}}</td>
-    </tr>`;
+    </tr>
+    ${{hasData?`<tr id="expand-${{i}}" class="expand-row" style="display:none"><td colspan="9"><div class="expand-inner">${{dayEntries}}</div></td></tr>`:''}}`;
   }}).join('');
 
   // Day selector
   const days=allDays();
-  const today=todayStr();
   const pastDays=days.filter(d=>d<=today);
   const sel=document.getElementById('dayPick');
   sel.innerHTML=pastDays.slice().reverse().map(d=>
@@ -450,6 +497,24 @@ function renderHistory() {{
     </tr>`;
   }}).join('');
 }}
+
+function toggleExpand(i) {{
+  const row=document.getElementById('expand-'+i);
+  const btn=document.querySelector(`.expand-btn[data-idx="${{i}}"]`);
+  if(!row) return;
+  const open=row.style.display==='none'||row.style.display==='';
+  row.style.display=open?'table-row':'none';
+  if(btn) btn.classList.toggle('open',open);
+}}
+
+function openPhoto(url) {{
+  document.getElementById('photoModalImg').src=url;
+  document.getElementById('photoModal').classList.add('open');
+}}
+function closePhoto() {{
+  document.getElementById('photoModal').classList.remove('open');
+}}
+document.addEventListener('keydown',e=>{{ if(e.key==='Escape') closePhoto(); }});
 
 init();
 </script>
