@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T10:36:33.145028+00:00",
+  "lastUpdated": "2026-05-20T13:01:02.576287+00:00",
   "teams": [
     {
       "id": 132544,
@@ -262,12 +262,16 @@
               ]
             },
             "2026-05-19": {
-              "steps": 22106,
+              "steps": 22360,
               "activities": 22880,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/20/0_NxvyElNRpL_large.jpg",
               "activityTexts": [
                 "104 minutes of Swimming hard"
               ]
+            },
+            "2026-05-20": {
+              "steps": 45,
+              "activities": 0
             }
           },
           "memberId": 1456064
@@ -420,7 +424,7 @@
               "activities": 0
             },
             "2026-05-20": {
-              "steps": 33,
+              "steps": 38,
               "activities": 0
             }
           },
@@ -511,7 +515,7 @@
               ]
             },
             "2026-05-19": {
-              "steps": 12416,
+              "steps": 12456,
               "activities": 4200,
               "activityTexts": [
                 "10 minutes of Bicycling (moderate, 12-14mph/20-22k",
@@ -562,10 +566,7 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 3539,
-              "activities": 7650,
-              "activityTexts": [
-                "45 minutes of Bicycling (moderate, 12-14mph/20-22k"
-              ]
+              "activities": 7650
             },
             "2026-05-19": {
               "steps": 3178,
@@ -748,7 +749,7 @@
               ]
             },
             "2026-05-19": {
-              "steps": 14040,
+              "steps": 14060,
               "activities": 3000,
               "activityTexts": [
                 "30 minutes of Weight lifting"
@@ -965,13 +966,10 @@
             },
             "2026-05-18": {
               "steps": 2626,
-              "activities": 14340,
-              "activityTexts": [
-                "60 minutes of HIIT (High intensity interval traini"
-              ]
+              "activities": 14340
             },
             "2026-05-19": {
-              "steps": 1237,
+              "steps": 1296,
               "activities": 14340,
               "activityTexts": [
                 "60 minutes of HIIT (High intensity interval traini"
@@ -1224,11 +1222,7 @@
             },
             "2026-05-18": {
               "steps": 1575,
-              "activities": 5400,
-              "activityTexts": [
-                "15 minutes of Body Weight Exercises (Squats, etc) ",
-                "30 minutes of Bicycling (leisurely, < 12mph/20kph)"
-              ]
+              "activities": 5400
             },
             "2026-05-19": {
               "steps": 2057,
@@ -1352,7 +1346,7 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 3933,
+              "steps": 3976,
               "activities": 0
             }
           },
@@ -1506,8 +1500,12 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 12686,
+              "steps": 13697,
               "activities": 3675
+            },
+            "2026-05-20": {
+              "steps": 8470,
+              "activities": 0
             }
           },
           "memberId": 1456302
@@ -1670,8 +1668,12 @@
               "activities": 14964
             },
             "2026-05-19": {
-              "steps": 15662,
+              "steps": 16067,
               "activities": 14284
+            },
+            "2026-05-20": {
+              "steps": 19,
+              "activities": 0
             }
           },
           "memberId": 1456292
@@ -1773,21 +1775,21 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 37970,
+      "tally": 38007,
       "outOf": 199
     },
     "132609": {
       "position": 8,
-      "tally": 30643,
+      "tally": 31886,
       "outOf": 199
     },
     "132626": {
-      "position": 46,
-      "tally": 18293,
+      "position": 58,
+      "tally": 18304,
       "outOf": 199
     },
     "132610": {
-      "position": 129,
+      "position": 139,
       "tally": 10203,
       "outOf": 199
     }
