@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T07:10:36.253957+00:00",
+  "lastUpdated": "2026-05-20T07:15:37.600105+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1179,6 +1179,10 @@
                 "30 minutes of Body Weight Exercises (Squats, etc) ",
                 "20 minutes of Weight lifting"
               ]
+            },
+            "2026-05-20": {
+              "steps": 0,
+              "activities": 0
             }
           },
           "memberId": 1456173
