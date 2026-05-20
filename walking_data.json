@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T13:15:42.950368+00:00",
+  "lastUpdated": "2026-05-20T13:20:35.814586+00:00",
   "teams": [
     {
       "id": 132544,
@@ -521,6 +521,10 @@
                 "10 minutes of Bicycling (moderate, 12-14mph/20-22k",
                 "10 minutes of Jumping Rope, moderate"
               ]
+            },
+            "2026-05-20": {
+              "steps": 19,
+              "activities": 0
             }
           },
           "memberId": 1460532
@@ -1582,7 +1586,7 @@
               ]
             },
             "2026-05-19": {
-              "steps": 10113,
+              "steps": 10124,
               "activities": 1875,
               "activityTexts": [
                 "15 minutes of Aerobics"
@@ -1780,7 +1784,7 @@
     },
     "132609": {
       "position": 8,
-      "tally": 31886,
+      "tally": 31888,
       "outOf": 199
     },
     "132626": {
