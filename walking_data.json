@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T03:56:05.684945+00:00",
+  "lastUpdated": "2026-05-20T04:00:54.685406+00:00",
   "teams": [
     {
       "id": 132544,
@@ -345,7 +345,7 @@
               "activities": 13650
             },
             "2026-05-19": {
-              "steps": 3769,
+              "steps": 3959,
               "activities": 9100
             }
           },
@@ -455,7 +455,7 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 6129,
+              "steps": 7001,
               "activities": 0
             }
           },
@@ -728,7 +728,7 @@
               ]
             },
             "2026-05-19": {
-              "steps": 13828,
+              "steps": 14040,
               "activities": 3000,
               "activityTexts": [
                 "30 minutes of Weight lifting"
@@ -1070,7 +1070,7 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 6249,
+              "steps": 9228,
               "activities": 0
             }
           },
@@ -1734,7 +1734,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 35358,
+      "tally": 35433,
       "outOf": 199
     },
     "132609": {
@@ -1743,13 +1743,13 @@
       "outOf": 199
     },
     "132626": {
-      "position": 46,
-      "tally": 16293,
+      "position": 47,
+      "tally": 16323,
       "outOf": 199
     },
     "132610": {
-      "position": 139,
-      "tally": 8363,
+      "position": 130,
+      "tally": 8789,
       "outOf": 199
     }
   },
