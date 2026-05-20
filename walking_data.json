@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T20:50:43.108728+00:00",
+  "lastUpdated": "2026-05-20T20:55:34.526202+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1218,7 +1218,7 @@
               ]
             },
             "2026-05-20": {
-              "steps": 7333,
+              "steps": 7350,
               "activities": 4500,
               "activityTexts": [
                 "45 minutes of Body Weight Exercises (Squats, etc) "
@@ -1753,7 +1753,7 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 0,
+              "steps": 10332,
               "activities": 2250,
               "activityTexts": [
                 "50 minutes of Yoga"
@@ -1764,6 +1764,13 @@
               "activities": 2250,
               "activityTexts": [
                 "50 minutes of Yoga"
+              ]
+            },
+            "2026-05-20": {
+              "steps": 0,
+              "activities": 13200,
+              "activityTexts": [
+                "60 minutes of Swimming hard"
               ]
             }
           },
@@ -1831,8 +1838,8 @@
       "outOf": 199
     },
     "132609": {
-      "position": 10,
-      "tally": 34573,
+      "position": 8,
+      "tally": 37514,
       "outOf": 199
     },
     "132626": {
@@ -1842,7 +1849,7 @@
     },
     "132610": {
       "position": 142,
-      "tally": 11950,
+      "tally": 11952,
       "outOf": 199
     }
   },
