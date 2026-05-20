@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T02:00:34.900048+00:00",
+  "lastUpdated": "2026-05-20T02:05:50.791306+00:00",
   "teams": [
     {
       "id": 132544,
@@ -87,10 +87,12 @@
               ]
             },
             "2026-05-19": {
-              "steps": 5031,
-              "activities": 2730,
+              "steps": 9180,
+              "activities": 15330,
               "activityTexts": [
-                "21 minutes of Bicycling (leisurely, < 12mph/20kph)"
+                "21 minutes of Bicycling (leisurely, < 12mph/20kph)",
+                "48 minutes of Body Weight Exercises (Squats, etc) ",
+                "60 minutes of Cricket"
               ]
             }
           },
@@ -1622,8 +1624,8 @@
               "activities": 14964
             },
             "2026-05-19": {
-              "steps": 6137,
-              "activities": 6360
+              "steps": 15644,
+              "activities": 14284
             }
           },
           "memberId": 1456292
@@ -1690,7 +1692,7 @@
               "activities": 2025
             },
             "2026-05-19": {
-              "steps": 7025,
+              "steps": 7096,
               "activities": 2025
             }
           },
@@ -1724,17 +1726,17 @@
   ],
   "challengeRankings": {
     "132544": {
-      "position": 4,
-      "tally": 28734,
+      "position": 2,
+      "tally": 30595,
       "outOf": 199
     },
     "132609": {
-      "position": 8,
-      "tally": 26854,
+      "position": 5,
+      "tally": 29041,
       "outOf": 199
     },
     "132626": {
-      "position": 41,
+      "position": 42,
       "tally": 16162,
       "outOf": 199
     },
