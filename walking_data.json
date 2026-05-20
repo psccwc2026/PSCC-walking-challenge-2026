@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T14:55:58.335373+00:00",
+  "lastUpdated": "2026-05-20T15:00:41.353489+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1605,7 +1605,7 @@
               ]
             },
             "2026-05-20": {
-              "steps": 957,
+              "steps": 1127,
               "activities": 0
             }
           },
@@ -1692,7 +1692,7 @@
               "activities": 14284
             },
             "2026-05-20": {
-              "steps": 19,
+              "steps": 683,
               "activities": 0
             }
           },
@@ -1776,12 +1776,7 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 5972,
-              "activities": 18885,
-              "activityTexts": [
-                "31 minutes of Walking, brisk",
-                "69 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
-                "30 minutes of Walking, stroll"
-              ]
+              "activities": 18885
             },
             "2026-05-19": {
               "steps": 13299,
@@ -1811,7 +1806,7 @@
     },
     "132609": {
       "position": 8,
-      "tally": 33281,
+      "tally": 33385,
       "outOf": 199
     },
     "132626": {
