@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T03:25:48.517841+00:00",
+  "lastUpdated": "2026-05-20T03:30:35.320115+00:00",
   "teams": [
     {
       "id": 132544,
@@ -262,8 +262,11 @@
               ]
             },
             "2026-05-19": {
-              "steps": 21467,
-              "activities": 0
+              "steps": 22106,
+              "activities": 22880,
+              "activityTexts": [
+                "104 minutes of Swimming hard"
+              ]
             }
           },
           "memberId": 1456064
@@ -341,7 +344,7 @@
               "activities": 13650
             },
             "2026-05-19": {
-              "steps": 1194,
+              "steps": 1309,
               "activities": 9100
             }
           },
@@ -1730,7 +1733,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 32028,
+      "tally": 34654,
       "outOf": 199
     },
     "132609": {
