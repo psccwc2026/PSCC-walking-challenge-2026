@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T02:25:51.821688+00:00",
+  "lastUpdated": "2026-05-20T02:30:36.402938+00:00",
   "teams": [
     {
       "id": 132544,
@@ -947,7 +947,7 @@
               ]
             },
             "2026-05-19": {
-              "steps": 835,
+              "steps": 1237,
               "activities": 14340,
               "activityTexts": [
                 "60 minutes of HIIT (High intensity interval traini"
@@ -1212,7 +1212,7 @@
           "username": "sidnat01",
           "dailyData": {
             "2026-05-19": {
-              "steps": 5485,
+              "steps": 5682,
               "activities": 5850
             },
             "2026-05-18": {
@@ -1712,7 +1712,7 @@
               ]
             },
             "2026-05-19": {
-              "steps": 9511,
+              "steps": 12952,
               "activities": 16800,
               "activityTexts": [
                 "84 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
@@ -1732,7 +1732,7 @@
     },
     "132609": {
       "position": 5,
-      "tally": 29044,
+      "tally": 29474,
       "outOf": 199
     },
     "132626": {
@@ -1742,7 +1742,7 @@
     },
     "132610": {
       "position": 147,
-      "tally": 7734,
+      "tally": 7763,
       "outOf": 199
     }
   },
