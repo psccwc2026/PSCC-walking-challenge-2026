@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T02:40:35.683595+00:00",
+  "lastUpdated": "2026-05-20T02:45:38.797462+00:00",
   "teams": [
     {
       "id": 132544,
@@ -80,20 +80,11 @@
             },
             "2026-05-18": {
               "steps": 15988,
-              "activities": 13750,
-              "activityTexts": [
-                "45 minutes of Cricket",
-                "79 minutes of Body Weight Exercises (Squats, etc) "
-              ]
+              "activities": 13750
             },
             "2026-05-19": {
               "steps": 9180,
-              "activities": 15330,
-              "activityTexts": [
-                "21 minutes of Bicycling (leisurely, < 12mph/20kph)",
-                "48 minutes of Body Weight Exercises (Squats, etc) ",
-                "60 minutes of Cricket"
-              ]
+              "activities": 15330
             }
           },
           "memberId": 1453382
@@ -255,11 +246,7 @@
             },
             "2026-05-18": {
               "steps": 30252,
-              "activities": 20680,
-              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/19/0_NWWZEWJGba_large.jpg",
-              "activityTexts": [
-                "94 minutes of Swimming hard"
-              ]
+              "activities": 20680
             },
             "2026-05-19": {
               "steps": 20554,
@@ -491,15 +478,10 @@
             },
             "2026-05-18": {
               "steps": 8503,
-              "activities": 7435,
-              "activityTexts": [
-                "15 minutes of Circuit training",
-                "10 minutes of Jumping Rope, moderate",
-                "15 minutes of Bicycling (leisurely, < 12mph/20kph)"
-              ]
+              "activities": 7435
             },
             "2026-05-19": {
-              "steps": 9543,
+              "steps": 11017,
               "activities": 0
             }
           },
@@ -546,10 +528,7 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 3539,
-              "activities": 7650,
-              "activityTexts": [
-                "45 minutes of Bicycling (moderate, 12-14mph/20-22k"
-              ]
+              "activities": 7650
             }
           },
           "memberId": 1456313
@@ -718,17 +697,11 @@
             },
             "2026-05-18": {
               "steps": 17901,
-              "activities": 3000,
-              "activityTexts": [
-                "30 minutes of Weight lifting"
-              ]
+              "activities": 3000
             },
             "2026-05-19": {
               "steps": 13315,
-              "activities": 3000,
-              "activityTexts": [
-                "30 minutes of Weight lifting"
-              ]
+              "activities": 3000
             }
           },
           "memberId": 1456374
@@ -941,17 +914,11 @@
             },
             "2026-05-18": {
               "steps": 2626,
-              "activities": 14340,
-              "activityTexts": [
-                "60 minutes of HIIT (High intensity interval traini"
-              ]
+              "activities": 14340
             },
             "2026-05-19": {
               "steps": 1237,
-              "activities": 14340,
-              "activityTexts": [
-                "60 minutes of HIIT (High intensity interval traini"
-              ]
+              "activities": 14340
             }
           },
           "memberId": 1456373
@@ -1150,11 +1117,7 @@
             },
             "2026-05-19": {
               "steps": 3522,
-              "activities": 2000,
-              "activityTexts": [
-                "30 minutes of Body Weight Exercises (Squats, etc) ",
-                "20 minutes of Weight lifting"
-              ]
+              "activities": 2000
             }
           },
           "memberId": 1456173
@@ -1192,11 +1155,7 @@
             },
             "2026-05-18": {
               "steps": 1575,
-              "activities": 5400,
-              "activityTexts": [
-                "15 minutes of Body Weight Exercises (Squats, etc) ",
-                "30 minutes of Bicycling (leisurely, < 12mph/20kph)"
-              ]
+              "activities": 5400
             }
           },
           "memberId": 1456294
@@ -1212,8 +1171,8 @@
           "username": "sidnat01",
           "dailyData": {
             "2026-05-19": {
-              "steps": 5682,
-              "activities": 5850
+              "steps": 5979,
+              "activities": 9750
             },
             "2026-05-18": {
               "steps": 1286,
@@ -1660,17 +1619,11 @@
             },
             "2026-05-19": {
               "steps": 0,
-              "activities": 2250,
-              "activityTexts": [
-                "50 minutes of Yoga"
-              ]
+              "activities": 2250
             },
             "2026-05-18": {
               "steps": 11937,
-              "activities": 2250,
-              "activityTexts": [
-                "50 minutes of Yoga"
-              ]
+              "activities": 2250
             }
           },
           "memberId": 1456298
@@ -1692,7 +1645,7 @@
               "activities": 2025
             },
             "2026-05-19": {
-              "steps": 7096,
+              "steps": 7244,
               "activities": 2025
             }
           },
@@ -1704,19 +1657,11 @@
           "dailyData": {
             "2026-05-18": {
               "steps": 5972,
-              "activities": 18885,
-              "activityTexts": [
-                "31 minutes of Walking, brisk",
-                "69 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
-                "30 minutes of Walking, stroll"
-              ]
+              "activities": 18885
             },
             "2026-05-19": {
               "steps": 12952,
-              "activities": 16800,
-              "activityTexts": [
-                "84 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-              ]
+              "activities": 16800
             }
           },
           "memberId": 1456304
@@ -1727,12 +1672,12 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 31662,
+      "tally": 31826,
       "outOf": 199
     },
     "132609": {
       "position": 5,
-      "tally": 29497,
+      "tally": 29515,
       "outOf": 199
     },
     "132626": {
@@ -1741,8 +1686,8 @@
       "outOf": 199
     },
     "132610": {
-      "position": 147,
-      "tally": 7763,
+      "position": 136,
+      "tally": 8363,
       "outOf": 199
     }
   },
