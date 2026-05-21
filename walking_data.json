@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T16:55:38.499472+00:00",
+  "lastUpdated": "2026-05-21T17:00:54.721316+00:00",
   "teams": [
     {
       "id": 132544,
@@ -452,7 +452,7 @@
               "activities": 0
             },
             "2026-05-21": {
-              "steps": 509,
+              "steps": 598,
               "activities": 0
             }
           },
@@ -731,7 +731,10 @@
             },
             "2026-05-20": {
               "steps": 14471,
-              "activities": 0
+              "activities": 9000,
+              "activityTexts": [
+                "90 minutes of Weight lifting"
+              ]
             },
             "2026-05-21": {
               "steps": 2307,
@@ -1986,7 +1989,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 58859,
+      "tally": 58868,
       "outOf": 199
     },
     "132609": {
@@ -1995,8 +1998,8 @@
       "outOf": 199
     },
     "132626": {
-      "position": 29,
-      "tally": 33275,
+      "position": 26,
+      "tally": 34561,
       "outOf": 199
     },
     "132610": {
