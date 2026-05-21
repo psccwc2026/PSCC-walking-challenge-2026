@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T04:25:33.330384+00:00",
+  "lastUpdated": "2026-05-21T04:30:27.586053+00:00",
   "teams": [
     {
       "id": 132544,
@@ -544,10 +544,11 @@
             },
             "2026-05-20": {
               "steps": 9328,
-              "activities": 4450,
+              "activities": 4950,
               "activityTexts": [
                 "15 minutes of Bicycling (leisurely, < 12mph/20kph)",
-                "10 minutes of Jumping Rope, moderate"
+                "10 minutes of Jumping Rope, moderate",
+                "5 minutes of Sit-ups / Push-ups / Crunches"
               ]
             }
           },
@@ -1878,7 +1879,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 51815,
+      "tally": 51870,
       "outOf": 199
     },
     "132609": {
