@@ -2771,7 +2771,9 @@
     },
     "1463114": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "115 minutes of Tennis"
+      ],
       "journalText": ""
     },
     "1459564": {
@@ -5124,6 +5126,18 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462278": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Pilates"
+      ],
+      "journalText": ""
+    },
+    "1456453": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452310": {
       "photo": "",
       "activityTexts": [],
@@ -6253,6 +6267,13 @@
       "photo": "",
       "activityTexts": [
         "90 minutes of Dancing"
+      ],
+      "journalText": ""
+    },
+    "1452581": {
+      "photo": "",
+      "activityTexts": [
+        "36 minutes of Hockey, field & ice"
       ],
       "journalText": ""
     },
