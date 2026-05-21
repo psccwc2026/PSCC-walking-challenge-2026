@@ -246,9 +246,13 @@ def merge_data(existing, team_def, roster_result, step_result):
         for day in (api_member.get("stepData") or []):
             d = day.get("created")  # "YYYY-MM-DD"
             if d:
+                # Preserve any existing journal fields (photo, activityTexts, journalText)
+                # so they are not wiped out when step data is refreshed each sync
+                existing_day = m_entry["dailyData"].get(d, {})
                 m_entry["dailyData"][d] = {
                     "steps": day.get("steps", 0),
-                    "activities": day.get("activities", 0)
+                    "activities": day.get("activities", 0),
+                    **{k: existing_day[k] for k in ("photo", "activityTexts", "journalText") if k in existing_day}
                 }
 
 
