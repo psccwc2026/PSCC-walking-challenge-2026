@@ -1961,6 +1961,15 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460532": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Bicycling (leisurely, < 12mph/20kph)",
+        "10 minutes of Jumping Rope, moderate",
+        "5 minutes of Sit-ups / Push-ups / Crunches"
+      ],
+      "journalText": ""
+    },
     "1453439": {
       "photo": "",
       "activityTexts": [],
@@ -1999,15 +2008,6 @@
     "1458326": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1460532": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Bicycling (leisurely, < 12mph/20kph)",
-        "10 minutes of Jumping Rope, moderate",
-        "5 minutes of Sit-ups / Push-ups / Crunches"
-      ],
       "journalText": ""
     },
     "1453287": {
@@ -3906,6 +3906,11 @@
       "activityTexts": [
         "45 minutes of Strength"
       ],
+      "journalText": ""
+    },
+    "1453354": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1451711": {
@@ -5989,11 +5994,6 @@
       "journalText": ""
     },
     "1461984": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453354": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
