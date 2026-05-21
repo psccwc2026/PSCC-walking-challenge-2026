@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T06:10:30.829853+00:00",
+  "lastUpdated": "2026-05-21T06:15:34.799587+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1306,6 +1306,14 @@
                 "45 minutes of Bicycling (leisurely, < 12mph/20kph)",
                 "20 minutes of Body Weight Exercises (Squats, etc) "
               ]
+            },
+            "2026-05-20": {
+              "steps": 2150,
+              "activities": 9800,
+              "activityTexts": [
+                "60 minutes of Bicycling (leisurely, < 12mph/20kph)",
+                "20 minutes of Body Weight Exercises (Squats, etc) "
+              ]
             }
           },
           "memberId": 1456294
@@ -1900,8 +1908,8 @@
       "outOf": 199
     },
     "132610": {
-      "position": 148,
-      "tally": 12949,
+      "position": 134,
+      "tally": 14656,
       "outOf": 199
     }
   },
