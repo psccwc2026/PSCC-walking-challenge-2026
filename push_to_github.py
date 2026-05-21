@@ -664,17 +664,6 @@ def main():
     _push_file("walking_data.json", json_content.encode("utf-8"))
     print("   walking_data.json synced to repo")
 
-    # Push any journal cache files updated this sync run
-    # (passed via env var JOURNAL_CACHE_UPDATED as comma-separated relative paths)
-    cache_paths = [p.strip() for p in os.environ.get("JOURNAL_CACHE_UPDATED", "").split(",") if p.strip()]
-    if cache_paths:
-        for rel_path in cache_paths:
-            abs_path = os.path.join(WORKSPACE, rel_path)
-            if os.path.exists(abs_path):
-                with open(abs_path, "rb") as f:
-                    _push_file(rel_path, f.read(), message=f"Cache {rel_path}")
-        print(f"   {len(cache_paths)} journal cache file(s) synced to repo")
-
     # Keep Python scripts in sync so GitHub Actions always runs the latest version
     for script_name in ("push_to_github.py", "sync_walking_data.py"):
         script_path = os.path.join(WORKSPACE, script_name)
