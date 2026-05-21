@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T15:05:55.143022+00:00",
+  "lastUpdated": "2026-05-21T15:10:54.663313+00:00",
   "teams": [
     {
       "id": 132544,
@@ -551,13 +551,17 @@
               ]
             },
             "2026-05-20": {
-              "steps": 9491,
+              "steps": 9512,
               "activities": 4950,
               "activityTexts": [
                 "15 minutes of Bicycling (leisurely, < 12mph/20kph)",
                 "10 minutes of Jumping Rope, moderate",
                 "5 minutes of Sit-ups / Push-ups / Crunches"
               ]
+            },
+            "2026-05-21": {
+              "steps": 53,
+              "activities": 0
             }
           },
           "memberId": 1460532
@@ -1297,7 +1301,7 @@
               ]
             },
             "2026-05-21": {
-              "steps": 227,
+              "steps": 346,
               "activities": 0
             }
           },
@@ -1921,7 +1925,7 @@
               "activities": 2700
             },
             "2026-05-21": {
-              "steps": 1466,
+              "steps": 1548,
               "activities": 0
             }
           },
@@ -1948,11 +1952,15 @@
               ]
             },
             "2026-05-20": {
-              "steps": 9200,
+              "steps": 9257,
               "activities": 20200,
               "activityTexts": [
                 "101 minutes of Bicycling (vigorous, 14mph+ / 22kph"
               ]
+            },
+            "2026-05-21": {
+              "steps": 806,
+              "activities": 0
             }
           },
           "memberId": 1456304
@@ -1963,12 +1971,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 58105,
+      "tally": 58114,
       "outOf": 199
     },
     "132609": {
       "position": 4,
-      "tally": 57899,
+      "tally": 58000,
       "outOf": 199
     },
     "132626": {
@@ -1978,7 +1986,7 @@
     },
     "132610": {
       "position": 150,
-      "tally": 14688,
+      "tally": 14705,
       "outOf": 199
     }
   },
