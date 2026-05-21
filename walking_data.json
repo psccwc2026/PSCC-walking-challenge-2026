@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T00:40:52.539128+00:00",
+  "lastUpdated": "2026-05-21T00:45:42.715453+00:00",
   "teams": [
     {
       "id": 132544,
@@ -756,8 +756,11 @@
               ]
             },
             "2026-05-20": {
-              "steps": 13335,
-              "activities": 0
+              "steps": 13978,
+              "activities": 3000,
+              "activityTexts": [
+                "30 minutes of Weight lifting"
+              ]
             }
           },
           "memberId": 1456374
@@ -1825,8 +1828,8 @@
       "outOf": 199
     },
     "132626": {
-      "position": 33,
-      "tally": 26299,
+      "position": 31,
+      "tally": 26819,
       "outOf": 199
     },
     "132610": {
