@@ -831,16 +831,16 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1451627": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1456711": {
       "photo": "",
       "activityTexts": [
         "60 minutes of Weight lifting"
       ],
+      "journalText": ""
+    },
+    "1451627": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1453366": {
@@ -3281,6 +3281,13 @@
     "1460116": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1457252": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Aerobics"
+      ],
       "journalText": ""
     },
     "1452065": {
@@ -6271,13 +6278,6 @@
       "photo": "",
       "activityTexts": [
         "3 miles of Walking (miles of)"
-      ],
-      "journalText": ""
-    },
-    "1457252": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Aerobics"
       ],
       "journalText": ""
     },
