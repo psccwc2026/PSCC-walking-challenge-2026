@@ -2360,6 +2360,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459468": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452462": {
       "photo": "",
       "activityTexts": [],
@@ -2500,11 +2505,6 @@
       "journalText": ""
     },
     "1451444": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459468": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4289,6 +4289,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462865": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461321": {
       "photo": "",
       "activityTexts": [
@@ -4480,6 +4485,11 @@
       "journalText": ""
     },
     "1463473": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460493": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5090,7 +5100,9 @@
     },
     "1460269": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Aerobics"
+      ],
       "journalText": ""
     },
     "1456482": {
@@ -5359,11 +5371,6 @@
         "60 minutes of Bicycling (leisurely, < 12mph/20kph)",
         "20 minutes of Body Weight Exercises (Squats, etc) "
       ],
-      "journalText": ""
-    },
-    "1462865": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1461350": {
@@ -5727,11 +5734,6 @@
       "activityTexts": [
         "60 minutes of Boxing"
       ],
-      "journalText": ""
-    },
-    "1460493": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1456451": {
