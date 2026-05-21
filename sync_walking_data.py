@@ -23,6 +23,11 @@ CHALLENGE_START = "2026-05-18"
 CHALLENGE_END   = "2026-06-15"
 API_BASE        = "https://apiv3.walkertracker.com"
 
+# The Be Well API uses Pacific time for journal 'created' dates.
+# The sync server (GitHub Actions) runs in UTC, so we must apply this offset
+# to avoid sealing the wrong day when it's still evening in Pacific time.
+PACIFIC_OFFSET_HOURS = -7  # PDT (UTC-7); change to -8 after Nov daylight saving ends
+
 HEADERS_BASE = {
     "Content-Type": "application/json",
     "Accept": "application/json, text/plain, */*",
@@ -86,26 +91,23 @@ def fetch_team_data(team_id, token, start_date, end_date):
         return json.loads(resp.read())
 
 
-def fetch_journal_data(token):
-    """Fetch journal entries (photos + activity text) for a rolling 3-day window.
+JOURNAL_CACHE_DIR = os.path.join(WORKSPACE, "journal_cache")
 
-    Querying the full challenge range hits ~475 entries/day across all 199 program
-    teams, so a 20-page cap would miss data by day 3. Instead we always fetch only
-    the last 3 days — enough to capture late-logged activities while staying well
-    within a 50-page safety cap (~1,500 entries max).  The merge step is additive,
-    so previously stored texts are never overwritten.
+
+def fetch_day_journal(token, date_str):
+    """Fetch ALL journal entries for one specific calendar day.
+
+    For a single day there are ~475 entries across 199 program teams = ~10 pages.
+    This replaces the rolling 3-day window approach: past days are fetched once
+    and sealed; only today needs a fresh fetch each sync run.
+
+    Returns: {str(memberId): {photo, activityTexts, journalText}}
     """
-    from datetime import timedelta
     headers = {**HEADERS_BASE, "Authorization": f"Bearer {token}"}
+    start_date = f"{date_str}T00:00:00.000Z"
+    end_date   = f"{date_str}T23:59:59.999Z"
 
-    today      = date.today()
-    win_start  = max(date.fromisoformat(CHALLENGE_START), today - timedelta(days=2))
-    win_end    = min(today, date.fromisoformat(CHALLENGE_END))
-    start_date = f"{win_start.isoformat()}T00:00:00.000Z"
-    end_date   = f"{win_end.isoformat()}T23:59:59.999Z"
-
-    # Build lookup: {(memberId, "YYYY-MM-DD"): {photo, activityTexts, journalText}}
-    journal_lookup = {}
+    members = {}
     page = 1
     while True:
         params = urllib.parse.urlencode({
@@ -122,23 +124,102 @@ def fetch_journal_data(token):
         if not entries:
             break
         for entry in entries:
-            member_id = entry.get("memberId")
-            date_str  = entry.get("created")  # "YYYY-MM-DD"
-            if not member_id or not date_str:
+            mid = str(entry.get("memberId", ""))
+            if not mid:
                 continue
-            key = (member_id, date_str)
             activity_texts = [a.get("text", "") for a in (entry.get("activities") or []) if a.get("text")]
-            # Prefer richer entry: keep existing if new one has less detail
-            existing = journal_lookup.get(key, {})
-            journal_lookup[key] = {
+            existing = members.get(mid, {})
+            members[mid] = {
                 "photo":         entry.get("imageLarge") or entry.get("image") or existing.get("photo", ""),
                 "activityTexts": activity_texts or existing.get("activityTexts", []),
                 "journalText":   entry.get("text") or existing.get("journalText", ""),
             }
         page += 1
-        if page > 100:  # safety cap — 100 pages × 50 entries = 5,000 max
+        if page > 25:  # 25 pages × 50 = 1,250 — well above any single day's volume
             break
-    return journal_lookup
+    return members
+
+
+def load_day_cache(date_str):
+    """Load a cached journal day. Returns the full cache dict, or None if not found."""
+    path = os.path.join(JOURNAL_CACHE_DIR, f"{date_str}.json")
+    if os.path.exists(path):
+        with open(path) as f:
+            return json.load(f)
+    return None
+
+
+def save_day_cache(date_str, members, sealed):
+    """Write journal data for one day to journal_cache/YYYY-MM-DD.json."""
+    os.makedirs(JOURNAL_CACHE_DIR, exist_ok=True)
+    path = os.path.join(JOURNAL_CACHE_DIR, f"{date_str}.json")
+    with open(path, "w") as f:
+        json.dump({"date": date_str, "sealed": sealed, "members": members}, f, indent=2)
+    return path
+
+
+def build_journal_lookup_from_cache():
+    """Read all cache files and return lookup: {(str_mid, date_str): {photo, activityTexts, journalText}}"""
+    lookup = {}
+    if not os.path.exists(JOURNAL_CACHE_DIR):
+        return lookup
+    for fname in sorted(os.listdir(JOURNAL_CACHE_DIR)):
+        if not fname.endswith(".json"):
+            continue
+        date_str = fname[:-5]
+        with open(os.path.join(JOURNAL_CACHE_DIR, fname)) as f:
+            cache = json.load(f)
+        for mid_str, jdata in cache.get("members", {}).items():
+            lookup[(mid_str, date_str)] = jdata
+    return lookup
+
+
+def sync_journal_cache(token):
+    """Ensure every challenge day up to today has a cache file.
+
+    - Past days (before today): fetch once and mark sealed=True. Never re-fetched.
+    - Today: always re-fetch and save with sealed=False (data still accumulating).
+
+    Returns list of cache file paths that were created or updated this run.
+    """
+    from datetime import timedelta
+    # Use Pacific time so we don't seal today's data prematurely when UTC rolls over
+    today_d   = (datetime.now(timezone.utc) + timedelta(hours=PACIFIC_OFFSET_HOURS)).date()
+    today_str = today_d.isoformat()
+    start_d   = date.fromisoformat(CHALLENGE_START)
+    end_d     = date.fromisoformat(CHALLENGE_END)
+
+    # All challenge days from start up to today (inclusive)
+    days = []
+    d = start_d
+    while d <= min(today_d, end_d):
+        days.append(d.isoformat())
+        d += timedelta(days=1)
+
+    updated_files = []
+
+    for day in days:
+        if day < today_str:
+            # Past day — only fetch if not already sealed
+            cache = load_day_cache(day)
+            if cache and cache.get("sealed"):
+                continue  # Already done, skip
+            print(f"   Sealing journal for {day}...", end="", flush=True)
+            members = fetch_day_journal(token, day)
+            save_day_cache(day, members, sealed=True)
+            updated_files.append(f"journal_cache/{day}.json")
+            photos = sum(1 for v in members.values() if v.get("photo"))
+            print(f" ✓ {len(members)} members, {photos} photos (sealed)")
+        else:
+            # Today — always refresh (activities accumulate through the day)
+            print(f"   Fetching today's journal ({day})...", end="", flush=True)
+            members = fetch_day_journal(token, day)
+            save_day_cache(day, members, sealed=False)
+            updated_files.append(f"journal_cache/{day}.json")
+            photos = sum(1 for v in members.values() if v.get("photo"))
+            print(f" ✓ {len(members)} members, {photos} photos")
+
+    return updated_files
 
 
 CHALLENGE_ID    = 90886
@@ -265,7 +346,8 @@ def main(start_date=None, end_date=None):
     if start_date is None:
         start_date = f"{CHALLENGE_START}T00:00:00.000Z"
     if end_date is None:
-        today = date.today().isoformat()
+        from datetime import timedelta
+        today = (datetime.now(timezone.utc) + timedelta(hours=PACIFIC_OFFSET_HOURS)).date().isoformat()
         end_date = f"{today}T23:59:59.999Z"
     print(f"   Date range: {start_date[:10]} → {end_date[:10]}")
 
@@ -289,33 +371,33 @@ def main(start_date=None, end_date=None):
         except Exception as e:
             print(f" ✗ ERROR: {e}")
 
-    # Fetch journal data (photos + activity text) — rolling 3-day window
-    print("   Fetching journal entries (photos + activity text, last 3 days)...", end="", flush=True)
+    # Journal cache: seal past days once, refresh today each run
+    print("📓 Syncing journal cache...")
     try:
-        journal_lookup = fetch_journal_data(token)
-        photo_count = sum(1 for v in journal_lookup.values() if v.get("photo"))
-        # Layer journal data into each member's daily records
-        for team in existing["teams"]:
-            for member in team["members"]:
-                member_id = member.get("memberId")
-                if not member_id:
-                    continue
-                for date_str, day_data in member["dailyData"].items():
-                    # Try both int and str forms of memberId to guard against API type inconsistency
-                    key = (member_id, date_str)
-                    key_str = (str(member_id), date_str)
-                    if key in journal_lookup or key_str in journal_lookup:
-                        journal_lookup_key = key if key in journal_lookup else key_str
-                        j = journal_lookup[journal_lookup_key]
-                        if j.get("photo"):
-                            day_data["photo"] = j["photo"]
-                        if j.get("activityTexts"):
-                            day_data["activityTexts"] = j["activityTexts"]
-                        if j.get("journalText"):
-                            day_data["journalText"] = j["journalText"]
-        print(f" ✓ {len(journal_lookup)} entries ({photo_count} with photos)")
+        updated_cache_files = sync_journal_cache(token)
     except Exception as e:
-        print(f" ✗ ERROR: {e}")
+        print(f"   ✗ Journal cache ERROR: {e}")
+        updated_cache_files = []
+
+    # Build full journal lookup from all cache files and apply to member dailyData
+    journal_lookup = build_journal_lookup_from_cache()
+    photo_count = 0
+    for team in existing["teams"]:
+        for member in team["members"]:
+            mid_str = str(member.get("memberId", ""))
+            if not mid_str:
+                continue
+            for date_str, day_data in member["dailyData"].items():
+                j = journal_lookup.get((mid_str, date_str))
+                if j:
+                    if j.get("photo"):
+                        day_data["photo"] = j["photo"]
+                        photo_count += 1
+                    if j.get("activityTexts"):
+                        day_data["activityTexts"] = j["activityTexts"]
+                    if j.get("journalText"):
+                        day_data["journalText"] = j["journalText"]
+    print(f"   Applied journal data: {len(journal_lookup)} member-day entries, {photo_count} photos")
 
     # Fetch global challenge rankings for all 4 teams (full paginated scan)
     print("   Fetching global challenge rankings...", end="", flush=True)
@@ -340,12 +422,13 @@ def main(start_date=None, end_date=None):
     print(f"\n✅ walking_data.json updated")
     print(f"   Teams: {len(existing['teams'])} | Members: {total_members}")
 
-    # Push to GitHub Pages
+    # Push to GitHub Pages (pass updated cache files so push script only pushes what changed)
     print("\n🚀 Pushing dashboard to GitHub Pages...")
     push_script = os.path.join(WORKSPACE, "push_to_github.py")
+    env = {**os.environ, "JOURNAL_CACHE_UPDATED": ",".join(updated_cache_files)}
     result = subprocess.run(
         [sys.executable, push_script],
-        capture_output=True, text=True
+        capture_output=True, text=True, env=env
     )
     if result.returncode == 0:
         print(result.stdout.strip())
