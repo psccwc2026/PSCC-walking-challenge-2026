@@ -2571,6 +2571,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452403": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453605": {
       "photo": "",
       "activityTexts": [],
@@ -3186,6 +3191,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1464760": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460786": {
       "photo": "",
       "activityTexts": [],
@@ -3453,15 +3463,10 @@
       "journalText": ""
     },
     "1462846": {
-      "photo": "",
+      "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/21/0_dt6exqwjat_large.jpg",
       "activityTexts": [
         "20 minutes of Stretching"
       ],
-      "journalText": ""
-    },
-    "1464760": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1451728": {
@@ -3781,11 +3786,6 @@
       "activityTexts": [
         "25 minutes of Swimming, leisure"
       ],
-      "journalText": ""
-    },
-    "1452403": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1458259": {
@@ -6395,6 +6395,13 @@
       "photo": "",
       "activityTexts": [
         "20 minutes of Rowing Machine"
+      ],
+      "journalText": ""
+    },
+    "1453392": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Aerobics"
       ],
       "journalText": ""
     },
