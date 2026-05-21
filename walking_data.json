@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T07:55:19.458380+00:00",
+  "lastUpdated": "2026-05-21T11:58:49.958047+00:00",
   "teams": [
     {
       "id": 132544,
@@ -440,7 +440,11 @@
               "activities": 0
             },
             "2026-05-20": {
-              "steps": 8675,
+              "steps": 9611,
+              "activities": 0
+            },
+            "2026-05-21": {
+              "steps": 51,
               "activities": 0
             }
           },
@@ -948,11 +952,15 @@
               "activities": 0
             },
             "2026-05-19": {
-              "steps": 193,
+              "steps": 1539,
               "activities": 0
             },
             "2026-05-18": {
               "steps": 1454,
+              "activities": 0
+            },
+            "2026-05-20": {
+              "steps": 3473,
               "activities": 0
             }
           },
@@ -1038,6 +1046,10 @@
               "activityTexts": [
                 "60 minutes of HIIT (High intensity interval traini"
               ]
+            },
+            "2026-05-21": {
+              "steps": 59,
+              "activities": 0
             }
           },
           "memberId": 1456373
@@ -1606,7 +1618,7 @@
               ]
             },
             "2026-05-21": {
-              "steps": 1643,
+              "steps": 7092,
               "activities": 7500,
               "activityTexts": [
                 "60 minutes of Aerobics"
@@ -1863,8 +1875,12 @@
               "activities": 2025
             },
             "2026-05-20": {
-              "steps": 9185,
+              "steps": 9260,
               "activities": 2700
+            },
+            "2026-05-21": {
+              "steps": 69,
+              "activities": 0
             }
           },
           "memberId": 1456306
@@ -1905,21 +1921,21 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 54121,
+      "tally": 54231,
       "outOf": 199
     },
     "132609": {
-      "position": 7,
-      "tally": 47618,
+      "position": 8,
+      "tally": 48308,
       "outOf": 199
     },
     "132626": {
-      "position": 30,
-      "tally": 29209,
+      "position": 34,
+      "tally": 29906,
       "outOf": 199
     },
     "132610": {
-      "position": 140,
+      "position": 146,
       "tally": 14656,
       "outOf": 199
     }
