@@ -301,9 +301,12 @@ def main(start_date=None, end_date=None):
                 if not member_id:
                     continue
                 for date_str, day_data in member["dailyData"].items():
+                    # Try both int and str forms of memberId to guard against API type inconsistency
                     key = (member_id, date_str)
-                    if key in journal_lookup:
-                        j = journal_lookup[key]
+                    key_str = (str(member_id), date_str)
+                    if key in journal_lookup or key_str in journal_lookup:
+                        journal_lookup_key = key if key in journal_lookup else key_str
+                        j = journal_lookup[journal_lookup_key]
                         if j.get("photo"):
                             day_data["photo"] = j["photo"]
                         if j.get("activityTexts"):
