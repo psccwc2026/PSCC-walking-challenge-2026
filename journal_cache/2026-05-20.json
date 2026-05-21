@@ -261,7 +261,9 @@
     },
     "1452535": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "61 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+      ],
       "journalText": ""
     },
     "1460346": {
@@ -941,12 +943,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459480": {
+    "1463275": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1463275": {
+    "1459480": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1259,6 +1261,13 @@
       "photo": "",
       "activityTexts": [
         "68 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
+      "journalText": ""
+    },
+    "1452034": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Dancing"
       ],
       "journalText": ""
     },
@@ -1860,6 +1869,15 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460532": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Bicycling (leisurely, < 12mph/20kph)",
+        "10 minutes of Jumping Rope, moderate",
+        "5 minutes of Sit-ups / Push-ups / Crunches"
+      ],
+      "journalText": ""
+    },
     "1453287": {
       "photo": "",
       "activityTexts": [],
@@ -1878,15 +1896,6 @@
     "1463118": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1460532": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Bicycling (leisurely, < 12mph/20kph)",
-        "10 minutes of Jumping Rope, moderate",
-        "5 minutes of Sit-ups / Push-ups / Crunches"
-      ],
       "journalText": ""
     },
     "1460700": {
@@ -1963,6 +1972,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456304": {
+      "photo": "",
+      "activityTexts": [
+        "101 minutes of Bicycling (vigorous, 14mph+ / 22kph"
+      ],
+      "journalText": ""
+    },
     "1461964": {
       "photo": "",
       "activityTexts": [],
@@ -1976,13 +1992,6 @@
     "1453298": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1456304": {
-      "photo": "",
-      "activityTexts": [
-        "101 minutes of Bicycling (vigorous, 14mph+ / 22kph"
-      ],
       "journalText": ""
     },
     "1451706": {
@@ -6001,6 +6010,11 @@
       "activityTexts": [
         "20 minutes of Stretching"
       ],
+      "journalText": ""
+    },
+    "1452879": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1462991": {
