@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T05:30:34.010385+00:00",
+  "lastUpdated": "2026-05-21T05:35:23.207996+00:00",
   "teams": [
     {
       "id": 132544,
@@ -282,7 +282,7 @@
               ]
             },
             "2026-05-20": {
-              "steps": 17210,
+              "steps": 20632,
               "activities": 20680,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/21/0_nPZhgyPU8f_large.jpg",
               "activityTexts": [
@@ -370,7 +370,7 @@
             },
             "2026-05-20": {
               "steps": 8968,
-              "activities": 4550
+              "activities": 11050
             }
           },
           "memberId": 1453462
@@ -1886,7 +1886,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 52841,
+      "tally": 53944,
       "outOf": 199
     },
     "132609": {
