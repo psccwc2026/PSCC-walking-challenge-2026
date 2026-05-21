@@ -760,6 +760,11 @@
       ],
       "journalText": ""
     },
+    "1453472": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459318": {
       "photo": "",
       "activityTexts": [
@@ -784,11 +789,6 @@
       "journalText": ""
     },
     "1452304": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453472": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3141,6 +3141,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452209": {
+      "photo": "",
+      "activityTexts": [
+        "75 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1457555": {
       "photo": "",
       "activityTexts": [],
@@ -3183,13 +3190,6 @@
     "1453351": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452209": {
-      "photo": "",
-      "activityTexts": [
-        "75 minutes of Strength"
-      ],
       "journalText": ""
     },
     "1458956": {
@@ -3986,6 +3986,13 @@
       ],
       "journalText": ""
     },
+    "1460316": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
+      "journalText": ""
+    },
     "1460093": {
       "photo": "",
       "activityTexts": [],
@@ -4076,13 +4083,6 @@
     "1462081": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1460316": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Bicycling (moderate, 12-14mph/20-22k"
-      ],
       "journalText": ""
     },
     "1458302": {
@@ -4451,6 +4451,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458307": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463186": {
       "photo": "",
       "activityTexts": [],
@@ -4551,11 +4556,6 @@
       "journalText": ""
     },
     "1462487": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458307": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5816,7 +5816,9 @@
     },
     "1453505": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Walking, average"
+      ],
       "journalText": ""
     },
     "1461396": {
