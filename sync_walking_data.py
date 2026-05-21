@@ -136,7 +136,7 @@ def fetch_journal_data(token):
                 "journalText":   entry.get("text") or existing.get("journalText", ""),
             }
         page += 1
-        if page > 50:  # safety cap — 50 pages × 50 entries = 2,500 max
+        if page > 100:  # safety cap — 100 pages × 50 entries = 5,000 max
             break
     return journal_lookup
 
