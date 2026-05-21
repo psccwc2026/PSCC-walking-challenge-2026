@@ -356,7 +356,9 @@
     },
     "1461798": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Walking, average"
+      ],
       "journalText": ""
     },
     "1461987": {
@@ -2127,6 +2129,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459792": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456841": {
       "photo": "",
       "activityTexts": [
@@ -2704,6 +2711,11 @@
         "32 minutes of Bicycling (leisurely, < 12mph/20kph)",
         "47 minutes of Strength"
       ],
+      "journalText": ""
+    },
+    "1459593": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1451480": {
@@ -4277,11 +4289,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459593": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1463097": {
       "photo": "",
       "activityTexts": [],
@@ -5078,6 +5085,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458435": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453283": {
       "photo": "",
       "activityTexts": [
@@ -5098,11 +5110,6 @@
       "journalText": ""
     },
     "1453034": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458435": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
