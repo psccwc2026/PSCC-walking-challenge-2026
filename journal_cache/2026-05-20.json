@@ -814,6 +814,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460603": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451450": {
       "photo": "",
       "activityTexts": [],
@@ -3075,7 +3080,9 @@
     },
     "1461720": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1462394": {
@@ -4540,7 +4547,8 @@
     "1459980": {
       "photo": "",
       "activityTexts": [
-        "60 minutes of Circuit training"
+        "60 minutes of Circuit training",
+        "60 minutes of Spinning (bike)"
       ],
       "journalText": ""
     },
@@ -4625,7 +4633,9 @@
     },
     "1458148": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "2 miles of Walking (miles of)"
+      ],
       "journalText": ""
     },
     "1462321": {
@@ -5801,6 +5811,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459496": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456373": {
       "photo": "",
       "activityTexts": [
@@ -5880,11 +5895,6 @@
       "journalText": ""
     },
     "1453444": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459496": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
