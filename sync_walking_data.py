@@ -196,14 +196,19 @@ def sync_journal_cache(token):
         days.append(d.isoformat())
         d += timedelta(days=1)
 
+    # Days within this window are always kept live (re-fetched every sync, not sealed).
+    # 2 days covers: today + yesterday — handles late-logged activities and next-morning photo posts.
+    LIVE_WINDOW_DAYS = 2
+    seal_cutoff = (today_d - timedelta(days=LIVE_WINDOW_DAYS - 1)).isoformat()  # anything before this gets sealed
+
     updated_files = []
 
     for day in days:
-        if day < today_str:
-            # Past day — only fetch if not already sealed
+        if day < seal_cutoff:
+            # Old enough to seal — fetch once and never again
             cache = load_day_cache(day)
             if cache and cache.get("sealed"):
-                continue  # Already done, skip
+                continue  # Already sealed, skip
             print(f"   Sealing journal for {day}...", end="", flush=True)
             members = fetch_day_journal(token, day)
             save_day_cache(day, members, sealed=True)
@@ -211,8 +216,8 @@ def sync_journal_cache(token):
             photos = sum(1 for v in members.values() if v.get("photo"))
             print(f" ✓ {len(members)} members, {photos} photos (sealed)")
         else:
-            # Today — always refresh (activities accumulate through the day)
-            print(f"   Fetching today's journal ({day})...", end="", flush=True)
+            # Within live window (today or yesterday) — always refresh
+            print(f"   Refreshing journal for {day}...", end="", flush=True)
             members = fetch_day_journal(token, day)
             save_day_cache(day, members, sealed=False)
             updated_files.append(f"journal_cache/{day}.json")
