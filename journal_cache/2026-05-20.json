@@ -2420,7 +2420,9 @@
     },
     "1462465": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "188 minutes of Ballet dancing"
+      ],
       "journalText": ""
     },
     "1459579": {
@@ -3388,6 +3390,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462846": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Stretching"
+      ],
+      "journalText": ""
+    },
     "1464760": {
       "photo": "",
       "activityTexts": [],
@@ -4331,6 +4340,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453549": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462947": {
       "photo": "",
       "activityTexts": [
@@ -4393,11 +4407,6 @@
       "journalText": ""
     },
     "1460779": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453549": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4546,6 +4555,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458717": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459003": {
       "photo": "",
       "activityTexts": [
@@ -4643,11 +4657,6 @@
       "journalText": ""
     },
     "1461255": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458717": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5733,6 +5742,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452195": {
+      "photo": "",
+      "activityTexts": [
+        "27 minutes of Running, 8 min. mile/4:58 kilometer",
+        "10 minutes of Walking, brisk"
+      ],
+      "journalText": ""
+    },
     "1463695": {
       "photo": "",
       "activityTexts": [],
@@ -5806,14 +5823,6 @@
     "1462854": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452195": {
-      "photo": "",
-      "activityTexts": [
-        "27 minutes of Running, 8 min. mile/4:58 kilometer",
-        "10 minutes of Walking, brisk"
-      ],
       "journalText": ""
     },
     "1461413": {
@@ -6279,13 +6288,6 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of Yoga"
-      ],
-      "journalText": ""
-    },
-    "1462846": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Stretching"
       ],
       "journalText": ""
     },
