@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T14:20:36.545986+00:00",
+  "lastUpdated": "2026-05-21T14:25:37.148212+00:00",
   "teams": [
     {
       "id": 132544,
@@ -722,11 +722,11 @@
               "activities": 0
             },
             "2026-05-20": {
-              "steps": 14452,
+              "steps": 14471,
               "activities": 0
             },
             "2026-05-21": {
-              "steps": 1399,
+              "steps": 1435,
               "activities": 0
             }
           },
@@ -978,6 +978,10 @@
             "2026-05-20": {
               "steps": 3473,
               "activities": 0
+            },
+            "2026-05-21": {
+              "steps": 9,
+              "activities": 0
             }
           },
           "memberId": 1456435
@@ -1065,7 +1069,7 @@
             },
             "2026-05-21": {
               "steps": 560,
-              "activities": 0,
+              "activities": 14340,
               "activityTexts": [
                 "60 minutes of HIIT (High intensity interval traini"
               ]
@@ -1472,7 +1476,7 @@
               "activities": 0
             },
             "2026-05-20": {
-              "steps": 2369,
+              "steps": 7748,
               "activities": 0
             }
           },
@@ -1902,7 +1906,7 @@
               "activities": 2700
             },
             "2026-05-21": {
-              "steps": 1025,
+              "steps": 1305,
               "activities": 0
             }
           },
@@ -1949,16 +1953,16 @@
     },
     "132609": {
       "position": 8,
-      "tally": 48446,
+      "tally": 49006,
       "outOf": 199
     },
     "132626": {
       "position": 27,
-      "tally": 32661,
+      "tally": 32671,
       "outOf": 199
     },
     "132610": {
-      "position": 149,
+      "position": 150,
       "tally": 14656,
       "outOf": 199
     }
