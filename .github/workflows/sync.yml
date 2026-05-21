@@ -1,8 +1,6 @@
 name: Sync Walking Data
 
 on:
-  schedule:  
-    - cron: '*/5 * * * *'   # Every 5 minutes
   workflow_dispatch:  
 
 jobs:
