@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T19:45:57.245639+00:00",
+  "lastUpdated": "2026-05-21T19:50:33.721182+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1328,7 +1328,7 @@
               ]
             },
             "2026-05-21": {
-              "steps": 7329,
+              "steps": 8784,
               "activities": 3000,
               "activityTexts": [
                 "30 minutes of Body Weight Exercises (Squats, etc) "
@@ -1997,8 +1997,8 @@
               ]
             },
             "2026-05-21": {
-              "steps": 806,
-              "activities": 0
+              "steps": 1782,
+              "activities": 10800
             }
           },
           "memberId": 1456304
@@ -2008,8 +2008,8 @@
   ],
   "challengeRankings": {
     "132609": {
-      "position": 4,
-      "tally": 59398,
+      "position": 3,
+      "tally": 60870,
       "outOf": 199
     },
     "132544": {
@@ -2018,13 +2018,13 @@
       "outOf": 199
     },
     "132626": {
-      "position": 28,
+      "position": 29,
       "tally": 35342,
       "outOf": 199
     },
     "132610": {
-      "position": 151,
-      "tally": 16359,
+      "position": 149,
+      "tally": 16567,
       "outOf": 199
     }
   },
