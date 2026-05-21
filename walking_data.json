@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T03:30:35.989521+00:00",
+  "lastUpdated": "2026-05-21T03:35:35.089520+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1657,7 +1657,10 @@
             },
             "2026-05-20": {
               "steps": 10126,
-              "activities": 0
+              "activities": 1250,
+              "activityTexts": [
+                "10 minutes of Aerobics"
+              ]
             }
           },
           "memberId": 1452695
@@ -1869,7 +1872,7 @@
     },
     "132609": {
       "position": 6,
-      "tally": 45106,
+      "tally": 45263,
       "outOf": 199
     },
     "132626": {
@@ -1878,7 +1881,7 @@
       "outOf": 199
     },
     "132610": {
-      "position": 149,
+      "position": 150,
       "tally": 12492,
       "outOf": 199
     }
