@@ -522,7 +522,9 @@
     },
     "1456296": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "90 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1452334": {
@@ -4374,6 +4376,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461814": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451509": {
       "photo": "",
       "activityTexts": [
@@ -4673,11 +4680,6 @@
       "journalText": ""
     },
     "1458291": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461814": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
