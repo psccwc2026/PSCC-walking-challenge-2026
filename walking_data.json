@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T22:05:53.074715+00:00",
+  "lastUpdated": "2026-05-21T22:10:50.226001+00:00",
   "teams": [
     {
       "id": 132544,
@@ -381,7 +381,7 @@
               "activities": 11050
             },
             "2026-05-21": {
-              "steps": 1071,
+              "steps": 1100,
               "activities": 0
             }
           },
@@ -456,7 +456,7 @@
               "activities": 0
             },
             "2026-05-21": {
-              "steps": 2193,
+              "steps": 2221,
               "activities": 0
             }
           },
@@ -1010,7 +1010,7 @@
               "activities": 0
             },
             "2026-05-21": {
-              "steps": 442,
+              "steps": 460,
               "activities": 0
             }
           },
@@ -1884,9 +1884,10 @@
             },
             "2026-05-21": {
               "steps": 3257,
-              "activities": 0,
+              "activities": 1764,
               "activityTexts": [
-                "7 minutes of Stair climbing, down stairs"
+                "7 minutes of Stair climbing, down stairs",
+                "7 minutes of Stair climbing, up stairs"
               ]
             }
           },
@@ -2015,17 +2016,17 @@
   "challengeRankings": {
     "132609": {
       "position": 4,
-      "tally": 61328,
+      "tally": 61486,
       "outOf": 199
     },
     "132544": {
       "position": 5,
-      "tally": 60360,
+      "tally": 60367,
       "outOf": 199
     },
     "132626": {
       "position": 31,
-      "tally": 35917,
+      "tally": 35920,
       "outOf": 199
     },
     "132610": {
