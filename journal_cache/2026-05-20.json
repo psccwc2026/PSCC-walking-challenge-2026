@@ -3321,6 +3321,15 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456842": {
+      "photo": "",
+      "activityTexts": [
+        "10 minutes of Ski machine",
+        "10 minutes of Rowing Machine",
+        "20 minutes of Running, 8 min. mile/4:58 kilometer"
+      ],
+      "journalText": ""
+    },
     "1462531": {
       "photo": "",
       "activityTexts": [],
@@ -3440,15 +3449,6 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Weight lifting"
-      ],
-      "journalText": ""
-    },
-    "1456842": {
-      "photo": "",
-      "activityTexts": [
-        "10 minutes of Ski machine",
-        "10 minutes of Rowing Machine",
-        "20 minutes of Running, 8 min. mile/4:58 kilometer"
       ],
       "journalText": ""
     },
@@ -6362,6 +6362,13 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Gymnastics"
+      ],
+      "journalText": ""
+    },
+    "1452562": {
+      "photo": "",
+      "activityTexts": [
+        "80 minutes of Walking, average"
       ],
       "journalText": ""
     },
