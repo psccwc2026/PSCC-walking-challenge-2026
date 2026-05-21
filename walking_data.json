@@ -263,7 +263,11 @@
             },
             "2026-05-18": {
               "steps": 30252,
-              "activities": 20680
+              "activities": 20680,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/19/0_NWWZEWJGba_large.jpg",
+              "activityTexts": [
+                "94 minutes of Swimming hard"
+              ]
             },
             "2026-05-19": {
               "steps": 22360,
