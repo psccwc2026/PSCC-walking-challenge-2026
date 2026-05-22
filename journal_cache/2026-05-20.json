@@ -623,6 +623,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461934": {
+      "photo": "",
+      "activityTexts": [
+        "270 minutes of Golf, Walking"
+      ],
+      "journalText": ""
+    },
     "1461248": {
       "photo": "",
       "activityTexts": [],
@@ -1529,6 +1536,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452538": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460813": {
       "photo": "",
       "activityTexts": [],
@@ -1747,7 +1759,8 @@
     "1462905": {
       "photo": "",
       "activityTexts": [
-        "27 minutes of Aerobics"
+        "27 minutes of Aerobics",
+        "15 minutes of Circuit training"
       ],
       "journalText": ""
     },
@@ -2706,11 +2719,6 @@
       "journalText": ""
     },
     "1452483": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452538": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5385,6 +5393,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453574": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Yoga",
+        "20 minutes of Walking, average"
+      ],
+      "journalText": ""
+    },
     "1458704": {
       "photo": "",
       "activityTexts": [],
@@ -6245,13 +6261,6 @@
       ],
       "journalText": ""
     },
-    "1461934": {
-      "photo": "",
-      "activityTexts": [
-        "270 minutes of Golf, Walking"
-      ],
-      "journalText": ""
-    },
     "1459631": {
       "photo": "",
       "activityTexts": [
@@ -6459,14 +6468,6 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of Weight lifting"
-      ],
-      "journalText": ""
-    },
-    "1453574": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Yoga",
-        "20 minutes of Walking, average"
       ],
       "journalText": ""
     },
