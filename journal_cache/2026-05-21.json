@@ -1804,6 +1804,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460623": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456295": {
       "photo": "",
       "activityTexts": [],
@@ -1857,11 +1862,6 @@
       "journalText": ""
     },
     "1451714": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460623": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2835,6 +2835,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451733": {
+      "photo": "",
+      "activityTexts": [
+        "50 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+      ],
+      "journalText": ""
+    },
     "1459276": {
       "photo": "",
       "activityTexts": [
@@ -3177,13 +3184,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1451733": {
-      "photo": "",
-      "activityTexts": [
-        "50 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-      ],
-      "journalText": ""
-    },
     "1452142": {
       "photo": "",
       "activityTexts": [
@@ -3380,6 +3380,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451630": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460861": {
       "photo": "",
       "activityTexts": [],
@@ -3401,11 +3406,6 @@
       "journalText": ""
     },
     "1460473": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1451630": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5141,6 +5141,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456953": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453563": {
       "photo": "",
       "activityTexts": [],
@@ -6002,6 +6007,15 @@
       "activityTexts": [
         "35 minutes of Spinning (bike)",
         "30 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
+    "1463278": {
+      "photo": "",
+      "activityTexts": [
+        "31 minutes of Bicycling (moderate, 12-14mph/20-22k",
+        "30 minutes of Body Weight Exercises (Squats, etc) ",
+        "5 minutes of Sit-ups / Push-ups / Crunches"
       ],
       "journalText": ""
     },
