@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T03:40:32.419782+00:00",
+  "lastUpdated": "2026-05-22T03:45:33.611068+00:00",
   "teams": [
     {
       "id": 132544,
@@ -465,7 +465,10 @@
             },
             "2026-05-21": {
               "steps": 5645,
-              "activities": 0
+              "activities": 0,
+              "activityTexts": [
+                "20 minutes of Basketball"
+              ]
             }
           },
           "memberId": 1453439
@@ -515,7 +518,7 @@
               "activities": 0
             },
             "2026-05-21": {
-              "steps": 7101,
+              "steps": 7395,
               "activities": 0
             }
           },
@@ -2029,7 +2032,7 @@
     },
     "132544": {
       "position": 4,
-      "tally": 67717,
+      "tally": 68073,
       "outOf": 199
     },
     "132626": {
