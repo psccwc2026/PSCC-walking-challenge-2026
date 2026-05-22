@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T23:05:48.422127+00:00",
+  "lastUpdated": "2026-05-22T23:10:42.348813+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1903,7 +1903,7 @@
               ]
             },
             "2026-05-22": {
-              "steps": 4528,
+              "steps": 5541,
               "activities": 0,
               "activityTexts": [
                 "15 minutes of Aerobics"
@@ -2156,7 +2156,7 @@
   "challengeRankings": {
     "132609": {
       "position": 3,
-      "tally": 82971,
+      "tally": 83098,
       "outOf": 199
     },
     "132544": {
