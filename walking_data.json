@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T03:45:33.611068+00:00",
+  "lastUpdated": "2026-05-22T03:50:31.383178+00:00",
   "teams": [
     {
       "id": 132544,
@@ -465,9 +465,10 @@
             },
             "2026-05-21": {
               "steps": 5645,
-              "activities": 0,
+              "activities": 5500,
               "activityTexts": [
-                "20 minutes of Basketball"
+                "20 minutes of Basketball",
+                "20 minutes of Bicycling (leisurely, < 12mph/20kph)"
               ]
             }
           },
@@ -2032,7 +2033,7 @@
     },
     "132544": {
       "position": 4,
-      "tally": 68073,
+      "tally": 68362,
       "outOf": 199
     },
     "132626": {
