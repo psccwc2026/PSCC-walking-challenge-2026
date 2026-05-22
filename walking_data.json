@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T04:35:30.182112+00:00",
+  "lastUpdated": "2026-05-22T04:40:31.895240+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1115,7 +1115,7 @@
               ]
             },
             "2026-05-21": {
-              "steps": 1847,
+              "steps": 1920,
               "activities": 14340,
               "activityTexts": [
                 "60 minutes of HIIT (High intensity interval traini"
@@ -2045,8 +2045,8 @@
       "outOf": 199
     },
     "132626": {
-      "position": 39,
-      "tally": 36444,
+      "position": 40,
+      "tally": 36455,
       "outOf": 199
     },
     "132610": {
