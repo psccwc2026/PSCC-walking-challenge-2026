@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T01:15:30.876777+00:00",
+  "lastUpdated": "2026-05-22T01:20:46.570500+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1883,7 +1883,7 @@
               "activities": 15054
             },
             "2026-05-21": {
-              "steps": 9965,
+              "steps": 10084,
               "activities": 1764,
               "activityTexts": [
                 "7 minutes of Stair climbing, down stairs",
@@ -1970,7 +1970,7 @@
               "activities": 2700
             },
             "2026-05-21": {
-              "steps": 7977,
+              "steps": 9957,
               "activities": 2025
             }
           },
@@ -2016,7 +2016,7 @@
   "challengeRankings": {
     "132609": {
       "position": 3,
-      "tally": 65554,
+      "tally": 65817,
       "outOf": 199
     },
     "132544": {
