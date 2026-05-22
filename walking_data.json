@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T06:45:50.680804+00:00",
+  "lastUpdated": "2026-05-22T06:50:44.026614+00:00",
   "teams": [
     {
       "id": 132544,
@@ -762,7 +762,7 @@
               ]
             },
             "2026-05-21": {
-              "steps": 3372,
+              "steps": 3695,
               "activities": 0
             }
           },
@@ -1414,7 +1414,7 @@
             },
             "2026-05-21": {
               "steps": 1450,
-              "activities": 5850,
+              "activities": 7350,
               "activityTexts": [
                 "45 minutes of Bicycling (leisurely, < 12mph/20kph)",
                 "15 minutes of Body Weight Exercises (Squats, etc) "
@@ -2054,7 +2054,7 @@
     },
     "132626": {
       "position": 44,
-      "tally": 36462,
+      "tally": 36645,
       "outOf": 199
     },
     "132610": {
