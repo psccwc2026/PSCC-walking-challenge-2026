@@ -697,6 +697,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456089": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452603": {
       "photo": "",
       "activityTexts": [],
@@ -806,11 +811,6 @@
         "15 minutes of Body Weight Exercises (Squats, etc) ",
         "11 minutes of Rowing Machine"
       ],
-      "journalText": ""
-    },
-    "1456089": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452753": {
@@ -4777,7 +4777,9 @@
     },
     "1459051": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "15 minutes of Elliptical trainer"
+      ],
       "journalText": ""
     },
     "1459980": {
