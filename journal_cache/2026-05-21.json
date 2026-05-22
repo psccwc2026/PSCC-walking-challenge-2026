@@ -1239,6 +1239,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453121": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452754": {
       "photo": "",
       "activityTexts": [],
@@ -1265,11 +1270,6 @@
       "journalText": ""
     },
     "1456994": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453121": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1508,7 +1508,10 @@
     },
     "1461335": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "10 minutes of Aerobics",
+        "10 minutes of Body Weight Exercises (Squats, etc) "
+      ],
       "journalText": ""
     },
     "1453603": {
@@ -1560,12 +1563,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452354": {
+    "1461973": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1461973": {
+    "1452354": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5837,6 +5840,14 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of Zumba (tm)"
+      ],
+      "journalText": ""
+    },
+    "1458913": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Running, 10 min. mile/6:12 kilometer",
+        "30 minutes of Walking, average"
       ],
       "journalText": ""
     },
