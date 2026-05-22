@@ -1970,6 +1970,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459318": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
     "1460555": {
       "photo": "",
       "activityTexts": [],
@@ -2040,13 +2047,6 @@
       "photo": "",
       "activityTexts": [
         "40 minutes of Bicycling (moderate, 12-14mph/20-22k"
-      ],
-      "journalText": ""
-    },
-    "1459318": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Body Weight Exercises (Squats, etc) "
       ],
       "journalText": ""
     },
@@ -5642,7 +5642,9 @@
     },
     "1460787": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Running, 10 min. mile/6:12 kilometer"
+      ],
       "journalText": ""
     },
     "1461903": {
