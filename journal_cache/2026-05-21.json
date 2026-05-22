@@ -479,17 +479,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461991": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460093": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1451477": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461991": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2581,6 +2581,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461262": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460542": {
       "photo": "",
       "activityTexts": [],
@@ -3000,11 +3005,6 @@
       "journalText": ""
     },
     "1451480": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461262": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3470,7 +3470,9 @@
     },
     "1459398": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "35 minutes of Dancing"
+      ],
       "journalText": ""
     },
     "1462871": {
