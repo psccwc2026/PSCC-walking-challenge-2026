@@ -1284,6 +1284,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459847": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
+      "journalText": ""
+    },
     "1459664": {
       "photo": "",
       "activityTexts": [],
@@ -1297,13 +1304,6 @@
     "1461255": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1459847": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Bicycling (leisurely, < 12mph/20kph)"
-      ],
       "journalText": ""
     },
     "1462992": {
@@ -2765,6 +2765,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461413": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462127": {
       "photo": "",
       "activityTexts": [],
@@ -2785,11 +2790,6 @@
       "activityTexts": [
         "15 minutes of Body Weight Exercises (Squats, etc) "
       ],
-      "journalText": ""
-    },
-    "1461413": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460605": {
@@ -3344,9 +3344,21 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452651": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462377": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1459558": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Spinning (bike)"
+      ],
       "journalText": ""
     },
     "1452514": {
@@ -3498,11 +3510,6 @@
       "journalText": ""
     },
     "1462270": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452651": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3712,13 +3719,6 @@
       "photo": "",
       "activityTexts": [
         "35 minutes of Boxing"
-      ],
-      "journalText": ""
-    },
-    "1459558": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Spinning (bike)"
       ],
       "journalText": ""
     },
