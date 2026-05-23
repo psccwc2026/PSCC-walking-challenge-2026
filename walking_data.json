@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T11:25:25.394481+00:00",
+  "lastUpdated": "2026-05-23T11:30:36.086145+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1650,7 +1650,7 @@
               ]
             },
             "2026-05-22": {
-              "steps": 3600,
+              "steps": 4293,
               "activities": 4585,
               "activityTexts": [
                 "35 minutes of Boxing"
@@ -2212,7 +2212,7 @@
   "challengeRankings": {
     "132609": {
       "position": 3,
-      "tally": 89131,
+      "tally": 89218,
       "outOf": 199
     },
     "132544": {
