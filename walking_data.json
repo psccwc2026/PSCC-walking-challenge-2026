@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T14:00:30.100313+00:00",
+  "lastUpdated": "2026-05-23T14:05:25.664201+00:00",
   "teams": [
     {
       "id": 132544,
@@ -319,10 +319,10 @@
             "2026-05-22": {
               "steps": 15832,
               "activities": 4000,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/23/0_rpXvgzILSQ_large.jpg",
               "activityTexts": [
                 "20 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-              ],
-              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/23/0_rpXvgzILSQ_large.jpg"
+              ]
             },
             "2026-05-23": {
               "steps": 114,
@@ -1856,7 +1856,7 @@
               ]
             },
             "2026-05-23": {
-              "steps": 16438,
+              "steps": 16446,
               "activities": 0
             },
             "2026-05-22": {
@@ -2229,7 +2229,7 @@
     },
     "132609": {
       "position": 5,
-      "tally": 90134,
+      "tally": 90135,
       "outOf": 199
     },
     "132626": {
@@ -2238,7 +2238,7 @@
       "outOf": 199
     },
     "132610": {
-      "position": 168,
+      "position": 169,
       "tally": 21763,
       "outOf": 199
     }
