@@ -1047,6 +1047,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458373": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463118": {
       "photo": "",
       "activityTexts": [],
@@ -1141,11 +1146,6 @@
       "journalText": ""
     },
     "1459002": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458373": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2175,7 +2175,9 @@
     },
     "1460077": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "90 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1460188": {
@@ -3039,6 +3041,13 @@
       ],
       "journalText": ""
     },
+    "1459498": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1451451": {
       "photo": "",
       "activityTexts": [
@@ -3158,13 +3167,6 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of HIIT (High intensity interval traini"
-      ],
-      "journalText": ""
-    },
-    "1459498": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Weight lifting"
       ],
       "journalText": ""
     },
