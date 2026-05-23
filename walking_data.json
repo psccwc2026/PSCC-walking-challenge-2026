@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T06:55:41.353471+00:00",
+  "lastUpdated": "2026-05-23T07:00:53.645265+00:00",
   "teams": [
     {
       "id": 132544,
@@ -408,7 +408,7 @@
               "activities": 16220
             },
             "2026-05-22": {
-              "steps": 14175,
+              "steps": 14550,
               "activities": 15550
             }
           },
@@ -817,6 +817,10 @@
             },
             "2026-05-22": {
               "steps": 4543,
+              "activities": 0
+            },
+            "2026-05-23": {
+              "steps": 800,
               "activities": 0
             }
           },
@@ -1834,6 +1838,10 @@
             "2026-05-22": {
               "steps": 13095,
               "activities": 0
+            },
+            "2026-05-23": {
+              "steps": 3671,
+              "activities": 0
             }
           },
           "memberId": 1456302
@@ -1931,11 +1939,15 @@
               ]
             },
             "2026-05-22": {
-              "steps": 12004,
+              "steps": 12424,
               "activities": 2500,
               "activityTexts": [
                 "20 minutes of Aerobics"
               ]
+            },
+            "2026-05-23": {
+              "steps": 8,
+              "activities": 0
             }
           },
           "memberId": 1452695
@@ -2034,6 +2046,10 @@
             },
             "2026-05-22": {
               "steps": 7852,
+              "activities": 0
+            },
+            "2026-05-23": {
+              "steps": 52,
               "activities": 0
             }
           },
@@ -2184,12 +2200,12 @@
   "challengeRankings": {
     "132609": {
       "position": 3,
-      "tally": 88265,
+      "tally": 88318,
       "outOf": 199
     },
     "132544": {
       "position": 4,
-      "tally": 87840,
+      "tally": 87882,
       "outOf": 199
     },
     "132626": {
