@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T13:55:38.842087+00:00",
+  "lastUpdated": "2026-05-23T14:00:30.100313+00:00",
   "teams": [
     {
       "id": 132544,
@@ -317,11 +317,16 @@
               "activities": 0
             },
             "2026-05-22": {
-              "steps": 609,
+              "steps": 15832,
               "activities": 4000,
               "activityTexts": [
                 "20 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-              ]
+              ],
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/23/0_rpXvgzILSQ_large.jpg"
+            },
+            "2026-05-23": {
+              "steps": 114,
+              "activities": 0
             }
           },
           "memberId": 1456064
@@ -2217,14 +2222,14 @@
     }
   ],
   "challengeRankings": {
-    "132609": {
+    "132544": {
       "position": 4,
-      "tally": 90134,
+      "tally": 90326,
       "outOf": 199
     },
-    "132544": {
+    "132609": {
       "position": 5,
-      "tally": 88622,
+      "tally": 90134,
       "outOf": 199
     },
     "132626": {
@@ -2233,7 +2238,7 @@
       "outOf": 199
     },
     "132610": {
-      "position": 167,
+      "position": 168,
       "tally": 21763,
       "outOf": 199
     }
