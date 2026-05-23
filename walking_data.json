@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T20:35:43.412559+00:00",
+  "lastUpdated": "2026-05-23T20:40:31.638741+00:00",
   "teams": [
     {
       "id": 132544,
@@ -416,7 +416,7 @@
               "activities": 11050
             },
             "2026-05-23": {
-              "steps": 398,
+              "steps": 507,
               "activities": 0
             },
             "2026-05-22": {
@@ -2250,7 +2250,7 @@
               "activities": 22400
             },
             "2026-05-23": {
-              "steps": 7371,
+              "steps": 7875,
               "activities": 10320,
               "activityTexts": [
                 "60 minutes of Hiking"
@@ -2274,7 +2274,7 @@
     },
     "132544": {
       "position": 6,
-      "tally": 94338,
+      "tally": 94350,
       "outOf": 199
     },
     "132626": {
