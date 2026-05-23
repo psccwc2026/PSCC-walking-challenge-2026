@@ -878,6 +878,13 @@
       ],
       "journalText": ""
     },
+    "1462556": {
+      "photo": "",
+      "activityTexts": [
+        "90 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1452464": {
       "photo": "",
       "activityTexts": [],
@@ -1053,13 +1060,6 @@
       "photo": "",
       "activityTexts": [
         "50 minutes of Pilates",
-        "90 minutes of Weight lifting"
-      ],
-      "journalText": ""
-    },
-    "1462556": {
-      "photo": "",
-      "activityTexts": [
         "90 minutes of Weight lifting"
       ],
       "journalText": ""
@@ -1687,7 +1687,7 @@
     "1452695": {
       "photo": "",
       "activityTexts": [
-        "15 minutes of Aerobics"
+        "20 minutes of Aerobics"
       ],
       "journalText": ""
     },
