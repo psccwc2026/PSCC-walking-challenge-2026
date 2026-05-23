@@ -3236,6 +3236,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457045": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462127": {
       "photo": "",
       "activityTexts": [],
@@ -4123,11 +4128,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1457045": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1452762": {
       "photo": "",
       "activityTexts": [],
@@ -4807,6 +4807,13 @@
     "1453089": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1458353": {
+      "photo": "",
+      "activityTexts": [
+        "35 minutes of Strength"
+      ],
       "journalText": ""
     },
     "1462153": {
@@ -6286,13 +6293,6 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of Walking, average"
-      ],
-      "journalText": ""
-    },
-    "1458353": {
-      "photo": "",
-      "activityTexts": [
-        "35 minutes of Strength"
       ],
       "journalText": ""
     },
