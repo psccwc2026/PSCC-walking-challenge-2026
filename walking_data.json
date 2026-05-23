@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T02:20:41.989415+00:00",
+  "lastUpdated": "2026-05-23T02:25:39.294099+00:00",
   "teams": [
     {
       "id": 132544,
@@ -546,7 +546,7 @@
               "activities": 0
             },
             "2026-05-22": {
-              "steps": 10082,
+              "steps": 10163,
               "activities": 0
             }
           },
@@ -811,7 +811,7 @@
               "activities": 0
             },
             "2026-05-22": {
-              "steps": 3868,
+              "steps": 4115,
               "activities": 0
             }
           },
@@ -1506,12 +1506,24 @@
           "username": "sidnat01",
           "dailyData": {
             "2026-05-19": {
-              "steps": 5979,
+              "steps": 6020,
               "activities": 9750
             },
             "2026-05-18": {
               "steps": 1286,
               "activities": 5850
+            },
+            "2026-05-22": {
+              "steps": 4009,
+              "activities": 0
+            },
+            "2026-05-21": {
+              "steps": 2507,
+              "activities": 0
+            },
+            "2026-05-20": {
+              "steps": 2206,
+              "activities": 0
             }
           },
           "memberId": 1461341
@@ -2172,7 +2184,7 @@
     },
     "132544": {
       "position": 4,
-      "tally": 82910,
+      "tally": 82919,
       "outOf": 199
     },
     "132626": {
@@ -2181,8 +2193,8 @@
       "outOf": 199
     },
     "132610": {
-      "position": 167,
-      "tally": 20157,
+      "position": 163,
+      "tally": 21409,
       "outOf": 199
     }
   },
