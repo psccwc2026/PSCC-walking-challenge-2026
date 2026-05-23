@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T17:05:44.064154+00:00",
+  "lastUpdated": "2026-05-23T17:10:43.100345+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1696,7 +1696,7 @@
               ]
             },
             "2026-05-23": {
-              "steps": 810,
+              "steps": 1715,
               "activities": 8700,
               "activityTexts": [
                 "30 minutes of Kickboxing"
@@ -2242,7 +2242,7 @@
               "activities": 22400
             },
             "2026-05-23": {
-              "steps": 7244,
+              "steps": 7371,
               "activities": 10320,
               "activityTexts": [
                 "60 minutes of Hiking"
