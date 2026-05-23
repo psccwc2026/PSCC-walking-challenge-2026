@@ -146,6 +146,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462383": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459468": {
       "photo": "",
       "activityTexts": [],
@@ -157,11 +162,6 @@
         "92 minutes of Running, 9 min. mile/5:35 kilometer",
         "10 minutes of Walking, brisk"
       ],
-      "journalText": ""
-    },
-    "1462383": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1453606": {
@@ -796,7 +796,9 @@
     },
     "1452739": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "32 minutes of Swimming hard"
+      ],
       "journalText": ""
     },
     "1459404": {
