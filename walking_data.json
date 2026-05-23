@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T01:45:36.948374+00:00",
+  "lastUpdated": "2026-05-23T01:50:38.050468+00:00",
   "teams": [
     {
       "id": 132544,
@@ -109,6 +109,13 @@
               "activityTexts": [
                 "180 minutes of Cricket",
                 "20 minutes of Body Weight Exercises (Squats, etc) "
+              ]
+            },
+            "2026-05-22": {
+              "steps": 7258,
+              "activities": 39000,
+              "activityTexts": [
+                "300 minutes of Cricket"
               ]
             }
           },
@@ -539,7 +546,7 @@
               "activities": 0
             },
             "2026-05-22": {
-              "steps": 9883,
+              "steps": 10082,
               "activities": 0
             }
           },
@@ -2160,8 +2167,8 @@
       "outOf": 199
     },
     "132544": {
-      "position": 6,
-      "tally": 77678,
+      "position": 4,
+      "tally": 82840,
       "outOf": 199
     },
     "132626": {
