@@ -2094,6 +2094,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452832": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451467": {
       "photo": "",
       "activityTexts": [],
@@ -2460,11 +2465,6 @@
       "journalText": ""
     },
     "1458368": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452832": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3058,7 +3058,9 @@
     },
     "1463056": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "56 minutes of Swimming hard"
+      ],
       "journalText": ""
     },
     "1458259": {
