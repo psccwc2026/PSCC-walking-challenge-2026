@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T10:05:22.854263+00:00",
+  "lastUpdated": "2026-05-24T10:10:38.657365+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1767,6 +1767,10 @@
                 "30 minutes of Kickboxing",
                 "45 minutes of Strength"
               ]
+            },
+            "2026-05-24": {
+              "steps": 44,
+              "activities": 0
             }
           },
           "memberId": 1456303
@@ -2337,7 +2341,7 @@
     },
     "132609": {
       "position": 6,
-      "tally": 101327,
+      "tally": 101333,
       "outOf": 199
     },
     "132626": {
