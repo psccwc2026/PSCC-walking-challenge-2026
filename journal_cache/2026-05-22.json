@@ -956,6 +956,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453121": {
+      "photo": "",
+      "activityTexts": [
+        "40 minutes of Circuit training"
+      ],
+      "journalText": ""
+    },
     "1452334": {
       "photo": "",
       "activityTexts": [],
@@ -1066,13 +1073,6 @@
     "1461893": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1453121": {
-      "photo": "",
-      "activityTexts": [
-        "40 minutes of Circuit training"
-      ],
       "journalText": ""
     },
     "1453000": {
@@ -4815,7 +4815,10 @@
     },
     "1452057": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "22 minutes of Stretching",
+        "23 minutes of Yoga"
+      ],
       "journalText": ""
     },
     "1462549": {
