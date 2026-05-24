@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T18:10:35.387853+00:00",
+  "lastUpdated": "2026-05-24T18:15:30.523810+00:00",
   "teams": [
     {
       "id": 132544,
@@ -436,7 +436,7 @@
               "activities": 16220
             },
             "2026-05-24": {
-              "steps": 563,
+              "steps": 649,
               "activities": 0
             }
           },
@@ -673,7 +673,7 @@
               ]
             },
             "2026-05-23": {
-              "steps": 9020,
+              "steps": 9101,
               "activities": 17385,
               "activityTexts": [
                 "30 minutes of Bicycling (moderate, 12-14mph/20-22k",
@@ -681,6 +681,17 @@
                 "20 minutes of Jumping Rope, fast",
                 "20 minutes of Stretching",
                 "30 minutes of Weight lifting"
+              ]
+            },
+            "2026-05-24": {
+              "steps": 7872,
+              "activities": 17470,
+              "activityTexts": [
+                "20 minutes of Bicycling (leisurely, < 12mph/20kph)",
+                "20 minutes of Body Weight Exercises (Squats, etc) ",
+                "30 minutes of Circuit training",
+                "15 minutes of Jumping Rope, moderate",
+                "30 minutes of Walking, brisk"
               ]
             }
           },
@@ -2007,7 +2018,7 @@
               "activities": 0
             },
             "2026-05-24": {
-              "steps": 18313,
+              "steps": 18854,
               "activities": 0
             }
           },
@@ -2216,7 +2227,7 @@
               "activities": 14284
             },
             "2026-05-24": {
-              "steps": 335,
+              "steps": 562,
               "activities": 0
             }
           },
@@ -2391,12 +2402,12 @@
   "challengeRankings": {
     "132544": {
       "position": 4,
-      "tally": 112897,
+      "tally": 115739,
       "outOf": 199
     },
     "132609": {
       "position": 5,
-      "tally": 111727,
+      "tally": 111823,
       "outOf": 199
     },
     "132626": {
