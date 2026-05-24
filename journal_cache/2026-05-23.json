@@ -376,17 +376,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462488": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459276": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1460555": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462488": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -973,6 +973,14 @@
     "1464217": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1462477": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of CrossFit fast (tm)",
+        "30 minutes of Calisthenics"
+      ],
       "journalText": ""
     },
     "1457993": {
@@ -3255,14 +3263,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462477": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of CrossFit fast (tm)",
-        "30 minutes of Calisthenics"
-      ],
-      "journalText": ""
-    },
     "1456482": {
       "photo": "",
       "activityTexts": [],
@@ -3870,6 +3870,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456374": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1456828": {
       "photo": "",
       "activityTexts": [],
@@ -3949,14 +3956,6 @@
     "1452736": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1456374": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Weight lifting",
-        "60 minutes of Hiking"
-      ],
       "journalText": ""
     },
     "1452452": {
@@ -4355,6 +4354,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462066": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452077": {
       "photo": "",
       "activityTexts": [],
@@ -4377,11 +4381,6 @@
         "30 minutes of Swimming, leisure",
         "30 minutes of Walking, stroll"
       ],
-      "journalText": ""
-    },
-    "1462066": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1462238": {
