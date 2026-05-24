@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T14:50:31.898894+00:00",
+  "lastUpdated": "2026-05-24T14:55:28.034981+00:00",
   "teams": [
     {
       "id": 132544,
@@ -891,7 +891,7 @@
               "activities": 0
             },
             "2026-05-24": {
-              "steps": 1494,
+              "steps": 1764,
               "activities": 0
             }
           },
@@ -1199,7 +1199,7 @@
               "activities": 0
             },
             "2026-05-24": {
-              "steps": 5253,
+              "steps": 7156,
               "activities": 0
             }
           },
@@ -2196,16 +2196,20 @@
               "activities": 15054
             },
             "2026-05-23": {
-              "steps": 5847,
+              "steps": 6192,
               "activities": 13200
             },
             "2026-05-22": {
-              "steps": 7852,
+              "steps": 7870,
               "activities": 0
             },
             "2026-05-21": {
               "steps": 17534,
               "activities": 14284
+            },
+            "2026-05-24": {
+              "steps": 335,
+              "activities": 0
             }
           },
           "memberId": 1456292
@@ -2383,12 +2387,12 @@
     },
     "132609": {
       "position": 5,
-      "tally": 110035,
+      "tally": 110122,
       "outOf": 199
     },
     "132626": {
-      "position": 38,
-      "tally": 56926,
+      "position": 37,
+      "tally": 57236,
       "outOf": 199
     },
     "132610": {
