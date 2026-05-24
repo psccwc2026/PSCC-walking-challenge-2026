@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T03:40:33.534259+00:00",
+  "lastUpdated": "2026-05-24T03:45:29.851755+00:00",
   "teams": [
     {
       "id": 132544,
@@ -974,7 +974,7 @@
               ]
             },
             "2026-05-23": {
-              "steps": 2060,
+              "steps": 2322,
               "activities": 13320,
               "activityTexts": [
                 "30 minutes of Weight lifting",
@@ -1513,7 +1513,7 @@
               "activities": 0
             },
             "2026-05-23": {
-              "steps": 8499,
+              "steps": 8716,
               "activities": 0
             }
           },
@@ -1734,7 +1734,7 @@
               ]
             },
             "2026-05-23": {
-              "steps": 9141,
+              "steps": 10577,
               "activities": 12300,
               "activityTexts": [
                 "30 minutes of Kickboxing",
@@ -2281,7 +2281,7 @@
               "activities": 22400
             },
             "2026-05-23": {
-              "steps": 8300,
+              "steps": 9926,
               "activities": 23520,
               "activityTexts": [
                 "60 minutes of Hiking",
@@ -2306,17 +2306,17 @@
     },
     "132609": {
       "position": 5,
-      "tally": 100662,
+      "tally": 101048,
       "outOf": 199
     },
     "132626": {
       "position": 38,
-      "tally": 54506,
+      "tally": 54544,
       "outOf": 199
     },
     "132610": {
       "position": 167,
-      "tally": 23322,
+      "tally": 23353,
       "outOf": 199
     }
   },
