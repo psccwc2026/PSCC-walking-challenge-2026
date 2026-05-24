@@ -1535,6 +1535,14 @@
       ],
       "journalText": ""
     },
+    "1456303": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Kickboxing",
+        "45 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1460693": {
       "photo": "",
       "activityTexts": [],
@@ -1548,14 +1556,6 @@
     "1464760": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1456303": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Kickboxing",
-        "45 minutes of Strength"
-      ],
       "journalText": ""
     },
     "1452730": {
@@ -4813,6 +4813,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452858": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461891": {
       "photo": "",
       "activityTexts": [],
@@ -4824,11 +4829,6 @@
       "journalText": ""
     },
     "1460191": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452858": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
