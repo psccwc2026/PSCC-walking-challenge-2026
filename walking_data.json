@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T04:55:28.288468+00:00",
+  "lastUpdated": "2026-05-24T05:00:30.807894+00:00",
   "teams": [
     {
       "id": 132544,
@@ -515,7 +515,7 @@
               "activities": 2600
             },
             "2026-05-23": {
-              "steps": 4660,
+              "steps": 5379,
               "activities": 6300
             }
           },
@@ -748,10 +748,10 @@
               ]
             },
             "2026-05-22": {
-              "steps": 0,
-              "activities": 0,
+              "steps": 4598,
+              "activities": 4500,
               "activityTexts": [
-                "0 minutes of Body Weight Exercises (Squats, etc) "
+                "45 minutes of Body Weight Exercises (Squats, etc) "
               ]
             },
             "2026-05-21": {
@@ -1513,7 +1513,7 @@
               "activities": 0
             },
             "2026-05-23": {
-              "steps": 9522,
+              "steps": 9788,
               "activities": 0
             }
           },
@@ -1734,7 +1734,7 @@
               ]
             },
             "2026-05-23": {
-              "steps": 10790,
+              "steps": 11007,
               "activities": 12300,
               "activityTexts": [
                 "30 minutes of Kickboxing",
@@ -2301,12 +2301,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 106301,
+      "tally": 107392,
       "outOf": 199
     },
     "132609": {
       "position": 5,
-      "tally": 101199,
+      "tally": 101226,
       "outOf": 199
     },
     "132626": {
@@ -2316,7 +2316,7 @@
     },
     "132610": {
       "position": 167,
-      "tally": 23468,
+      "tally": 23506,
       "outOf": 199
     }
   },
