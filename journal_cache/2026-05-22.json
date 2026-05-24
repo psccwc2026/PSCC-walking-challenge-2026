@@ -742,6 +742,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459860": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Stretching",
+        "90 minutes of Pickleball"
+      ],
+      "journalText": ""
+    },
     "1460117": {
       "photo": "",
       "activityTexts": [],
@@ -760,14 +768,6 @@
         "90 minutes of Tennis",
         "30 minutes of Swimming, leisure",
         "120 minutes of Golf, Walking"
-      ],
-      "journalText": ""
-    },
-    "1459860": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Stretching",
-        "90 minutes of Pickleball"
       ],
       "journalText": ""
     },
@@ -1635,7 +1635,9 @@
     },
     "1456374": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1462034": {
