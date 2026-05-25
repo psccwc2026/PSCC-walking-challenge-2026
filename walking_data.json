@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T04:45:43.789188+00:00",
+  "lastUpdated": "2026-05-25T04:50:52.103729+00:00",
   "teams": [
     {
       "id": 132544,
@@ -344,7 +344,15 @@
               ]
             },
             "2026-05-23": {
-              "steps": 114,
+              "steps": 20515,
+              "activities": 12000,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/25/0_hQ0wbW3jGJ_large.jpg",
+              "activityTexts": [
+                "60 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+              ]
+            },
+            "2026-05-24": {
+              "steps": 12874,
               "activities": 0
             }
           },
@@ -443,7 +451,7 @@
               "activities": 16220
             },
             "2026-05-24": {
-              "steps": 10952,
+              "steps": 10977,
               "activities": 19550
             }
           },
@@ -597,7 +605,7 @@
               "activities": 0
             },
             "2026-05-24": {
-              "steps": 17941,
+              "steps": 18307,
               "activities": 0
             }
           },
@@ -1597,7 +1605,7 @@
               "activities": 0
             },
             "2026-05-24": {
-              "steps": 4953,
+              "steps": 4991,
               "activities": 0
             }
           },
@@ -2424,12 +2432,12 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 131040,
+      "tally": 136114,
       "outOf": 199
     },
     "132609": {
       "position": 7,
-      "tally": 116461,
+      "tally": 116467,
       "outOf": 199
     },
     "132626": {
@@ -2439,7 +2447,7 @@
     },
     "132610": {
       "position": 165,
-      "tally": 27785,
+      "tally": 27790,
       "outOf": 199
     }
   },
