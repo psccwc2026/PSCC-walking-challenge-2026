@@ -236,6 +236,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451627": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461921": {
       "photo": "",
       "activityTexts": [],
@@ -290,11 +295,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1451627": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1460849": {
       "photo": "",
       "activityTexts": [],
@@ -329,6 +329,13 @@
         "45 minutes of Strength",
         "10 minutes of Stair climbing, machine",
         "15 minutes of Stretching"
+      ],
+      "journalText": ""
+    },
+    "1452061": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Body Weight Exercises (Squats, etc) "
       ],
       "journalText": ""
     },
@@ -387,6 +394,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452093": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460823": {
       "photo": "",
       "activityTexts": [],
@@ -428,11 +440,6 @@
         "55 minutes of Cross Training",
         "20 minutes of Strength"
       ],
-      "journalText": ""
-    },
-    "1452093": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1461933": {
@@ -634,7 +641,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456306": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451706": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460498": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -671,7 +688,7 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1456306": {
+    "1457953": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -718,7 +735,7 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1457953": {
+    "1455982": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -745,6 +762,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461858": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451447": {
       "photo": "",
       "activityTexts": [],
@@ -760,17 +782,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459354": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462313": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1460652": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461858": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -916,11 +938,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460498": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1459274": {
       "photo": "",
       "activityTexts": [],
@@ -1040,6 +1057,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461930": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460907": {
       "photo": "",
       "activityTexts": [],
@@ -1051,6 +1073,11 @@
       "journalText": ""
     },
     "1460117": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1453068": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1082,12 +1109,7 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1453068": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461347": {
+    "1461738": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1177,11 +1199,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1461738": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462338": {
       "photo": "",
       "activityTexts": [],
@@ -1219,18 +1236,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452061": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Body Weight Exercises (Squats, etc) "
-      ],
-      "journalText": ""
-    },
-    "1459354": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1461947": {
       "photo": "",
       "activityTexts": [
@@ -1263,7 +1268,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459907": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460923": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1462888": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1315,11 +1330,6 @@
       "activityTexts": [
         "70 minutes of Body Weight Exercises (Squats, etc) "
       ],
-      "journalText": ""
-    },
-    "1459907": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452079": {
@@ -1392,6 +1402,11 @@
       "journalText": ""
     },
     "1460524": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460656": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1470,11 +1485,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462888": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1459416": {
       "photo": "",
       "activityTexts": [],
@@ -1508,6 +1518,11 @@
       "journalText": ""
     },
     "1453447": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1453647": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1641,11 +1656,6 @@
       ],
       "journalText": ""
     },
-    "1453647": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1452724": {
       "photo": "",
       "activityTexts": [],
@@ -1677,6 +1687,11 @@
       "journalText": ""
     },
     "1459399": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460598": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1825,11 +1840,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460598": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1452464": {
       "photo": "",
       "activityTexts": [],
@@ -1867,6 +1877,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459904": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456848": {
       "photo": "",
       "activityTexts": [],
@@ -1900,11 +1915,6 @@
       "journalText": ""
     },
     "1452736": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459904": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1989,6 +1999,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461849": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459482": {
       "photo": "",
       "activityTexts": [],
@@ -2044,6 +2059,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460549": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459706": {
       "photo": "",
       "activityTexts": [
@@ -2068,12 +2088,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460549": {
+    "1453251": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1453251": {
+    "1463695": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2091,6 +2111,11 @@
       "journalText": ""
     },
     "1460593": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1452459": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2214,7 +2239,7 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1461930": {
+    "1459413": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2235,11 +2260,6 @@
       "journalText": ""
     },
     "1458398": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459413": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2343,22 +2363,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452459": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462280": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1452167": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460656": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2485,7 +2495,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459486": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461798": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1463216": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2505,12 +2525,22 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462203": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459468": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1462388": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1452832": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2577,11 +2607,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462203": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1452210": {
       "photo": "",
       "activityTexts": [],
@@ -2608,6 +2633,11 @@
       "journalText": ""
     },
     "1452072": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1462482": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2774,7 +2804,7 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452832": {
+    "1457648": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2851,11 +2881,21 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453393": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462477": {
       "photo": "",
       "activityTexts": [
         "60 minutes of CrossFit fast (tm)"
       ],
+      "journalText": ""
+    },
+    "1453170": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1459034": {
@@ -2869,11 +2909,6 @@
       "journalText": ""
     },
     "1451746": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453170": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2933,6 +2968,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456062": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461252": {
       "photo": "",
       "activityTexts": [],
@@ -2948,12 +2988,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462914": {
+    "1463313": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1453393": {
+    "1462914": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2983,6 +3023,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459840": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462400": {
       "photo": "",
       "activityTexts": [],
@@ -2994,11 +3039,6 @@
       "journalText": ""
     },
     "1458435": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1457648": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3044,11 +3084,6 @@
       "journalText": ""
     },
     "1452462": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459840": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3110,6 +3145,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459955": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460140": {
       "photo": "",
       "activityTexts": [
@@ -3127,7 +3167,7 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459486": {
+    "1462494": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3157,11 +3197,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1456062": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1460235": {
       "photo": "",
       "activityTexts": [],
@@ -3173,11 +3208,6 @@
       "journalText": ""
     },
     "1459415": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459955": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3213,11 +3243,6 @@
       "journalText": ""
     },
     "1452110": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1463313": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3379,11 +3404,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1463216": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1460492": {
       "photo": "",
       "activityTexts": [],
@@ -3419,12 +3439,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453283": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452073": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1463695": {
+    "1452418": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3440,6 +3465,11 @@
       "journalText": ""
     },
     "1458437": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1463273": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3505,11 +3535,6 @@
       "journalText": ""
     },
     "1456682": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1463273": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3615,11 +3640,6 @@
       "journalText": ""
     },
     "1462188": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462482": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3772,11 +3792,6 @@
       "journalText": ""
     },
     "1453000": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453283": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
