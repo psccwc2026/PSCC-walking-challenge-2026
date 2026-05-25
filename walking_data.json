@@ -2467,24 +2467,24 @@
     }
   ],
   "challengeRankings": {
-    "132609": {
-      "position": 4,
-      "tally": 90537,
+    "132544": {
+      "position": 2,
+      "tally": 138813,
       "outOf": 199
     },
-    "132544": {
-      "position": 5,
-      "tally": 90326,
+    "132609": {
+      "position": 6,
+      "tally": 119373,
       "outOf": 199
     },
     "132626": {
-      "position": 60,
-      "tally": 41571,
+      "position": 45,
+      "tally": 64590,
       "outOf": 199
     },
     "132610": {
-      "position": 169,
-      "tally": 21763,
+      "position": 168,
+      "tally": 27951,
       "outOf": 199
     }
   },
