@@ -2562,6 +2562,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458398": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1458368": {
       "photo": "",
       "activityTexts": [],
@@ -2637,11 +2642,6 @@
       "journalText": ""
     },
     "1460916": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458398": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3301,6 +3301,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459827": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459710": {
       "photo": "",
       "activityTexts": [],
@@ -3942,11 +3947,6 @@
       "journalText": ""
     },
     "1452828": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459827": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4878,7 +4878,9 @@
     },
     "1451718": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Yoga"
+      ],
       "journalText": ""
     },
     "1458272": {
