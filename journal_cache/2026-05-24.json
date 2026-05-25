@@ -3801,6 +3801,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462145": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452255": {
       "photo": "",
       "activityTexts": [],
@@ -3821,11 +3826,6 @@
       "activityTexts": [
         "20 minutes of HIIT (High intensity interval traini"
       ],
-      "journalText": ""
-    },
-    "1462145": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460848": {
@@ -5115,6 +5115,14 @@
       "photo": "",
       "activityTexts": [
         "240 minutes of Golf, Walking"
+      ],
+      "journalText": ""
+    },
+    "1459813": {
+      "photo": "",
+      "activityTexts": [
+        "2 km of Walking (kilometers of)",
+        "60 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
       ],
       "journalText": ""
     },
