@@ -1546,7 +1546,9 @@
     },
     "1461950": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "35 minutes of Soccer"
+      ],
       "journalText": ""
     },
     "1460539": {
@@ -3025,6 +3027,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457045": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1457783": {
       "photo": "",
       "activityTexts": [],
@@ -3059,11 +3066,6 @@
       "activityTexts": [
         "180 minutes of Climbing, rock or mountain"
       ],
-      "journalText": ""
-    },
-    "1457045": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460568": {
@@ -3630,7 +3632,9 @@
     },
     "1459373": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Walking, stroll"
+      ],
       "journalText": ""
     },
     "1462122": {
@@ -5100,6 +5104,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460295": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Running, 10 min. mile/6:12 kilometer"
+      ],
+      "journalText": ""
+    },
     "1456810": {
       "photo": "",
       "activityTexts": [
@@ -5142,13 +5153,6 @@
       "photo": "",
       "activityTexts": [
         "7 miles of Walking (miles of)"
-      ],
-      "journalText": ""
-    },
-    "1460295": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Running, 10 min. mile/6:12 kilometer"
       ],
       "journalText": ""
     },
