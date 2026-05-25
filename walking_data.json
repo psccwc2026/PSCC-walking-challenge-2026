@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T23:55:32.459369+00:00",
+  "lastUpdated": "2026-05-25T00:00:42.209859+00:00",
   "teams": [
     {
       "id": 132544,
@@ -443,7 +443,7 @@
               "activities": 16220
             },
             "2026-05-24": {
-              "steps": 8042,
+              "steps": 9881,
               "activities": 5100
             }
           },
@@ -534,7 +534,7 @@
               "activities": 6300
             },
             "2026-05-24": {
-              "steps": 6453,
+              "steps": 6641,
               "activities": 0
             }
           },
@@ -2241,7 +2241,7 @@
               "activities": 14284
             },
             "2026-05-24": {
-              "steps": 562,
+              "steps": 3587,
               "activities": 0
             }
           },
@@ -2415,13 +2415,13 @@
   ],
   "challengeRankings": {
     "132544": {
-      "position": 3,
-      "tally": 124408,
+      "position": 2,
+      "tally": 124633,
       "outOf": 199
     },
     "132609": {
       "position": 6,
-      "tally": 114080,
+      "tally": 114463,
       "outOf": 199
     },
     "132626": {
