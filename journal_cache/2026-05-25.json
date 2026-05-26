@@ -870,6 +870,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462024": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
+      "journalText": ""
+    },
     "1460813": {
       "photo": "",
       "activityTexts": [],
@@ -974,13 +981,6 @@
     "1460119": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462024": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Bicycling (moderate, 12-14mph/20-22k"
-      ],
       "journalText": ""
     },
     "1455982": {
@@ -1692,7 +1692,9 @@
     },
     "1461769": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Boxing"
+      ],
       "journalText": ""
     },
     "1457555": {
