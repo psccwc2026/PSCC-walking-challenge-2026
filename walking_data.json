@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T15:00:56.020662+00:00",
+  "lastUpdated": "2026-05-26T15:05:45.537276+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1494,7 +1494,31 @@
               "activities": 0
             },
             "2026-05-20": {
-              "steps": 10869,
+              "steps": 10913,
+              "activities": 0
+            },
+            "2026-05-26": {
+              "steps": 120,
+              "activities": 0
+            },
+            "2026-05-25": {
+              "steps": 1443,
+              "activities": 0
+            },
+            "2026-05-24": {
+              "steps": 14246,
+              "activities": 0
+            },
+            "2026-05-23": {
+              "steps": 8983,
+              "activities": 0
+            },
+            "2026-05-22": {
+              "steps": 3213,
+              "activities": 0
+            },
+            "2026-05-21": {
+              "steps": 1917,
               "activities": 0
             }
           },
@@ -2478,7 +2502,7 @@
               ]
             },
             "2026-05-22": {
-              "steps": 0,
+              "steps": 5345,
               "activities": 2250,
               "activityTexts": [
                 "50 minutes of Yoga"
@@ -2490,6 +2514,21 @@
               "activityTexts": [
                 "60 minutes of Swimming hard"
               ]
+            },
+            "2026-05-25": {
+              "steps": 13266,
+              "activities": 2250,
+              "activityTexts": [
+                "50 minutes of Yoga"
+              ]
+            },
+            "2026-05-24": {
+              "steps": 12478,
+              "activities": 13200
+            },
+            "2026-05-23": {
+              "steps": 16242,
+              "activities": 2250
             }
           },
           "memberId": 1456298
@@ -2623,17 +2662,17 @@
       "outOf": 199
     },
     "132609": {
-      "position": 6,
-      "tally": 140273,
+      "position": 4,
+      "tally": 148402,
       "outOf": 199
     },
     "132626": {
-      "position": 55,
-      "tally": 71650,
+      "position": 44,
+      "tally": 75346,
       "outOf": 199
     },
     "132610": {
-      "position": 178,
+      "position": 179,
       "tally": 30002,
       "outOf": 199
     }
