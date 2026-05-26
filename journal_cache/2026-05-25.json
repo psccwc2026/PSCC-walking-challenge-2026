@@ -3455,6 +3455,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463300": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1457783": {
       "photo": "",
       "activityTexts": [
@@ -5588,6 +5593,13 @@
         "15 minutes of Walking, average",
         "30 minutes of Pickleball",
         "15 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
+    "1462401": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Running, average"
       ],
       "journalText": ""
     },
