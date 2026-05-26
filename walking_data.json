@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T17:40:43.921356+00:00",
+  "lastUpdated": "2026-05-26T17:45:47.365560+00:00",
   "teams": [
     {
       "id": 132544,
@@ -135,6 +135,10 @@
               "activityTexts": [
                 "240 minutes of Cricket"
               ]
+            },
+            "2026-05-26": {
+              "steps": 760,
+              "activities": 0
             }
           },
           "memberId": 1453382
@@ -2723,7 +2727,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 163856,
+      "tally": 163941,
       "outOf": 199
     },
     "132609": {
