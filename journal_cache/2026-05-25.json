@@ -1136,6 +1136,11 @@
       ],
       "journalText": ""
     },
+    "1452155": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1458978": {
       "photo": "",
       "activityTexts": [],
@@ -1224,11 +1229,6 @@
       "journalText": ""
     },
     "1459812": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452155": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2835,7 +2835,9 @@
     },
     "1452172": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "15 minutes of Rowing Machine"
+      ],
       "journalText": ""
     },
     "936457": {
