@@ -1841,6 +1841,11 @@
       ],
       "journalText": ""
     },
+    "1460626": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461793": {
       "photo": "",
       "activityTexts": [
@@ -1981,11 +1986,6 @@
       "journalText": ""
     },
     "1459902": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460626": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2362,7 +2362,9 @@
     },
     "1458384": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "36 minutes of Strength"
+      ],
       "journalText": ""
     },
     "1452722": {
