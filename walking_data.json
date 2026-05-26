@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T00:55:34.654300+00:00",
+  "lastUpdated": "2026-05-26T01:00:48.447499+00:00",
   "teams": [
     {
       "id": 132544,
@@ -119,7 +119,7 @@
               ]
             },
             "2026-05-24": {
-              "steps": 6313,
+              "steps": 8330,
               "activities": 36000,
               "activityTexts": [
                 "180 minutes of Climbing, rock or mountain"
@@ -128,6 +128,13 @@
             "2026-05-23": {
               "steps": 5772,
               "activities": 0
+            },
+            "2026-05-25": {
+              "steps": 6923,
+              "activities": 31200,
+              "activityTexts": [
+                "240 minutes of Cricket"
+              ]
             }
           },
           "memberId": 1453382
@@ -2461,7 +2468,7 @@
               "activities": 0
             },
             "2026-05-25": {
-              "steps": 9595,
+              "steps": 9955,
               "activities": 0
             }
           },
@@ -2534,12 +2541,12 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 147464,
+      "tally": 151924,
       "outOf": 199
     },
     "132609": {
       "position": 7,
-      "tally": 125521,
+      "tally": 125566,
       "outOf": 199
     },
     "132626": {
