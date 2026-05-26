@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T16:35:33.670694+00:00",
+  "lastUpdated": "2026-05-26T16:40:44.599409+00:00",
   "teams": [
     {
       "id": 132544,
@@ -654,7 +654,7 @@
               "activities": 0
             },
             "2026-05-26": {
-              "steps": 21,
+              "steps": 95,
               "activities": 0
             }
           },
@@ -2715,7 +2715,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 163015,
+      "tally": 163023,
       "outOf": 199
     },
     "132609": {
@@ -2729,7 +2729,7 @@
       "outOf": 199
     },
     "132610": {
-      "position": 137,
+      "position": 138,
       "tally": 45664,
       "outOf": 199
     }
