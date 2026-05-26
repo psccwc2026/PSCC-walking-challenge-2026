@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T03:00:48.748409+00:00",
+  "lastUpdated": "2026-05-26T03:05:34.676169+00:00",
   "teams": [
     {
       "id": 132544,
@@ -466,7 +466,7 @@
               "activities": 16220
             },
             "2026-05-25": {
-              "steps": 3905,
+              "steps": 4087,
               "activities": 3400
             },
             "2026-05-24": {
@@ -627,7 +627,7 @@
               "activities": 0
             },
             "2026-05-25": {
-              "steps": 7456,
+              "steps": 7777,
               "activities": 0
             },
             "2026-05-24": {
@@ -1087,7 +1087,7 @@
               ]
             },
             "2026-05-25": {
-              "steps": 2621,
+              "steps": 2960,
               "activities": 0
             },
             "2026-05-24": {
@@ -1412,8 +1412,11 @@
               ]
             },
             "2026-05-25": {
-              "steps": 2447,
-              "activities": 0
+              "steps": 2700,
+              "activities": 14340,
+              "activityTexts": [
+                "60 minutes of HIIT (High intensity interval traini"
+              ]
             },
             "2026-05-24": {
               "steps": 1477,
@@ -2541,7 +2544,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 152807,
+      "tally": 152843,
       "outOf": 199
     },
     "132609": {
@@ -2550,8 +2553,8 @@
       "outOf": 199
     },
     "132626": {
-      "position": 51,
-      "tally": 66686,
+      "position": 50,
+      "tally": 68771,
       "outOf": 199
     },
     "132610": {
