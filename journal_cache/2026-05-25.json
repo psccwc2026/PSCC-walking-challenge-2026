@@ -247,6 +247,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452518": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462509": {
       "photo": "",
       "activityTexts": [],
@@ -2926,6 +2931,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458883": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459416": {
       "photo": "",
       "activityTexts": [],
@@ -3520,7 +3530,9 @@
     },
     "1460473": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1462048": {
@@ -3721,11 +3733,6 @@
       "journalText": ""
     },
     "1460508": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458883": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
