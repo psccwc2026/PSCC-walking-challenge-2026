@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T15:05:45.537276+00:00",
+  "lastUpdated": "2026-05-26T15:10:53.163333+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1830,7 +1830,16 @@
         {
           "name": "Bhavan Adavikolanu",
           "username": "bhaada02",
-          "dailyData": {},
+          "dailyData": {
+            "2026-05-19": {
+              "steps": 14135,
+              "activities": 0
+            },
+            "2026-05-18": {
+              "steps": 15266,
+              "activities": 0
+            }
+          },
           "memberId": 1452087
         },
         {
@@ -2229,7 +2238,7 @@
               "activities": 0
             },
             "2026-05-26": {
-              "steps": 1504,
+              "steps": 1513,
               "activities": 0
             }
           },
@@ -2578,7 +2587,7 @@
               "activities": 0
             },
             "2026-05-26": {
-              "steps": 322,
+              "steps": 649,
               "activities": 0
             }
           },
@@ -2663,7 +2672,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 148402,
+      "tally": 148444,
       "outOf": 199
     },
     "132626": {
@@ -2672,8 +2681,8 @@
       "outOf": 199
     },
     "132610": {
-      "position": 179,
-      "tally": 30002,
+      "position": 169,
+      "tally": 34203,
       "outOf": 199
     }
   },
