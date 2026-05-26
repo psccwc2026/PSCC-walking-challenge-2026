@@ -1344,6 +1344,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462199": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462955": {
       "photo": "",
       "activityTexts": [
@@ -1616,6 +1621,11 @@
       "activityTexts": [
         "40 minutes of Weight lifting"
       ],
+      "journalText": ""
+    },
+    "1452879": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1462952": {
@@ -2656,6 +2666,13 @@
       ],
       "journalText": ""
     },
+    "1456839": {
+      "photo": "",
+      "activityTexts": [
+        "90 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1457242": {
       "photo": "",
       "activityTexts": [],
@@ -3403,6 +3420,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458445": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452166": {
       "photo": "",
       "activityTexts": [
@@ -3728,6 +3750,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458704": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459605": {
       "photo": "",
       "activityTexts": [],
@@ -3749,11 +3776,6 @@
       "journalText": ""
     },
     "1458405": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458704": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4402,13 +4424,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1456839": {
-      "photo": "",
-      "activityTexts": [
-        "90 minutes of Strength"
-      ],
-      "journalText": ""
-    },
     "1462494": {
       "photo": "",
       "activityTexts": [],
@@ -4784,7 +4799,10 @@
     },
     "1453393": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "3 miles of Walking (miles of)",
+        "60 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
       "journalText": ""
     },
     "1462396": {
