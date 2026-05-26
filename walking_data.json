@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T12:27:39.133139+00:00",
+  "lastUpdated": "2026-05-26T12:45:28.474644+00:00",
   "teams": [
     {
       "id": 132544,
@@ -751,7 +751,7 @@
               ]
             },
             "2026-05-25": {
-              "steps": 10210,
+              "steps": 10262,
               "activities": 16500,
               "activityTexts": [
                 "20 minutes of Bicycling (moderate, 12-14mph/20-22k",
@@ -759,6 +759,10 @@
                 "15 minutes of Jumping Rope, moderate",
                 "20 minutes of Squash"
               ]
+            },
+            "2026-05-26": {
+              "steps": 38,
+              "activities": 0
             }
           },
           "memberId": 1460532
@@ -852,7 +856,7 @@
               "steps": 4598,
               "activities": 4500,
               "activityTexts": [
-                "0 minutes of Body Weight Exercises (Squats, etc) "
+                "45 minutes of Body Weight Exercises (Squats, etc) "
               ]
             },
             "2026-05-21": {
@@ -1125,7 +1129,10 @@
             },
             "2026-05-22": {
               "steps": 10097,
-              "activities": 3000
+              "activities": 3000,
+              "activityTexts": [
+                "30 minutes of Weight lifting"
+              ]
             }
           },
           "memberId": 1456374
@@ -1699,7 +1706,10 @@
             },
             "2026-05-22": {
               "steps": 4799,
-              "activities": 6000
+              "activities": 6000,
+              "activityTexts": [
+                "60 minutes of Body Weight Exercises (Squats, etc) "
+              ]
             },
             "2026-05-23": {
               "steps": 10869,
@@ -2504,6 +2514,10 @@
             "2026-05-25": {
               "steps": 12423,
               "activities": 0
+            },
+            "2026-05-26": {
+              "steps": 84,
+              "activities": 0
             }
           },
           "memberId": 1456306
@@ -2575,16 +2589,16 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 160080,
+      "tally": 160089,
       "outOf": 199
     },
     "132609": {
       "position": 8,
-      "tally": 129826,
+      "tally": 129838,
       "outOf": 199
     },
     "132626": {
-      "position": 54,
+      "position": 55,
       "tally": 70523,
       "outOf": 199
     },
