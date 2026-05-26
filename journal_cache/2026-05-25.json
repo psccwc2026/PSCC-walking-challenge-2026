@@ -2174,6 +2174,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453502": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460861": {
       "photo": "",
       "activityTexts": [],
@@ -2986,11 +2991,6 @@
       "journalText": ""
     },
     "1452257": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453502": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3848,6 +3848,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1465049": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Dancing"
+      ],
+      "journalText": ""
+    },
     "1460204": {
       "photo": "",
       "activityTexts": [],
@@ -3873,13 +3880,6 @@
     "1451467": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1465049": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Dancing"
-      ],
       "journalText": ""
     },
     "1460634": {
@@ -5489,6 +5489,13 @@
       "photo": "",
       "activityTexts": [
         "80 minutes of Walking, average"
+      ],
+      "journalText": ""
+    },
+    "1461873": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Weight lifting"
       ],
       "journalText": ""
     },
