@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "sealed": false,
+  "sealed": true,
   "members": {
     "1453515": {
       "photo": "",
@@ -177,6 +177,11 @@
       "activityTexts": [
         "20 minutes of Rowing"
       ],
+      "journalText": ""
+    },
+    "1462364": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1452289": {
@@ -396,11 +401,6 @@
       ],
       "journalText": ""
     },
-    "1462364": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462509": {
       "photo": "",
       "activityTexts": [],
@@ -570,6 +570,11 @@
       "journalText": ""
     },
     "1451470": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460887": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
