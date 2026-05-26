@@ -1026,12 +1026,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459907": {
+    "1451453": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1451453": {
+    "1459907": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2533,7 +2533,9 @@
     },
     "1459399": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Aerobics"
+      ],
       "journalText": ""
     },
     "1460330": {
@@ -2554,6 +2556,11 @@
       "journalText": ""
     },
     "1460553": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460391": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2670,6 +2677,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459392": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453549": {
       "photo": "",
       "activityTexts": [],
@@ -2703,11 +2715,6 @@
       "journalText": ""
     },
     "1460542": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459392": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2833,11 +2840,6 @@
       "journalText": ""
     },
     "1459149": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460391": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4169,17 +4171,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460664": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453229": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1459845": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460664": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4208,6 +4210,11 @@
       "activityTexts": [
         "8 km of Walking (kilometers of)"
       ],
+      "journalText": ""
+    },
+    "1456917": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1453489": {
