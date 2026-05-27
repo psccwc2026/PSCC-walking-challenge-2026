@@ -717,6 +717,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460465": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460535": {
       "photo": "",
       "activityTexts": [],
@@ -772,11 +777,6 @@
       "journalText": ""
     },
     "1464217": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460465": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5463,6 +5463,16 @@
       ],
       "journalText": ""
     },
+    "1459833": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Tai chi",
+        "30 minutes of Walking, brisk",
+        "40 minutes of Walking, average",
+        "35 minutes of Horseback riding"
+      ],
+      "journalText": ""
+    },
     "1453392": {
       "photo": "",
       "activityTexts": [
@@ -5532,14 +5542,6 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Walking, average"
-      ],
-      "journalText": ""
-    },
-    "1459833": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Tai chi",
-        "30 minutes of Walking, brisk"
       ],
       "journalText": ""
     },
