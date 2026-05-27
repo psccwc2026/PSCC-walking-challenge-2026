@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T05:50:43.600809+00:00",
+  "lastUpdated": "2026-05-27T05:55:41.106493+00:00",
   "teams": [
     {
       "id": 132544,
@@ -382,11 +382,15 @@
               ]
             },
             "2026-05-25": {
-              "steps": 20472,
+              "steps": 20871,
               "activities": 13650,
               "activityTexts": [
                 "150 minutes of Volleyball"
               ]
+            },
+            "2026-05-26": {
+              "steps": 24788,
+              "activities": 0
             }
           },
           "memberId": 1456064
@@ -665,7 +669,7 @@
               "activities": 0
             },
             "2026-05-26": {
-              "steps": 13670,
+              "steps": 13698,
               "activities": 0
             }
           },
@@ -2435,7 +2439,7 @@
               ]
             },
             "2026-05-26": {
-              "steps": 8476,
+              "steps": 8987,
               "activities": 0
             },
             "2026-05-25": {
@@ -2767,12 +2771,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 174716,
+      "tally": 177518,
       "outOf": 199
     },
     "132609": {
       "position": 4,
-      "tally": 162730,
+      "tally": 162793,
       "outOf": 199
     },
     "132626": {
