@@ -1800,7 +1800,9 @@
     },
     "1461315": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Walking, average"
+      ],
       "journalText": ""
     },
     "1456448": {
@@ -2650,6 +2652,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452174": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452365": {
       "photo": "",
       "activityTexts": [
@@ -2746,11 +2753,6 @@
       "journalText": ""
     },
     "1456451": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452174": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
