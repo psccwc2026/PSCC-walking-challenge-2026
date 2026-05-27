@@ -1838,7 +1838,10 @@
     },
     "1451746": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "22 minutes of Running, 7 min. mile/4:20 kilometer",
+        "12 minutes of Running, 8 min. mile/4:58 kilometer"
+      ],
       "journalText": ""
     },
     "1458612": {
@@ -2337,6 +2340,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451711": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Stretching",
+        "65 minutes of Cross Training"
+      ],
+      "journalText": ""
+    },
     "1453549": {
       "photo": "",
       "activityTexts": [],
@@ -2588,14 +2599,6 @@
     "1461913": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1451711": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Stretching",
-        "65 minutes of Cross Training"
-      ],
       "journalText": ""
     },
     "1461321": {
@@ -4318,7 +4321,8 @@
       "photo": "",
       "activityTexts": [
         "180 minutes of Walking, average",
-        "60 minutes of Weight lifting"
+        "60 minutes of Weight lifting",
+        "120 minutes of Baseball"
       ],
       "journalText": ""
     },
