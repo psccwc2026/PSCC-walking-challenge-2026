@@ -546,6 +546,11 @@
       ],
       "journalText": ""
     },
+    "1456839": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452273": {
       "photo": "",
       "activityTexts": [],
@@ -1076,11 +1081,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1456839": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462889": {
       "photo": "",
       "activityTexts": [],
@@ -1244,6 +1244,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453472": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456389": {
       "photo": "",
       "activityTexts": [],
@@ -1334,11 +1339,6 @@
       "journalText": ""
     },
     "1451562": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453472": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3900,6 +3900,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463409": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460906": {
       "photo": "",
       "activityTexts": [],
@@ -4052,11 +4057,6 @@
       "journalText": ""
     },
     "1452489": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1463409": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4806,6 +4806,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459496": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460813": {
       "photo": "",
       "activityTexts": [],
@@ -5309,11 +5314,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459496": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1456482": {
       "photo": "",
       "activityTexts": [],
@@ -5506,6 +5506,15 @@
       "photo": "",
       "activityTexts": [
         "90 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
+    "1458913": {
+      "photo": "",
+      "activityTexts": [
+        "25 minutes of Running, 10 min. mile/6:12 kilometer",
+        "10 minutes of Spinning (bike)",
+        "30 minutes of Yoga"
       ],
       "journalText": ""
     },
