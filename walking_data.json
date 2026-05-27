@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T02:50:28.690748+00:00",
+  "lastUpdated": "2026-05-27T02:55:28.223087+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2073,7 +2073,7 @@
               ]
             },
             "2026-05-26": {
-              "steps": 8098,
+              "steps": 8182,
               "activities": 11150,
               "activityTexts": [
                 "30 minutes of Kickboxing",
@@ -2734,7 +2734,7 @@
               ]
             },
             "2026-05-26": {
-              "steps": 4537,
+              "steps": 4834,
               "activities": 36170,
               "activityTexts": [
                 "129 minutes of Bicycling (vigorous, 14mph+ / 22kph",
@@ -2755,7 +2755,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 162136,
+      "tally": 162184,
       "outOf": 199
     },
     "132626": {
