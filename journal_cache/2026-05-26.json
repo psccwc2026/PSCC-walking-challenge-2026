@@ -1856,6 +1856,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462537": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462237": {
       "photo": "",
       "activityTexts": [
@@ -1928,11 +1933,6 @@
       "journalText": ""
     },
     "1461910": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462537": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3039,6 +3039,13 @@
       ],
       "journalText": ""
     },
+    "1452216": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
     "1462944": {
       "photo": "",
       "activityTexts": [],
@@ -3130,13 +3137,6 @@
     "1459691": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452216": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Body Weight Exercises (Squats, etc) "
-      ],
       "journalText": ""
     },
     "1462185": {
@@ -5077,7 +5077,9 @@
     },
     "1452166": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Circuit training"
+      ],
       "journalText": ""
     },
     "1451467": {
@@ -5137,6 +5139,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460191": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460275": {
       "photo": "",
       "activityTexts": [],
@@ -5158,11 +5165,6 @@
       "journalText": ""
     },
     "1452399": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460191": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
