@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T13:40:44.475159+00:00",
+  "lastUpdated": "2026-05-27T13:45:44.106045+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2133,6 +2133,10 @@
                 "5 minutes of Jumping Rope, moderate",
                 "15 minutes of Strength"
               ]
+            },
+            "2026-05-27": {
+              "steps": 65,
+              "activities": 0
             }
           },
           "memberId": 1456303
@@ -2371,7 +2375,7 @@
               ]
             },
             "2026-05-27": {
-              "steps": 6348,
+              "steps": 6481,
               "activities": 0
             }
           },
@@ -2822,7 +2826,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 167908,
+      "tally": 167933,
       "outOf": 199
     },
     "132626": {
@@ -2831,7 +2835,7 @@
       "outOf": 199
     },
     "132610": {
-      "position": 142,
+      "position": 143,
       "tally": 49383,
       "outOf": 199
     }
