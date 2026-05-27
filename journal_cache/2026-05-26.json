@@ -2347,6 +2347,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451549": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452365": {
       "photo": "",
       "activityTexts": [
@@ -2776,11 +2781,6 @@
       "journalText": ""
     },
     "1458435": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1451549": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5650,6 +5650,13 @@
       "photo": "",
       "activityTexts": [
         "55 minutes of CrossFit slow (tm)"
+      ],
+      "journalText": ""
+    },
+    "1459805": {
+      "photo": "",
+      "activityTexts": [
+        "100 minutes of Golf, Walking"
       ],
       "journalText": ""
     },
