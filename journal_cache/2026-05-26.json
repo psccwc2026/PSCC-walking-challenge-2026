@@ -2067,11 +2067,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459493": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1456303": {
       "photo": "",
       "activityTexts": [
@@ -2079,6 +2074,11 @@
         "5 minutes of Jumping Rope, moderate",
         "15 minutes of Strength"
       ],
+      "journalText": ""
+    },
+    "1459493": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1459404": {
@@ -4298,16 +4298,16 @@
       ],
       "journalText": ""
     },
-    "1463570": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462122": {
       "photo": "",
       "activityTexts": [
         "50 minutes of Pilates"
       ],
+      "journalText": ""
+    },
+    "1463570": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1463111": {
