@@ -470,6 +470,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460093": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462313": {
       "photo": "",
       "activityTexts": [],
@@ -525,11 +530,6 @@
       "journalText": ""
     },
     "1451731": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460093": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -663,6 +663,14 @@
     "1460465": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1453631": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of HIIT (High intensity interval traini",
+        "60 minutes of Zumba (tm)"
+      ],
       "journalText": ""
     },
     "1458667": {
@@ -1192,6 +1200,11 @@
       ],
       "journalText": ""
     },
+    "1458495": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460468": {
       "photo": "",
       "activityTexts": [],
@@ -1207,11 +1220,6 @@
       "journalText": ""
     },
     "1460648": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458495": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1531,6 +1539,11 @@
       "journalText": ""
     },
     "1461933": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460148": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2395,6 +2408,11 @@
       ],
       "journalText": ""
     },
+    "1460850": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462212": {
       "photo": "",
       "activityTexts": [],
@@ -2815,11 +2833,6 @@
       "journalText": ""
     },
     "1456448": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460850": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3437,11 +3450,6 @@
       "activityTexts": [
         "45 minutes of Water Aerobics"
       ],
-      "journalText": ""
-    },
-    "1460148": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1451630": {
@@ -4190,7 +4198,9 @@
     },
     "1456302": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "55 minutes of Aerobics"
+      ],
       "journalText": ""
     },
     "1452258": {
