@@ -2210,6 +2210,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453018": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Elliptical trainer"
+      ],
+      "journalText": ""
+    },
     "1460441": {
       "photo": "",
       "activityTexts": [],
@@ -2464,13 +2471,6 @@
     "1456841": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1453018": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Elliptical trainer"
-      ],
       "journalText": ""
     },
     "1462158": {
@@ -4740,6 +4740,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460701": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452535": {
       "photo": "",
       "activityTexts": [],
@@ -5363,7 +5368,9 @@
     },
     "1456482": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "90 minutes of Walking, average"
+      ],
       "journalText": ""
     },
     "1459564": {
@@ -5595,6 +5602,13 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Walking, average"
+      ],
+      "journalText": ""
+    },
+    "1463124": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Rowing Machine"
       ],
       "journalText": ""
     },
