@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T22:10:34.269474+00:00",
+  "lastUpdated": "2026-05-28T22:13:39.257046+00:00",
   "teams": [
     {
       "id": 132544,
@@ -909,12 +909,12 @@
                 "20 minutes of HIIT (High intensity interval traini"
               ]
             },
-            "2026-05-27": {
-              "steps": 13788,
-              "activities": 4780
-            },
             "2026-05-28": {
               "steps": 12235,
+              "activities": 4780
+            },
+            "2026-05-27": {
+              "steps": 13788,
               "activities": 4780
             }
           },
@@ -950,7 +950,7 @@
               "steps": 4598,
               "activities": 4500,
               "activityTexts": [
-                "45 minutes of Body Weight Exercises (Squats, etc) "
+                "0 minutes of Body Weight Exercises (Squats, etc) "
               ]
             },
             "2026-05-21": {
@@ -1252,10 +1252,7 @@
             },
             "2026-05-22": {
               "steps": 10097,
-              "activities": 3000,
-              "activityTexts": [
-                "30 minutes of Weight lifting"
-              ]
+              "activities": 3000
             },
             "2026-05-27": {
               "steps": 12443,
@@ -1805,16 +1802,16 @@
               "steps": 3426,
               "activities": 0
             },
+            "2026-05-28": {
+              "steps": 10136,
+              "activities": 0
+            },
             "2026-05-27": {
               "steps": 8171,
               "activities": 0
             },
             "2026-05-26": {
               "steps": 2865,
-              "activities": 0
-            },
-            "2026-05-28": {
-              "steps": 10136,
               "activities": 0
             }
           },
@@ -1920,10 +1917,7 @@
             },
             "2026-05-22": {
               "steps": 4799,
-              "activities": 6000,
-              "activityTexts": [
-                "60 minutes of Body Weight Exercises (Squats, etc) "
-              ]
+              "activities": 6000
             },
             "2026-05-23": {
               "steps": 10869,
@@ -2065,12 +2059,12 @@
               "steps": 15266,
               "activities": 0
             },
-            "2026-05-27": {
-              "steps": 10778,
-              "activities": 0
-            },
             "2026-05-28": {
               "steps": 3509,
+              "activities": 0
+            },
+            "2026-05-27": {
+              "steps": 10778,
               "activities": 0
             }
           },
@@ -2764,7 +2758,12 @@
             },
             "2026-05-26": {
               "steps": 7513,
-              "activities": 14484
+              "activities": 14484,
+              "activityTexts": [
+                "7 minutes of Stair climbing, down stairs",
+                "7 minutes of Stair climbing, up stairs",
+                "60 minutes of Rowing Machine"
+              ]
             },
             "2026-05-27": {
               "steps": 15572,
@@ -2990,18 +2989,18 @@
                 "61 minutes of Bicycling (moderate, 12-14mph/20-22k"
               ]
             },
-            "2026-05-27": {
-              "steps": 7482,
-              "activities": 13000,
-              "activityTexts": [
-                "65 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-              ]
-            },
             "2026-05-28": {
               "steps": 2438,
               "activities": 9000,
               "activityTexts": [
                 "45 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+              ]
+            },
+            "2026-05-27": {
+              "steps": 7482,
+              "activities": 13000,
+              "activityTexts": [
+                "65 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
               ]
             }
           },
