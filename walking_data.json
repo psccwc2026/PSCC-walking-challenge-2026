@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T01:45:43.887207+00:00",
+  "lastUpdated": "2026-05-28T01:50:36.434581+00:00",
   "teams": [
     {
       "id": 132544,
@@ -816,7 +816,7 @@
               ]
             },
             "2026-05-27": {
-              "steps": 2381,
+              "steps": 2700,
               "activities": 0
             },
             "2026-05-26": {
@@ -958,6 +958,20 @@
               "activities": 4350,
               "activityTexts": [
                 "30 minutes of Basketball"
+              ]
+            },
+            "2026-05-27": {
+              "steps": 4789,
+              "activities": 4500,
+              "activityTexts": [
+                "45 minutes of Body Weight Exercises (Squats, etc) "
+              ]
+            },
+            "2026-05-26": {
+              "steps": 3866,
+              "activities": 4500,
+              "activityTexts": [
+                "45 minutes of Body Weight Exercises (Squats, etc) "
               ]
             }
           },
@@ -2803,7 +2817,7 @@
             },
             "2026-05-27": {
               "steps": 6995,
-              "activities": 0
+              "activities": 2100
             },
             "2026-05-26": {
               "steps": 17914,
@@ -2879,8 +2893,11 @@
               ]
             },
             "2026-05-27": {
-              "steps": 1998,
-              "activities": 0
+              "steps": 2383,
+              "activities": 13000,
+              "activityTexts": [
+                "65 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+              ]
             }
           },
           "memberId": 1456304
@@ -2891,12 +2908,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 187927,
+      "tally": 189925,
       "outOf": 199
     },
     "132609": {
       "position": 4,
-      "tally": 177109,
+      "tally": 179045,
       "outOf": 199
     },
     "132626": {
@@ -2905,7 +2922,7 @@
       "outOf": 199
     },
     "132610": {
-      "position": 149,
+      "position": 150,
       "tally": 51516,
       "outOf": 199
     }
