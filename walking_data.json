@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T17:35:51.027085+00:00",
+  "lastUpdated": "2026-05-28T17:40:34.329463+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2062,7 +2062,11 @@
               "activities": 0
             },
             "2026-05-27": {
-              "steps": 925,
+              "steps": 10778,
+              "activities": 0
+            },
+            "2026-05-28": {
+              "steps": 395,
               "activities": 0
             }
           },
@@ -2515,7 +2519,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 10115,
+              "steps": 10220,
               "activities": 0
             }
           },
@@ -3003,17 +3007,17 @@
     },
     "132609": {
       "position": 5,
-      "tally": 188277,
+      "tally": 188291,
       "outOf": 199
     },
     "132626": {
-      "position": 51,
+      "position": 52,
       "tally": 94932,
       "outOf": 199
     },
     "132610": {
-      "position": 154,
-      "tally": 54053,
+      "position": 152,
+      "tally": 55518,
       "outOf": 199
     }
   },
