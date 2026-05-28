@@ -2505,6 +2505,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452063": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459410": {
       "photo": "",
       "activityTexts": [],
@@ -2558,11 +2563,6 @@
       "journalText": ""
     },
     "1460861": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452063": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3184,6 +3184,13 @@
     "1451467": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1463146": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of CrossFit fast (tm)"
+      ],
       "journalText": ""
     },
     "1459213": {
@@ -4691,6 +4698,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460138": {
+      "photo": "",
+      "activityTexts": [
+        "3 minutes of Sit-ups / Push-ups / Crunches"
+      ],
+      "journalText": ""
+    },
     "1463244": {
       "photo": "",
       "activityTexts": [],
@@ -4827,6 +4841,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457810": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452258": {
       "photo": "",
       "activityTexts": [],
@@ -4893,13 +4912,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460138": {
-      "photo": "",
-      "activityTexts": [
-        "3 minutes of Sit-ups / Push-ups / Crunches"
-      ],
-      "journalText": ""
-    },
     "1460809": {
       "photo": "",
       "activityTexts": [],
@@ -4931,11 +4943,6 @@
       "journalText": ""
     },
     "1451593": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1457810": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5232,13 +5239,6 @@
       "journalText": ""
     },
     "1461715": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of CrossFit fast (tm)"
-      ],
-      "journalText": ""
-    },
-    "1463146": {
       "photo": "",
       "activityTexts": [
         "60 minutes of CrossFit fast (tm)"
