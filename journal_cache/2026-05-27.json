@@ -377,6 +377,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452526": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452191": {
       "photo": "",
       "activityTexts": [],
@@ -1321,11 +1326,6 @@
       "journalText": ""
     },
     "1453515": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452526": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5448,7 +5448,9 @@
     },
     "1459925": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Pilates"
+      ],
       "journalText": ""
     },
     "1462338": {
@@ -5684,10 +5686,24 @@
       ],
       "journalText": ""
     },
+    "1458890": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Kettlebell/Ropes/Steel Mace"
+      ],
+      "journalText": ""
+    },
     "1459805": {
       "photo": "",
       "activityTexts": [
         "120 minutes of Golf, Walking"
+      ],
+      "journalText": ""
+    },
+    "1462861": {
+      "photo": "",
+      "activityTexts": [
+        "100 minutes of Walking, brisk"
       ],
       "journalText": ""
     },
