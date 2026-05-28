@@ -3788,6 +3788,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458717": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463285": {
       "photo": "",
       "activityTexts": [],
@@ -4122,7 +4127,9 @@
     },
     "1458604": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "8 km of Walking (kilometers of)"
+      ],
       "journalText": ""
     },
     "1452779": {
@@ -4437,11 +4444,6 @@
       "activityTexts": [
         "40 minutes of HIIT (High intensity interval traini"
       ],
-      "journalText": ""
-    },
-    "1458717": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1459848": {
@@ -5110,6 +5112,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453444": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461816": {
       "photo": "",
       "activityTexts": [],
@@ -5150,11 +5157,6 @@
       "journalText": ""
     },
     "1462112": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453444": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
