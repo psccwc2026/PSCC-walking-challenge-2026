@@ -2763,7 +2763,9 @@
     },
     "936457": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Running, average"
+      ],
       "journalText": ""
     },
     "1456807": {
@@ -3800,6 +3802,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451742": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463179": {
       "photo": "",
       "activityTexts": [],
@@ -4100,11 +4107,6 @@
       ],
       "journalText": ""
     },
-    "1451742": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1452209": {
       "photo": "",
       "activityTexts": [],
@@ -4227,6 +4229,11 @@
       "journalText": ""
     },
     "1453405": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460734": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4904,11 +4911,6 @@
       "journalText": ""
     },
     "1460859": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460734": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
