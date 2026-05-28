@@ -2673,6 +2673,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452853": {
+      "photo": "",
+      "activityTexts": [
+        "75 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1459399": {
       "photo": "",
       "activityTexts": [
@@ -2721,13 +2728,6 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of Weight lifting"
-      ],
-      "journalText": ""
-    },
-    "1452853": {
-      "photo": "",
-      "activityTexts": [
-        "75 minutes of Weight lifting"
       ],
       "journalText": ""
     },
@@ -3099,7 +3099,8 @@
     "1458302": {
       "photo": "",
       "activityTexts": [
-        "30 minutes of Bicycling (moderate, 12-14mph/20-22k"
+        "30 minutes of Bicycling (moderate, 12-14mph/20-22k",
+        "120 minutes of Pickleball"
       ],
       "journalText": ""
     },
