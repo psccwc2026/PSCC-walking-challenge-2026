@@ -565,6 +565,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462261": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461776": {
       "photo": "",
       "activityTexts": [],
@@ -1619,11 +1624,6 @@
       ],
       "journalText": ""
     },
-    "1462261": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1458582": {
       "photo": "",
       "activityTexts": [],
@@ -1995,6 +1995,15 @@
       ],
       "journalText": ""
     },
+    "1463148": {
+      "photo": "",
+      "activityTexts": [
+        "2 minutes of Jumping Rope, moderate",
+        "10 minutes of Stretching",
+        "35 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1460137": {
       "photo": "",
       "activityTexts": [],
@@ -2116,15 +2125,6 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of Walking, average"
-      ],
-      "journalText": ""
-    },
-    "1463148": {
-      "photo": "",
-      "activityTexts": [
-        "2 minutes of Jumping Rope, moderate",
-        "10 minutes of Stretching",
-        "35 minutes of Strength"
       ],
       "journalText": ""
     },
