@@ -158,17 +158,17 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459051": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1456994": {
       "photo": "",
       "activityTexts": [
         "30 minutes of Swimming, leisure",
         "60 minutes of Soccer"
       ],
+      "journalText": ""
+    },
+    "1459051": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1460078": {
@@ -374,6 +374,11 @@
       "activityTexts": [
         "25 minutes of Weight lifting"
       ],
+      "journalText": ""
+    },
+    "1456301": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1452172": {
@@ -604,6 +609,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460465": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460227": {
       "photo": "",
       "activityTexts": [],
@@ -629,11 +639,6 @@
       "activityTexts": [
         "30 minutes of HIIT (High intensity interval traini"
       ],
-      "journalText": ""
-    },
-    "1460465": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460505": {
@@ -678,12 +683,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1461933": {
+    "1461825": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1461825": {
+    "1461933": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1326,6 +1331,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452143": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452278": {
       "photo": "",
       "activityTexts": [],
@@ -1359,11 +1369,6 @@
         "10 minutes of Stretching",
         "30 minutes of Yoga"
       ],
-      "journalText": ""
-    },
-    "1452143": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452061": {
@@ -2585,6 +2590,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460592": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452033": {
       "photo": "",
       "activityTexts": [],
@@ -2853,11 +2863,6 @@
       "activityTexts": [
         "30 minutes of Aerobics"
       ],
-      "journalText": ""
-    },
-    "1460592": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1459552": {
@@ -4168,6 +4173,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462486": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462203": {
       "photo": "",
       "activityTexts": [],
@@ -4831,11 +4841,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462486": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462549": {
       "photo": "",
       "activityTexts": [],
@@ -5184,6 +5189,13 @@
       "activityTexts": [
         "55 minutes of Running, 8 min. mile/4:58 kilometer",
         "60 minutes of Swimming hard"
+      ],
+      "journalText": ""
+    },
+    "1461715": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of CrossFit fast (tm)"
       ],
       "journalText": ""
     },
