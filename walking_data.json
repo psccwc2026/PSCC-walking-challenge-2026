@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T02:55:32.960376+00:00",
+  "lastUpdated": "2026-05-28T03:00:51.257417+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1106,7 +1106,7 @@
               "activities": 0
             },
             "2026-05-27": {
-              "steps": 4339,
+              "steps": 4771,
               "activities": 0
             }
           },
@@ -2201,7 +2201,7 @@
               ]
             },
             "2026-05-27": {
-              "steps": 905,
+              "steps": 1426,
               "activities": 11600,
               "activityTexts": [
                 "40 minutes of Kickboxing"
@@ -2832,7 +2832,7 @@
               "activities": 0
             },
             "2026-05-27": {
-              "steps": 6995,
+              "steps": 7173,
               "activities": 2100
             },
             "2026-05-26": {
@@ -2929,12 +2929,12 @@
     },
     "132609": {
       "position": 4,
-      "tally": 181118,
+      "tally": 181205,
       "outOf": 199
     },
     "132626": {
-      "position": 50,
-      "tally": 89582,
+      "position": 49,
+      "tally": 89644,
       "outOf": 199
     },
     "132610": {
