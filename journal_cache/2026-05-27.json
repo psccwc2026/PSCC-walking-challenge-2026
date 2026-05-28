@@ -5010,6 +5010,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463695": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451444": {
       "photo": "",
       "activityTexts": [],
@@ -5238,11 +5243,6 @@
       "journalText": ""
     },
     "1451593": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1463695": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5595,6 +5595,13 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Walking, brisk"
+      ],
+      "journalText": ""
+    },
+    "1452400": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Weight lifting"
       ],
       "journalText": ""
     },
