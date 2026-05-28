@@ -2775,6 +2775,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462944": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461704": {
       "photo": "",
       "activityTexts": [
@@ -2923,11 +2928,6 @@
       "journalText": ""
     },
     "1452748": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462944": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3901,6 +3901,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462317": {
+      "photo": "",
+      "activityTexts": [
+        "50 minutes of HIIT (High intensity interval traini"
+      ],
+      "journalText": ""
+    },
     "1462515": {
       "photo": "",
       "activityTexts": [],
@@ -3931,13 +3938,6 @@
     "1459146": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462317": {
-      "photo": "",
-      "activityTexts": [
-        "50 minutes of HIIT (High intensity interval traini"
-      ],
       "journalText": ""
     },
     "1460891": {
@@ -5276,6 +5276,14 @@
       "photo": "",
       "activityTexts": [
         "35 minutes of Running, 10 min. mile/6:12 kilometer"
+      ],
+      "journalText": ""
+    },
+    "1461934": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Running, 12 min. mile/7:22 kilometer",
+        "45 minutes of Strength"
       ],
       "journalText": ""
     },
