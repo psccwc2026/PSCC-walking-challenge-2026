@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T00:25:32.242285+00:00",
+  "lastUpdated": "2026-05-28T00:30:32.030042+00:00",
   "teams": [
     {
       "id": 132544,
@@ -137,10 +137,18 @@
               ]
             },
             "2026-05-26": {
-              "steps": 6986,
+              "steps": 7076,
               "activities": 23400,
               "activityTexts": [
                 "180 minutes of Cricket"
+              ]
+            },
+            "2026-05-27": {
+              "steps": 3181,
+              "activities": 21600,
+              "activityTexts": [
+                "120 minutes of Cricket",
+                "60 minutes of Body Weight Exercises (Squats, etc) "
               ]
             }
           },
@@ -2036,7 +2044,12 @@
         {
           "name": "SriB Chennapragada",
           "username": "srib16",
-          "dailyData": {},
+          "dailyData": {
+            "2026-05-26": {
+              "steps": 0,
+              "activities": 0
+            }
+          },
           "memberId": 1456290
         }
       ]
@@ -2878,7 +2891,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 184742,
+      "tally": 187506,
       "outOf": 199
     },
     "132609": {
