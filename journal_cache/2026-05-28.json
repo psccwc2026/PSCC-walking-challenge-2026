@@ -1303,7 +1303,9 @@
     },
     "1460732": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "40 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1458582": {
@@ -2231,6 +2233,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459558": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Spinning (bike)",
+        "15 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1461324": {
       "photo": "",
       "activityTexts": [
@@ -2303,14 +2313,6 @@
     "1462531": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1459558": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Spinning (bike)",
-        "15 minutes of Strength"
-      ],
       "journalText": ""
     },
     "1463021": {
@@ -2964,6 +2966,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452065": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459600": {
       "photo": "",
       "activityTexts": [],
@@ -3481,11 +3488,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460898": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1451811": {
       "photo": "",
       "activityTexts": [],
@@ -3872,17 +3874,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462105": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1451725": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1452065": {
+    "1462105": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4835,6 +4832,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452858": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Dancing"
+      ],
+      "journalText": ""
+    },
     "1452258": {
       "photo": "",
       "activityTexts": [
@@ -4860,13 +4864,6 @@
     "1460664": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452858": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Dancing"
-      ],
       "journalText": ""
     },
     "1460560": {
