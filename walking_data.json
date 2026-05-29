@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T22:16:42.193573+00:00",
+  "lastUpdated": "2026-05-29T03:20:34.181058+00:00",
   "teams": [
     {
       "id": 132544,
@@ -263,8 +263,12 @@
               "activities": 7200
             },
             "2026-05-27": {
-              "steps": 11204,
+              "steps": 19059,
               "activities": 7200
+            },
+            "2026-05-28": {
+              "steps": 11113,
+              "activities": 9600
             }
           },
           "memberId": 1453442
@@ -401,8 +405,12 @@
               ]
             },
             "2026-05-27": {
-              "steps": 95,
-              "activities": 0
+              "steps": 21959,
+              "activities": 14579,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/29/0_Q8cGHkM2r8_large.jpg",
+              "activityTexts": [
+                "61 minutes of HIIT (High intensity interval traini"
+              ]
             },
             "2026-05-26": {
               "steps": 24903,
@@ -410,6 +418,14 @@
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/27/0_zS1odDs18R_large.jpg",
               "activityTexts": [
                 "97 minutes of Swimming hard"
+              ]
+            },
+            "2026-05-28": {
+              "steps": 18325,
+              "activities": 22466,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/29/0_wOl2bqes8I_large.jpg",
+              "activityTexts": [
+                "94 minutes of HIIT (High intensity interval traini"
               ]
             }
           },
@@ -500,7 +516,7 @@
               "activities": 11900
             },
             "2026-05-22": {
-              "steps": 27147,
+              "steps": 29982,
               "activities": 15550
             },
             "2026-05-21": {
@@ -516,12 +532,16 @@
               "activities": 19550
             },
             "2026-05-26": {
-              "steps": 8098,
+              "steps": 9028,
               "activities": 6800
             },
             "2026-05-27": {
-              "steps": 8156,
+              "steps": 8297,
               "activities": 12850
+            },
+            "2026-05-28": {
+              "steps": 1522,
+              "activities": 0
             }
           },
           "memberId": 1453462
@@ -630,7 +650,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 1430,
+              "steps": 3474,
               "activities": 0
             }
           },
@@ -670,15 +690,15 @@
             },
             "2026-05-18": {
               "steps": 7430,
-              "activities": 0
+              "activities": 5200
             },
             "2026-05-19": {
               "steps": 8450,
-              "activities": 0
+              "activities": 2600
             },
             "2026-05-20": {
               "steps": 7608,
-              "activities": 0
+              "activities": 3900
             },
             "2026-05-22": {
               "steps": 15286,
@@ -690,7 +710,7 @@
             },
             "2026-05-25": {
               "steps": 11586,
-              "activities": 0
+              "activities": 5200
             },
             "2026-05-24": {
               "steps": 18590,
@@ -702,15 +722,21 @@
             },
             "2026-05-27": {
               "steps": 10471,
-              "activities": 0
+              "activities": 3900,
+              "activityTexts": [
+                "30 minutes of Bicycling (leisurely, < 12mph/20kph)"
+              ]
             },
             "2026-05-26": {
               "steps": 14253,
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 2117,
-              "activities": 0
+              "steps": 2527,
+              "activities": 10200,
+              "activityTexts": [
+                "60 minutes of Bicycling (moderate, 12-14mph/20-22k"
+              ]
             }
           },
           "memberId": 1456310
@@ -824,7 +850,7 @@
               ]
             },
             "2026-05-27": {
-              "steps": 9535,
+              "steps": 9606,
               "activities": 14810,
               "activityTexts": [
                 "20 minutes of Bicycling (moderate, 12-14mph/20-22k",
@@ -841,6 +867,15 @@
                 "20 minutes of Circuit training",
                 "15 minutes of Jumping Rope, moderate",
                 "10 minutes of Sit-ups / Push-ups / Crunches"
+              ]
+            },
+            "2026-05-28": {
+              "steps": 9765,
+              "activities": 11530,
+              "activityTexts": [
+                "15 minutes of Bicycling (moderate, 12-14mph/20-22k",
+                "20 minutes of Circuit training",
+                "20 minutes of Jumping Rope, moderate"
               ]
             }
           },
@@ -879,7 +914,7 @@
               "activities": 2000
             },
             "2026-05-21": {
-              "steps": 15645,
+              "steps": 15646,
               "activities": 2000
             },
             "2026-05-20": {
@@ -895,7 +930,7 @@
               "activities": 2000
             },
             "2026-05-22": {
-              "steps": 15383,
+              "steps": 15384,
               "activities": 2000
             },
             "2026-05-25": {
@@ -910,7 +945,7 @@
               ]
             },
             "2026-05-28": {
-              "steps": 12235,
+              "steps": 16013,
               "activities": 4780
             },
             "2026-05-27": {
@@ -950,7 +985,7 @@
               "steps": 4598,
               "activities": 4500,
               "activityTexts": [
-                "0 minutes of Body Weight Exercises (Squats, etc) "
+                "45 minutes of Body Weight Exercises (Squats, etc) "
               ]
             },
             "2026-05-21": {
@@ -1122,7 +1157,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 1561,
+              "steps": 1672,
               "activities": 0
             }
           },
@@ -1252,7 +1287,10 @@
             },
             "2026-05-22": {
               "steps": 10097,
-              "activities": 3000
+              "activities": 3000,
+              "activityTexts": [
+                "30 minutes of Weight lifting"
+              ]
             },
             "2026-05-27": {
               "steps": 12443,
@@ -1269,7 +1307,7 @@
               ]
             },
             "2026-05-28": {
-              "steps": 7508,
+              "steps": 8432,
               "activities": 0
             }
           },
@@ -1376,7 +1414,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 5068,
+              "steps": 5288,
               "activities": 0
             }
           },
@@ -1624,7 +1662,7 @@
               ]
             },
             "2026-05-28": {
-              "steps": 652,
+              "steps": 766,
               "activities": 14340,
               "activityTexts": [
                 "60 minutes of HIIT (High intensity interval traini"
@@ -1803,7 +1841,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 10136,
+              "steps": 11627,
               "activities": 0
             },
             "2026-05-27": {
@@ -1917,7 +1955,10 @@
             },
             "2026-05-22": {
               "steps": 4799,
-              "activities": 6000
+              "activities": 6000,
+              "activityTexts": [
+                "60 minutes of Body Weight Exercises (Squats, etc) "
+              ]
             },
             "2026-05-23": {
               "steps": 10869,
@@ -2060,7 +2101,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 3509,
+              "steps": 12162,
               "activities": 0
             },
             "2026-05-27": {
@@ -2265,7 +2306,7 @@
               ]
             },
             "2026-05-28": {
-              "steps": 885,
+              "steps": 934,
               "activities": 0
             }
           },
@@ -2389,11 +2430,18 @@
               "activities": 0
             },
             "2026-05-27": {
-              "steps": 15043,
+              "steps": 16450,
               "activities": 14950,
               "activityTexts": [
                 "45 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
                 "35 minutes of Bicycling (moderate, 12-14mph/20-22k"
+              ]
+            },
+            "2026-05-28": {
+              "steps": 16356,
+              "activities": 12000,
+              "activityTexts": [
+                "60 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
               ]
             }
           },
@@ -2517,7 +2565,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 10548,
+              "steps": 10554,
               "activities": 0
             }
           },
@@ -2646,8 +2694,11 @@
               "activities": 1875
             },
             "2026-05-28": {
-              "steps": 2374,
-              "activities": 0
+              "steps": 6027,
+              "activities": 2500,
+              "activityTexts": [
+                "20 minutes of Aerobics"
+              ]
             }
           },
           "memberId": 1452695
@@ -2770,7 +2821,7 @@
               "activities": 18024
             },
             "2026-05-28": {
-              "steps": 255,
+              "steps": 8289,
               "activities": 0
             }
           },
@@ -2917,7 +2968,7 @@
               "activities": 1250
             },
             "2026-05-28": {
-              "steps": 3981,
+              "steps": 4999,
               "activities": 0
             }
           },
@@ -2990,10 +3041,10 @@
               ]
             },
             "2026-05-28": {
-              "steps": 2438,
-              "activities": 9000,
+              "steps": 3327,
+              "activities": 28200,
               "activityTexts": [
-                "45 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+                "141 minutes of Bicycling (vigorous, 14mph+ / 22kph"
               ]
             },
             "2026-05-27": {
@@ -3012,22 +3063,22 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 206644,
+      "tally": 225512,
       "outOf": 200
     },
     "132609": {
-      "position": 5,
-      "tally": 191907,
+      "position": 4,
+      "tally": 200061,
       "outOf": 200
     },
     "132626": {
-      "position": 56,
-      "tally": 95295,
+      "position": 59,
+      "tally": 95498,
       "outOf": 200
     },
     "132610": {
       "position": 152,
-      "tally": 56586,
+      "tally": 58035,
       "outOf": 200
     }
   },
