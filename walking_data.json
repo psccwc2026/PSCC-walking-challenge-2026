@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T03:45:50.677089+00:00",
+  "lastUpdated": "2026-05-29T03:50:50.034280+00:00",
   "teams": [
     {
       "id": 132544,
@@ -428,7 +428,7 @@
               ]
             },
             "2026-05-28": {
-              "steps": 18325,
+              "steps": 18356,
               "activities": 22466,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/29/0_wOl2bqes8I_large.jpg",
               "activityTexts": [
@@ -2701,7 +2701,7 @@
               "activities": 1875
             },
             "2026-05-28": {
-              "steps": 6046,
+              "steps": 8033,
               "activities": 2500,
               "activityTexts": [
                 "20 minutes of Aerobics"
@@ -3070,12 +3070,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 229397,
+      "tally": 229400,
       "outOf": 200
     },
     "132609": {
       "position": 4,
-      "tally": 200099,
+      "tally": 200402,
       "outOf": 200
     },
     "132626": {
