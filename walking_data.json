@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T02:45:51.575751+00:00",
+  "lastUpdated": "2026-05-29T02:50:35.866526+00:00",
   "teams": [
     {
       "id": 132544,
@@ -407,10 +407,10 @@
             "2026-05-27": {
               "steps": 21959,
               "activities": 14579,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/29/0_Q8cGHkM2r8_large.jpg",
               "activityTexts": [
                 "61 minutes of HIIT (High intensity interval traini"
-              ],
-              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/29/0_Q8cGHkM2r8_large.jpg"
+              ]
             },
             "2026-05-26": {
               "steps": 24903,
@@ -728,7 +728,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 2454,
+              "steps": 2527,
               "activities": 10200,
               "activityTexts": [
                 "60 minutes of Bicycling (moderate, 12-14mph/20-22k"
@@ -3050,7 +3050,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 220634,
+      "tally": 220642,
       "outOf": 200
     },
     "132609": {
