@@ -823,6 +823,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452144": {
+      "photo": "",
+      "activityTexts": [
+        "25 minutes of Spinning (bike)"
+      ],
+      "journalText": ""
+    },
     "1459312": {
       "photo": "",
       "activityTexts": [],
@@ -957,13 +964,6 @@
     "1462172": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452144": {
-      "photo": "",
-      "activityTexts": [
-        "25 minutes of Spinning (bike)"
-      ],
       "journalText": ""
     },
     "1452418": {
@@ -3064,7 +3064,8 @@
     "1462266": {
       "photo": "",
       "activityTexts": [
-        "30 minutes of Walking, brisk"
+        "30 minutes of Walking, brisk",
+        "20 minutes of Walking, stroll"
       ],
       "journalText": ""
     },
@@ -3308,7 +3309,9 @@
     },
     "1462936": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Swimming, leisure"
+      ],
       "journalText": ""
     },
     "1460295": {
@@ -3875,6 +3878,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453621": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463572": {
       "photo": "",
       "activityTexts": [],
@@ -4169,11 +4177,6 @@
       "journalText": ""
     },
     "1463111": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453621": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
