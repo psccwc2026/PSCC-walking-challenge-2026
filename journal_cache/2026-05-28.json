@@ -330,12 +330,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1464217": {
+    "1452466": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1452466": {
+    "1464217": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1611,6 +1611,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452695": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Aerobics"
+      ],
+      "journalText": ""
+    },
     "1457691": {
       "photo": "",
       "activityTexts": [],
@@ -1651,13 +1658,6 @@
     "1459456": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452695": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Aerobics"
-      ],
       "journalText": ""
     },
     "1460530": {
@@ -1897,7 +1897,17 @@
       ],
       "journalText": ""
     },
+    "1460524": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452872": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1463129": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1918,11 +1928,6 @@
       "journalText": ""
     },
     "1460879": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1463129": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1971,11 +1976,6 @@
       "journalText": ""
     },
     "1461930": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460524": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2402,6 +2402,13 @@
       ],
       "journalText": ""
     },
+    "1461850": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Pilates"
+      ],
+      "journalText": ""
+    },
     "1461973": {
       "photo": "",
       "activityTexts": [],
@@ -2420,13 +2427,6 @@
     "1460275": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1461850": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Pilates"
-      ],
       "journalText": ""
     },
     "1460813": {
@@ -5193,6 +5193,16 @@
       "activityTexts": [
         "40 minutes of Strength",
         "60 minutes of Running, average"
+      ],
+      "journalText": ""
+    },
+    "1462840": {
+      "photo": "",
+      "activityTexts": [
+        "35 minutes of Spinning (bike)",
+        "20 minutes of Rowing Machine",
+        "10 minutes of Sit-ups / Push-ups / Crunches",
+        "10 minutes of HIIT (High intensity interval traini"
       ],
       "journalText": ""
     },
