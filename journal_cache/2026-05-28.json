@@ -121,6 +121,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458313": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460844": {
       "photo": "",
       "activityTexts": [
@@ -128,11 +133,6 @@
         "60 minutes of Golf, Walking",
         "120 minutes of Badminton, casual"
       ],
-      "journalText": ""
-    },
-    "1458313": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452257": {
@@ -403,6 +403,14 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of Aerobics"
+      ],
+      "journalText": ""
+    },
+    "1452061": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Body Weight Exercises (Squats, etc) ",
+        "60 minutes of Kickboxing"
       ],
       "journalText": ""
     },
@@ -1657,17 +1665,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452540": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462150": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1452365": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452540": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2465,13 +2473,6 @@
       "photo": "",
       "activityTexts": [
         "28 minutes of Running, 9 min. mile/5:35 kilometer"
-      ],
-      "journalText": ""
-    },
-    "1452061": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Body Weight Exercises (Squats, etc) "
       ],
       "journalText": ""
     },
@@ -4023,6 +4024,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462122": {
+      "photo": "",
+      "activityTexts": [
+        "50 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1452033": {
       "photo": "",
       "activityTexts": [],
@@ -4065,13 +4073,6 @@
     "1458325": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462122": {
-      "photo": "",
-      "activityTexts": [
-        "50 minutes of Strength"
-      ],
       "journalText": ""
     },
     "1462499": {
