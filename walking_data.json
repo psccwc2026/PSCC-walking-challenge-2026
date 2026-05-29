@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T03:25:37.350463+00:00",
+  "lastUpdated": "2026-05-29T03:10:45.788536+00:00",
   "teams": [
     {
       "id": 132544,
@@ -732,7 +732,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 5744,
+              "steps": 2527,
               "activities": 10200,
               "activityTexts": [
                 "60 minutes of Bicycling (moderate, 12-14mph/20-22k"
@@ -850,7 +850,7 @@
               ]
             },
             "2026-05-27": {
-              "steps": 9606,
+              "steps": 9535,
               "activities": 14810,
               "activityTexts": [
                 "20 minutes of Bicycling (moderate, 12-14mph/20-22k",
@@ -867,15 +867,6 @@
                 "20 minutes of Circuit training",
                 "15 minutes of Jumping Rope, moderate",
                 "10 minutes of Sit-ups / Push-ups / Crunches"
-              ]
-            },
-            "2026-05-28": {
-              "steps": 9765,
-              "activities": 11530,
-              "activityTexts": [
-                "15 minutes of Bicycling (moderate, 12-14mph/20-22k",
-                "20 minutes of Circuit training",
-                "20 minutes of Jumping Rope, moderate"
               ]
             }
           },
@@ -1414,7 +1405,7 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 5499,
+              "steps": 5288,
               "activities": 0
             }
           },
@@ -2694,7 +2685,7 @@
               "activities": 1875
             },
             "2026-05-28": {
-              "steps": 6046,
+              "steps": 6027,
               "activities": 2500,
               "activityTexts": [
                 "20 minutes of Aerobics"
@@ -2968,7 +2959,7 @@
               "activities": 1250
             },
             "2026-05-28": {
-              "steps": 4999,
+              "steps": 4613,
               "activities": 0
             }
           },
@@ -3063,22 +3054,22 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 225869,
+      "tally": 223138,
       "outOf": 200
     },
     "132609": {
       "position": 4,
-      "tally": 200063,
+      "tally": 200003,
       "outOf": 200
     },
     "132626": {
       "position": 59,
-      "tally": 95529,
+      "tally": 95498,
       "outOf": 200
     },
     "132610": {
       "position": 152,
-      "tally": 58227,
+      "tally": 58035,
       "outOf": 200
     }
   },
