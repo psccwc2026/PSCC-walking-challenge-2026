@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T17:25:29.390999+00:00",
+  "lastUpdated": "2026-05-29T17:30:37.658120+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2143,11 +2143,15 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 12162,
+              "steps": 12755,
               "activities": 0
             },
             "2026-05-27": {
               "steps": 10778,
+              "activities": 0
+            },
+            "2026-05-29": {
+              "steps": 515,
               "activities": 0
             }
           },
@@ -2615,7 +2619,7 @@
               "activities": 0
             },
             "2026-05-29": {
-              "steps": 12041,
+              "steps": 12095,
               "activities": 0
             }
           },
@@ -2975,11 +2979,14 @@
             },
             "2026-05-28": {
               "steps": 12782,
-              "activities": 0
+              "activities": 2700,
+              "activityTexts": [
+                "60 minutes of Yoga"
+              ]
             },
             "2026-05-27": {
               "steps": 12416,
-              "activities": 0
+              "activities": 2700
             }
           },
           "memberId": 1456298
@@ -3145,7 +3152,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 209588,
+      "tally": 210269,
       "outOf": 200
     },
     "132626": {
@@ -3154,8 +3161,8 @@
       "outOf": 200
     },
     "132610": {
-      "position": 161,
-      "tally": 58227,
+      "position": 160,
+      "tally": 58386,
       "outOf": 200
     }
   },
