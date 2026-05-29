@@ -1662,6 +1662,11 @@
       ],
       "journalText": ""
     },
+    "1452489": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462399": {
       "photo": "",
       "activityTexts": [],
@@ -1691,11 +1696,6 @@
       "activityTexts": [
         "10 minutes of Elliptical trainer"
       ],
-      "journalText": ""
-    },
-    "1452489": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1457001": {
@@ -5012,6 +5012,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456373": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of HIIT (High intensity interval traini"
+      ],
+      "journalText": ""
+    },
     "1461251": {
       "photo": "",
       "activityTexts": [],
@@ -5079,13 +5086,6 @@
     "1462123": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1456373": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of HIIT (High intensity interval traini"
-      ],
       "journalText": ""
     },
     "1451630": {
@@ -5415,6 +5415,13 @@
       "photo": "",
       "activityTexts": [
         "3 miles of Walking (miles of)"
+      ],
+      "journalText": ""
+    },
+    "1459605": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Jumping Rope, moderate"
       ],
       "journalText": ""
     },
