@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T02:50:35.866526+00:00",
+  "lastUpdated": "2026-05-29T02:55:49.102887+00:00",
   "teams": [
     {
       "id": 132544,
@@ -422,7 +422,11 @@
             },
             "2026-05-28": {
               "steps": 18325,
-              "activities": 0
+              "activities": 22466,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/29/0_wOl2bqes8I_large.jpg",
+              "activityTexts": [
+                "94 minutes of HIIT (High intensity interval traini"
+              ]
             }
           },
           "memberId": 1456064
@@ -3050,7 +3054,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 220642,
+      "tally": 223138,
       "outOf": 200
     },
     "132609": {
