@@ -1476,7 +1476,9 @@
     },
     "1456310": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
       "journalText": ""
     },
     "1460535": {
@@ -4667,6 +4669,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452174": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456929": {
       "photo": "",
       "activityTexts": [],
@@ -4687,11 +4694,6 @@
       "activityTexts": [
         "45 minutes of Cross Training"
       ],
-      "journalText": ""
-    },
-    "1452174": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1459413": {
