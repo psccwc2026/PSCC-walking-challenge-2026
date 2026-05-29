@@ -1052,6 +1052,11 @@
       "activityTexts": [],
       "journalText": "It's a sunny day in Belgium \ud83d\ude0e\ud83c\udf04"
     },
+    "1462397": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462482": {
       "photo": "",
       "activityTexts": [],
@@ -2198,6 +2203,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460742": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463296": {
       "photo": "",
       "activityTexts": [],
@@ -2349,11 +2359,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462397": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1461923": {
       "photo": "",
       "activityTexts": [],
@@ -2389,11 +2394,6 @@
       "journalText": ""
     },
     "1460498": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460742": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2974,6 +2974,13 @@
     "1460919": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1460568": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of HIIT (High intensity interval traini"
+      ],
       "journalText": ""
     },
     "1460835": {
@@ -4108,6 +4115,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452166": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1458604": {
       "photo": "",
       "activityTexts": [],
@@ -4124,11 +4136,6 @@
       "journalText": ""
     },
     "1461707": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452166": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4539,6 +4546,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452452": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Bicycling (moderate, 12-14mph/20-22k",
+        "15 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1461759": {
       "photo": "",
       "activityTexts": [],
@@ -4649,14 +4664,6 @@
     "1452475": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452452": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Bicycling (moderate, 12-14mph/20-22k",
-        "15 minutes of Weight lifting"
-      ],
       "journalText": ""
     },
     "1453405": {
