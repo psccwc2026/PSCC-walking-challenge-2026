@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T16:30:42.052255+00:00",
+  "lastUpdated": "2026-05-29T16:35:47.617964+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2869,10 +2869,13 @@
             },
             "2026-05-28": {
               "steps": 12759,
-              "activities": 0
+              "activities": 13200,
+              "activityTexts": [
+                "60 minutes of Swimming hard"
+              ]
             },
             "2026-05-29": {
-              "steps": 1460,
+              "steps": 1905,
               "activities": 0
             }
           },
@@ -3127,7 +3130,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 204454,
+      "tally": 206381,
       "outOf": 200
     },
     "132626": {
@@ -3136,7 +3139,7 @@
       "outOf": 200
     },
     "132610": {
-      "position": 159,
+      "position": 160,
       "tally": 58227,
       "outOf": 200
     }
