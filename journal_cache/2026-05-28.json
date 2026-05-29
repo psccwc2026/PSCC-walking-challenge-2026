@@ -1734,7 +1734,9 @@
     },
     "1456374": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1452753": {
@@ -2038,6 +2040,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459419": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460202": {
       "photo": "",
       "activityTexts": [],
@@ -2257,6 +2264,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457721": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462060": {
       "photo": "",
       "activityTexts": [],
@@ -2267,11 +2279,6 @@
       "activityTexts": [
         "84 minutes of Bicycling (leisurely, < 12mph/20kph)"
       ],
-      "journalText": ""
-    },
-    "1459419": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452483": {
@@ -2913,6 +2920,13 @@
       ],
       "journalText": ""
     },
+    "1461321": {
+      "photo": "",
+      "activityTexts": [
+        "26 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1461918": {
       "photo": "",
       "activityTexts": [],
@@ -2926,13 +2940,6 @@
     "1453018": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1461321": {
-      "photo": "",
-      "activityTexts": [
-        "26 minutes of Weight lifting"
-      ],
       "journalText": ""
     },
     "1461951": {
@@ -3909,11 +3916,6 @@
       ],
       "journalText": ""
     },
-    "1457721": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1456867": {
       "photo": "",
       "activityTexts": [],
@@ -4149,6 +4151,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462127": {
+      "photo": "",
+      "activityTexts": [
+        "75 minutes of Pickleball"
+      ],
+      "journalText": ""
+    },
     "1463111": {
       "photo": "",
       "activityTexts": [],
@@ -4183,13 +4192,6 @@
       "photo": "",
       "activityTexts": [
         "5 minutes of Swimming, leisure"
-      ],
-      "journalText": ""
-    },
-    "1462127": {
-      "photo": "",
-      "activityTexts": [
-        "75 minutes of Pickleball"
       ],
       "journalText": ""
     },
