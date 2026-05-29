@@ -446,6 +446,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453631": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Zumba (tm)",
+        "30 minutes of Kickboxing"
+      ],
+      "journalText": ""
+    },
     "1463243": {
       "photo": "",
       "activityTexts": [
@@ -461,14 +469,6 @@
     "1451445": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1453631": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Zumba (tm)",
-        "30 minutes of Kickboxing"
-      ],
       "journalText": ""
     },
     "1458921": {
@@ -5255,6 +5255,13 @@
     "1462364": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1453116": {
+      "photo": "",
+      "activityTexts": [
+        "10 minutes of Jogging"
+      ],
       "journalText": ""
     },
     "1452828": {
