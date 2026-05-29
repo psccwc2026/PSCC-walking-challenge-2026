@@ -705,7 +705,9 @@
     },
     "1456298": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Yoga"
+      ],
       "journalText": ""
     },
     "1460915": {
@@ -720,6 +722,11 @@
       "activityTexts": [
         "120 minutes of Golf, Walking"
       ],
+      "journalText": ""
+    },
+    "1452087": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1460805": {
@@ -852,11 +859,6 @@
       "activityTexts": [
         "30 minutes of Bicycling (leisurely, < 12mph/20kph)"
       ],
-      "journalText": ""
-    },
-    "1452087": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1461917": {
