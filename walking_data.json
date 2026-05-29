@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T03:35:50.877067+00:00",
+  "lastUpdated": "2026-05-29T03:40:46.283716+00:00",
   "teams": [
     {
       "id": 132544,
@@ -144,11 +144,18 @@
               ]
             },
             "2026-05-27": {
-              "steps": 6854,
+              "steps": 6932,
               "activities": 21600,
               "activityTexts": [
                 "120 minutes of Cricket",
                 "60 minutes of Body Weight Exercises (Squats, etc) "
+              ]
+            },
+            "2026-05-28": {
+              "steps": 8169,
+              "activities": 19500,
+              "activityTexts": [
+                "150 minutes of Cricket"
               ]
             }
           },
@@ -706,7 +713,7 @@
             },
             "2026-05-21": {
               "steps": 8420,
-              "activities": 0
+              "activities": 2990
             },
             "2026-05-25": {
               "steps": 11586,
@@ -3063,7 +3070,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 225909,
+      "tally": 229325,
       "outOf": 200
     },
     "132609": {
