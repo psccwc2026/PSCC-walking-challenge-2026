@@ -132,7 +132,7 @@ tr:hover td{{background:#fafbfd}}
 .expand-btn{{background:none;border:none;cursor:pointer;font-size:13px;color:#94a3b8;padding:2px 5px;border-radius:4px;transition:transform .2s,color .2s;margin-left:4px;vertical-align:middle}}
 .expand-btn:hover{{color:#3b82f6}}
 .expand-btn.open{{transform:rotate(180deg);color:#3b82f6}}
-.expand-row td{{padding:0!important;background:#fafbff;border-bottom:2px solid #e2e8f0}}
+.expand-row td{{padding:0!important;background:#fafbff;border-bottom:2px solid #e2e8f0;max-width:0;overflow:hidden}}
 .expand-inner{{padding:14px 16px 16px;display:flex;flex-wrap:wrap;gap:12px}}
 .day-entry{{background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:12px 14px;min-width:160px;flex:0 0 auto}}
 .day-entry .de-date{{font-size:11px;color:#94a3b8;font-weight:600;text-transform:uppercase;margin-bottom:4px}}
