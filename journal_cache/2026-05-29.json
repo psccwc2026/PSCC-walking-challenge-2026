@@ -282,12 +282,12 @@
       ],
       "journalText": ""
     },
-    "1452466": {
+    "1452382": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1452382": {
+    "1452466": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2029,7 +2029,9 @@
     },
     "1461963": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "50 minutes of Strength"
+      ],
       "journalText": ""
     },
     "1462146": {
@@ -4732,6 +4734,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459403": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463008": {
       "photo": "",
       "activityTexts": [],
@@ -4763,11 +4770,6 @@
       "journalText": ""
     },
     "1462930": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459403": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
