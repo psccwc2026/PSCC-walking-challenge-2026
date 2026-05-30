@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T04:35:31.558758+00:00",
+  "lastUpdated": "2026-05-30T04:40:47.514548+00:00",
   "teams": [
     {
       "id": 132544,
@@ -562,7 +562,7 @@
               "activities": 12400
             },
             "2026-05-29": {
-              "steps": 4574,
+              "steps": 4581,
               "activities": 7650
             }
           },
@@ -2418,7 +2418,7 @@
             },
             "2026-05-27": {
               "steps": 2167,
-              "activities": 11600,
+              "activities": 13050,
               "activityTexts": [
                 "40 minutes of Kickboxing"
               ]
@@ -2434,11 +2434,17 @@
             },
             "2026-05-28": {
               "steps": 1018,
-              "activities": 0
+              "activities": 8700,
+              "activityTexts": [
+                "30 minutes of Kickboxing"
+              ]
             },
             "2026-05-29": {
               "steps": 2162,
-              "activities": 0
+              "activities": 13050,
+              "activityTexts": [
+                "90 minutes of Basketball"
+              ]
             }
           },
           "memberId": 1456303
@@ -3236,7 +3242,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 215491,
+      "tally": 218391,
       "outOf": 201
     },
     "132626": {
