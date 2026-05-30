@@ -536,7 +536,9 @@
     },
     "1457385": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "70 minutes of Dancing"
+      ],
       "journalText": ""
     },
     "1451564": {
@@ -2901,6 +2903,11 @@
       "activityTexts": [
         "30 minutes of Walking, brisk"
       ],
+      "journalText": ""
+    },
+    "1459660": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1459675": {
@@ -5380,11 +5387,6 @@
       "journalText": ""
     },
     "1458440": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459660": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
