@@ -1419,6 +1419,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459528": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460807": {
       "photo": "",
       "activityTexts": [],
@@ -1447,11 +1452,6 @@
       "activityTexts": [
         "30 minutes of Golf, Walking"
       ],
-      "journalText": ""
-    },
-    "1459528": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1451386": {
@@ -4231,6 +4231,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452452": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Bicycling (moderate, 12-14mph/20-22k",
+        "15 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1459461": {
       "photo": "",
       "activityTexts": [],
@@ -4240,14 +4248,6 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of BODYJAM(tm)"
-      ],
-      "journalText": ""
-    },
-    "1452452": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Bicycling (moderate, 12-14mph/20-22k",
-        "15 minutes of Weight lifting"
       ],
       "journalText": ""
     },
