@@ -2468,7 +2468,9 @@
     },
     "1452927": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1458385": {
@@ -4309,6 +4311,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458405": {
+      "photo": "",
+      "activityTexts": [
+        "37 minutes of Elliptical trainer"
+      ],
+      "journalText": ""
+    },
     "1460523": {
       "photo": "",
       "activityTexts": [],
@@ -4318,13 +4327,6 @@
       "photo": "",
       "activityTexts": [
         "4 miles of Walking (miles of)"
-      ],
-      "journalText": ""
-    },
-    "1458405": {
-      "photo": "",
-      "activityTexts": [
-        "37 minutes of Elliptical trainer"
       ],
       "journalText": ""
     },
