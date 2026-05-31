@@ -846,10 +846,27 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457082": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Running, 12 min. mile/7:22 kilometer",
+        "40 minutes of Strength",
+        "30 minutes of Walking, brisk"
+      ],
+      "journalText": ""
+    },
     "1459108": {
       "photo": "",
       "activityTexts": [
         "70 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
+    "1459392": {
+      "photo": "",
+      "activityTexts": [
+        "55 minutes of CrossFit fast (tm)",
+        "15 minutes of Running, 10 min. mile/6:12 kilometer"
       ],
       "journalText": ""
     },
@@ -1771,15 +1788,6 @@
     "1460147": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1457082": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Running, 12 min. mile/7:22 kilometer",
-        "40 minutes of Strength",
-        "30 minutes of Walking, brisk"
-      ],
       "journalText": ""
     },
     "1460498": {
@@ -2946,17 +2954,17 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1461289": {
-      "photo": "",
-      "activityTexts": [
-        "25 minutes of Walking, brisk"
-      ],
-      "journalText": ""
-    },
     "1462308": {
       "photo": "",
       "activityTexts": [
         "50 minutes of Pilates"
+      ],
+      "journalText": ""
+    },
+    "1461289": {
+      "photo": "",
+      "activityTexts": [
+        "25 minutes of Walking, brisk"
       ],
       "journalText": ""
     },
@@ -3552,11 +3560,6 @@
       "journalText": ""
     },
     "1451811": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459392": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
