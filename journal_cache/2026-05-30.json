@@ -1809,7 +1809,9 @@
     },
     "1462955": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "40 minutes of Jogging"
+      ],
       "journalText": ""
     },
     "1452044": {
@@ -2162,6 +2164,13 @@
       ],
       "journalText": ""
     },
+    "1459669": {
+      "photo": "",
+      "activityTexts": [
+        "127 minutes of Bicycling (vigorous, 14mph+ / 22kph"
+      ],
+      "journalText": ""
+    },
     "1461690": {
       "photo": "",
       "activityTexts": [],
@@ -2171,13 +2180,6 @@
       "photo": "",
       "activityTexts": [
         "18 minutes of Basketball"
-      ],
-      "journalText": ""
-    },
-    "1459669": {
-      "photo": "",
-      "activityTexts": [
-        "127 minutes of Bicycling (vigorous, 14mph+ / 22kph"
       ],
       "journalText": ""
     },
@@ -2536,6 +2538,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462875": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462061": {
       "photo": "",
       "activityTexts": [],
@@ -2554,11 +2561,6 @@
       "journalText": ""
     },
     "1462493": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462875": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
