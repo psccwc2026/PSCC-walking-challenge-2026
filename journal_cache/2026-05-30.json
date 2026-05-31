@@ -3169,6 +3169,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461324": {
+      "photo": "",
+      "activityTexts": [
+        "2 miles of Walking (miles of)",
+        "30 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1462854": {
       "photo": "",
       "activityTexts": [],
@@ -3461,14 +3469,6 @@
       "photo": "",
       "activityTexts": [
         "40 minutes of Elliptical trainer"
-      ],
-      "journalText": ""
-    },
-    "1461324": {
-      "photo": "",
-      "activityTexts": [
-        "2 miles of Walking (miles of)",
-        "30 minutes of Weight lifting"
       ],
       "journalText": ""
     },
@@ -4474,7 +4474,8 @@
     "1451450": {
       "photo": "",
       "activityTexts": [
-        "15 minutes of Stretching"
+        "60 minutes of Walking, average",
+        "15 minutes of Dancing"
       ],
       "journalText": ""
     },
