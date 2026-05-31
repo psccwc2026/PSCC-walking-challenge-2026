@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T04:35:33.113408+00:00",
+  "lastUpdated": "2026-05-31T04:40:33.445967+00:00",
   "teams": [
     {
       "id": 132544,
@@ -450,7 +450,7 @@
               ]
             },
             "2026-05-28": {
-              "steps": 18356,
+              "steps": 18615,
               "activities": 22466,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/29/0_wOl2bqes8I_large.jpg",
               "activityTexts": [
@@ -458,11 +458,21 @@
               ]
             },
             "2026-05-29": {
-              "steps": 0,
-              "activities": 6931,
+              "steps": 20124,
+              "activities": 17123,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/31/0_A1dotllGvQ_large.jpg",
               "activityTexts": [
-                "29 minutes of HIIT (High intensity interval traini"
+                "29 minutes of HIIT (High intensity interval traini",
+                "112 minutes of Volleyball"
+              ]
+            },
+            "2026-05-30": {
+              "steps": 19075,
+              "activities": 22225,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/31/0_9MwKXfMoH3_large.jpg",
+              "activityTexts": [
+                "35 minutes of HIIT (High intensity interval traini",
+                "63 minutes of Swimming hard"
               ]
             }
           },
@@ -3339,7 +3349,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 270160,
+      "tally": 278146,
       "outOf": 201
     },
     "132609": {
