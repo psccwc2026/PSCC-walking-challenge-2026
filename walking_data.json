@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T11:55:39.661930+00:00",
+  "lastUpdated": "2026-05-31T12:01:01.263285+00:00",
   "teams": [
     {
       "id": 132544,
@@ -471,13 +471,17 @@
               ]
             },
             "2026-05-30": {
-              "steps": 19075,
+              "steps": 19318,
               "activities": 22225,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/05/31/0_9MwKXfMoH3_large.jpg",
               "activityTexts": [
                 "35 minutes of HIIT (High intensity interval traini",
                 "63 minutes of Swimming hard"
               ]
+            },
+            "2026-05-31": {
+              "steps": 125,
+              "activities": 0
             }
           },
           "memberId": 1456064
@@ -3399,7 +3403,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 296260,
+      "tally": 296301,
       "outOf": 201
     },
     "132609": {
