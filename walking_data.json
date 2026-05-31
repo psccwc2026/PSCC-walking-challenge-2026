@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T01:20:37.465696+00:00",
+  "lastUpdated": "2026-05-31T01:25:44.123334+00:00",
   "teams": [
     {
       "id": 132544,
@@ -937,7 +937,7 @@
               ]
             },
             "2026-05-30": {
-              "steps": 3943,
+              "steps": 4021,
               "activities": 0
             }
           },
@@ -2100,6 +2100,18 @@
             },
             "2026-05-27": {
               "steps": 2182,
+              "activities": 0
+            },
+            "2026-05-30": {
+              "steps": 2682,
+              "activities": 0
+            },
+            "2026-05-29": {
+              "steps": 4014,
+              "activities": 0
+            },
+            "2026-05-28": {
+              "steps": 1010,
               "activities": 0
             }
           },
@@ -3292,7 +3304,7 @@
               ]
             },
             "2026-05-30": {
-              "steps": 11685,
+              "steps": 12047,
               "activities": 15824,
               "activityTexts": [
                 "92 minutes of Hiking"
@@ -3307,12 +3319,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 259805,
+      "tally": 259814,
       "outOf": 201
     },
     "132609": {
       "position": 5,
-      "tally": 226279,
+      "tally": 226324,
       "outOf": 201
     },
     "132626": {
@@ -3321,8 +3333,8 @@
       "outOf": 201
     },
     "132610": {
-      "position": 145,
-      "tally": 69633,
+      "position": 144,
+      "tally": 70735,
       "outOf": 201
     }
   },
