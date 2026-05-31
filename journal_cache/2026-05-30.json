@@ -2623,7 +2623,8 @@
     "1452955": {
       "photo": "",
       "activityTexts": [
-        "60 minutes of Walking, average"
+        "60 minutes of Walking, average",
+        "15 minutes of Weight lifting"
       ],
       "journalText": ""
     },
@@ -3375,6 +3376,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457393": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461948": {
       "photo": "",
       "activityTexts": [
@@ -3460,11 +3466,6 @@
       "journalText": ""
     },
     "1457143": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1457393": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
