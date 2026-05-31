@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T19:25:28.342603+00:00",
+  "lastUpdated": "2026-05-31T19:30:31.469302+00:00",
   "teams": [
     {
       "id": 132544,
@@ -833,7 +833,7 @@
               ]
             },
             "2026-05-31": {
-              "steps": 506,
+              "steps": 522,
               "activities": 9750,
               "activityTexts": [
                 "75 minutes of Bicycling (leisurely, < 12mph/20kph)"
@@ -3448,7 +3448,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 297589,
+      "tally": 297590,
       "outOf": 199
     },
     "132609": {
