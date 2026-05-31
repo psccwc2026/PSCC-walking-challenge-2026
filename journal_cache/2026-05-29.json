@@ -736,6 +736,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456089": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460283": {
       "photo": "",
       "activityTexts": [],
@@ -794,11 +799,6 @@
       "journalText": ""
     },
     "1456944": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1456089": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1817,7 +1817,9 @@
     },
     "1453393": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Paddle Boarding"
+      ],
       "journalText": ""
     },
     "1460529": {
