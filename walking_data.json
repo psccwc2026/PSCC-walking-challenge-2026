@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T01:25:28.033393+00:00",
+  "lastUpdated": "2026-06-01T01:30:43.776623+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1001,8 +1001,13 @@
               "activities": 0
             },
             "2026-05-31": {
-              "steps": 4177,
-              "activities": 0
+              "steps": 12343,
+              "activities": 23960,
+              "activityTexts": [
+                "20 minutes of Bicycling (leisurely, < 12mph/20kph)",
+                "120 minutes of Volleyball",
+                "30 minutes of Squash"
+              ]
             }
           },
           "memberId": 1460532
@@ -1881,7 +1886,7 @@
               "activities": 0
             },
             "2026-05-31": {
-              "steps": 1514,
+              "steps": 3026,
               "activities": 14340,
               "activityTexts": [
                 "60 minutes of HIIT (High intensity interval traini"
@@ -3475,7 +3480,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 308087,
+      "tally": 310750,
       "outOf": 199
     },
     "132609": {
@@ -3485,7 +3490,7 @@
     },
     "132626": {
       "position": 67,
-      "tally": 112648,
+      "tally": 112864,
       "outOf": 199
     },
     "132610": {
