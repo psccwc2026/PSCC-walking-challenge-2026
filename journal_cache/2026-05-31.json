@@ -4290,7 +4290,9 @@
     },
     "1461816": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "90 minutes of Circuit training"
+      ],
       "journalText": ""
     },
     "1458325": {
@@ -5078,6 +5080,11 @@
       "journalText": ""
     },
     "1461805": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460448": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
