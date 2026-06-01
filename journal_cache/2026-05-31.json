@@ -2036,6 +2036,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458910": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451549": {
       "photo": "",
       "activityTexts": [],
@@ -2054,11 +2059,6 @@
       "journalText": ""
     },
     "1451562": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458910": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2654,6 +2654,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460485": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460548": {
       "photo": "",
       "activityTexts": [],
@@ -2724,11 +2729,6 @@
       "journalText": ""
     },
     "1453229": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460485": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4905,6 +4905,14 @@
       "photo": "",
       "activityTexts": [
         "50 minutes of Spinning (bike)"
+      ],
+      "journalText": ""
+    },
+    "1462401": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Pilates",
+        "60 minutes of Yoga"
       ],
       "journalText": ""
     },
