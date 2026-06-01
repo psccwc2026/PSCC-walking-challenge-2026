@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T16:15:39.552829+00:00",
+  "lastUpdated": "2026-06-01T16:21:01.886016+00:00",
   "teams": [
     {
       "id": 132544,
@@ -3274,7 +3274,7 @@
               "activities": 21324
             },
             "2026-06-01": {
-              "steps": 597,
+              "steps": 1314,
               "activities": 0
             },
             "2026-05-31": {
@@ -3379,6 +3379,24 @@
             "2026-05-27": {
               "steps": 12416,
               "activities": 2700
+            },
+            "2026-06-01": {
+              "steps": 0,
+              "activities": 7040,
+              "activityTexts": [
+                "20 minutes of Plyometrics"
+              ]
+            },
+            "2026-05-31": {
+              "steps": 0,
+              "activities": 7040,
+              "activityTexts": [
+                "20 minutes of Plyometrics"
+              ]
+            },
+            "2026-05-30": {
+              "steps": 0,
+              "activities": 7040
             }
           },
           "memberId": 1456298
@@ -3569,17 +3587,17 @@
       "outOf": 198
     },
     "132609": {
-      "position": 6,
-      "tally": 261300,
+      "position": 5,
+      "tally": 264030,
       "outOf": 198
     },
     "132626": {
-      "position": 72,
+      "position": 73,
       "tally": 114621,
       "outOf": 198
     },
     "132610": {
-      "position": 149,
+      "position": 150,
       "tally": 74539,
       "outOf": 198
     }
