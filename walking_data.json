@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T15:50:36.424874+00:00",
+  "lastUpdated": "2026-06-01T15:55:47.888455+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1016,6 +1016,10 @@
                 "120 minutes of Volleyball",
                 "30 minutes of Squash"
               ]
+            },
+            "2026-06-01": {
+              "steps": 26,
+              "activities": 0
             }
           },
           "memberId": 1460532
@@ -2974,7 +2978,7 @@
               "activities": 0
             },
             "2026-06-01": {
-              "steps": 13968,
+              "steps": 14056,
               "activities": 0
             }
           },
@@ -3561,12 +3565,12 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 327471,
+      "tally": 327474,
       "outOf": 198
     },
     "132609": {
       "position": 6,
-      "tally": 261190,
+      "tally": 261201,
       "outOf": 198
     },
     "132626": {
