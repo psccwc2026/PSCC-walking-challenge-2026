@@ -702,6 +702,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461973": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459686": {
       "photo": "",
       "activityTexts": [
@@ -727,11 +732,6 @@
       "journalText": ""
     },
     "1460468": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461973": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1471,6 +1471,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462540": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462121": {
       "photo": "",
       "activityTexts": [],
@@ -1482,11 +1487,6 @@
       "journalText": ""
     },
     "1458960": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462540": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1852,6 +1852,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462758": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460882": {
       "photo": "",
       "activityTexts": [],
@@ -1908,11 +1913,6 @@
       "journalText": ""
     },
     "1463077": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462758": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2991,7 +2991,9 @@
     },
     "1458148": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "2 miles of Walking (miles of)"
+      ],
       "journalText": ""
     },
     "1460892": {
