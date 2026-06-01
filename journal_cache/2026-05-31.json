@@ -1103,6 +1103,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461776": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452261": {
       "photo": "",
       "activityTexts": [],
@@ -2474,6 +2479,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452716": {
+      "photo": "",
+      "activityTexts": [
+        "49 minutes of HIIT (High intensity interval traini",
+        "20 minutes of Elliptical trainer"
+      ],
+      "journalText": ""
+    },
     "1459860": {
       "photo": "",
       "activityTexts": [
@@ -2808,14 +2821,6 @@
     "1458627": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452716": {
-      "photo": "",
-      "activityTexts": [
-        "49 minutes of HIIT (High intensity interval traini",
-        "20 minutes of Elliptical trainer"
-      ],
       "journalText": ""
     },
     "1459750": {
@@ -4356,6 +4361,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456298": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Plyometrics",
+        "60 minutes of Swimming hard"
+      ],
+      "journalText": ""
+    },
     "1462936": {
       "photo": "",
       "activityTexts": [],
@@ -5138,10 +5151,11 @@
       "photo": "",
       "activityTexts": [
         "295 minutes of Bicycling (moderate, 12-14mph/20-22",
-        "5 minutes of Weight lifting",
-        "10 minutes of Walking, average",
+        "4 minutes of Weight lifting",
+        "40 minutes of Walking, average",
         "1 minutes of Jumping Rope, moderate",
-        "5 minutes of Stretching"
+        "5 minutes of Stretching",
+        "10 minutes of Yoga"
       ],
       "journalText": ""
     },
@@ -5227,13 +5241,6 @@
       "photo": "",
       "activityTexts": [
         "80 minutes of Volleyball"
-      ],
-      "journalText": ""
-    },
-    "1456298": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Plyometrics"
       ],
       "journalText": ""
     },
