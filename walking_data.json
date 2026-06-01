@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T02:30:31.765006+00:00",
+  "lastUpdated": "2026-06-01T02:35:29.168770+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1627,7 +1627,7 @@
               "activities": 0
             },
             "2026-05-31": {
-              "steps": 5195,
+              "steps": 5546,
               "activities": 11550,
               "activityTexts": [
                 "75 minutes of Swimming, leisure"
@@ -3512,7 +3512,7 @@
     },
     "132626": {
       "position": 67,
-      "tally": 112864,
+      "tally": 112914,
       "outOf": 199
     },
     "132610": {
