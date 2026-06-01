@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T16:30:51.638065+00:00",
+  "lastUpdated": "2026-06-01T16:35:51.317396+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1974,7 +1974,7 @@
               "activities": 0
             },
             "2026-05-26": {
-              "steps": 120,
+              "steps": 1627,
               "activities": 0
             },
             "2026-05-25": {
@@ -1995,6 +1995,30 @@
             },
             "2026-05-21": {
               "steps": 1917,
+              "activities": 0
+            },
+            "2026-06-01": {
+              "steps": 5095,
+              "activities": 0
+            },
+            "2026-05-31": {
+              "steps": 7065,
+              "activities": 0
+            },
+            "2026-05-30": {
+              "steps": 3662,
+              "activities": 0
+            },
+            "2026-05-29": {
+              "steps": 2983,
+              "activities": 0
+            },
+            "2026-05-28": {
+              "steps": 2086,
+              "activities": 0
+            },
+            "2026-05-27": {
+              "steps": 2430,
               "activities": 0
             }
           },
@@ -3321,7 +3345,7 @@
             },
             "2026-05-18": {
               "steps": 11937,
-              "activities": 2250,
+              "activities": 9290,
               "activityTexts": [
                 "50 minutes of Yoga"
               ]
@@ -3388,19 +3412,20 @@
               ]
             },
             "2026-05-31": {
-              "steps": 0,
-              "activities": 7040,
+              "steps": 2320,
+              "activities": 20240,
               "activityTexts": [
-                "20 minutes of Plyometrics"
+                "20 minutes of Plyometrics",
+                "60 minutes of Swimming hard"
               ]
             },
             "2026-05-30": {
-              "steps": 0,
-              "activities": 7040
+              "steps": 10523,
+              "activities": 20240
             },
             "2026-05-29": {
-              "steps": 0,
-              "activities": 7040
+              "steps": 7204,
+              "activities": 20240
             }
           },
           "memberId": 1456298
@@ -3592,12 +3617,12 @@
     },
     "132609": {
       "position": 4,
-      "tally": 273719,
+      "tally": 281175,
       "outOf": 198
     },
     "132626": {
-      "position": 74,
-      "tally": 114621,
+      "position": 71,
+      "tally": 118167,
       "outOf": 198
     },
     "132610": {
