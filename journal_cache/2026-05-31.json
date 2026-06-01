@@ -2500,6 +2500,13 @@
       ],
       "journalText": ""
     },
+    "1460162": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1457102": {
       "photo": "",
       "activityTexts": [],
@@ -3177,13 +3184,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460162": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Strength"
-      ],
-      "journalText": ""
-    },
     "1453482": {
       "photo": "",
       "activityTexts": [],
@@ -3447,6 +3447,11 @@
         "180 minutes of Swimming, leisure",
         "43 minutes of Pilates"
       ],
+      "journalText": ""
+    },
+    "1462535": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1458913": {
@@ -4613,7 +4618,10 @@
     },
     "1452436": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "10 miles of Walking (miles of)",
+        "60 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1461916": {
