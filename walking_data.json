@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T16:25:39.399614+00:00",
+  "lastUpdated": "2026-06-01T16:30:51.638065+00:00",
   "teams": [
     {
       "id": 132544,
@@ -3314,7 +3314,7 @@
             },
             "2026-05-19": {
               "steps": 10332,
-              "activities": 2250,
+              "activities": 9290,
               "activityTexts": [
                 "50 minutes of Yoga"
               ]
@@ -3328,57 +3328,57 @@
             },
             "2026-05-20": {
               "steps": 3426,
-              "activities": 13200,
+              "activities": 20240,
               "activityTexts": [
                 "60 minutes of Swimming hard"
               ]
             },
             "2026-05-22": {
               "steps": 5345,
-              "activities": 2250,
+              "activities": 9290,
               "activityTexts": [
                 "50 minutes of Yoga"
               ]
             },
             "2026-05-21": {
               "steps": 5401,
-              "activities": 13200,
+              "activities": 20240,
               "activityTexts": [
                 "60 minutes of Swimming hard"
               ]
             },
             "2026-05-26": {
               "steps": 14145,
-              "activities": 13200,
+              "activities": 20240,
               "activityTexts": [
                 "60 minutes of Swimming hard"
               ]
             },
             "2026-05-25": {
               "steps": 13266,
-              "activities": 2250,
+              "activities": 9290,
               "activityTexts": [
                 "50 minutes of Yoga"
               ]
             },
             "2026-05-24": {
               "steps": 12478,
-              "activities": 13200
+              "activities": 20240
             },
             "2026-05-23": {
               "steps": 16242,
-              "activities": 2250
+              "activities": 9290
             },
             "2026-05-28": {
               "steps": 12782,
-              "activities": 2700,
+              "activities": 9740,
               "activityTexts": [
                 "60 minutes of Yoga"
               ]
             },
             "2026-05-27": {
               "steps": 12416,
-              "activities": 2700
+              "activities": 9740
             },
             "2026-06-01": {
               "steps": 0,
@@ -3395,6 +3395,10 @@
               ]
             },
             "2026-05-30": {
+              "steps": 0,
+              "activities": 7040
+            },
+            "2026-05-29": {
               "steps": 0,
               "activities": 7040
             }
@@ -3582,13 +3586,13 @@
   ],
   "challengeRankings": {
     "132544": {
-      "position": 2,
+      "position": 3,
       "tally": 327474,
       "outOf": 198
     },
     "132609": {
-      "position": 5,
-      "tally": 264039,
+      "position": 4,
+      "tally": 273719,
       "outOf": 198
     },
     "132626": {
