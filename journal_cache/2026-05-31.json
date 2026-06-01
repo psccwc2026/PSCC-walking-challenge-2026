@@ -231,6 +231,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459668": {
+      "photo": "",
+      "activityTexts": [
+        "100 minutes of Tennis"
+      ],
+      "journalText": ""
+    },
     "1460869": {
       "photo": "",
       "activityTexts": [],
@@ -2648,7 +2655,9 @@
     },
     "1457863": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "55 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
       "journalText": ""
     },
     "1451447": {
@@ -4669,13 +4678,6 @@
         "20 minutes of HIIT (High intensity interval traini",
         "120 minutes of Dancing",
         "30 minutes of Walking, average"
-      ],
-      "journalText": ""
-    },
-    "1459668": {
-      "photo": "",
-      "activityTexts": [
-        "100 minutes of Tennis"
       ],
       "journalText": ""
     },
