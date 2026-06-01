@@ -2363,6 +2363,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459564": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462955": {
       "photo": "",
       "activityTexts": [
@@ -2982,11 +2987,6 @@
       "journalText": ""
     },
     "1462397": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459564": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5426,6 +5426,13 @@
       "photo": "",
       "activityTexts": [
         "5 miles of Walking (miles of)"
+      ],
+      "journalText": ""
+    },
+    "1461761": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Swimming, leisure"
       ],
       "journalText": ""
     },
