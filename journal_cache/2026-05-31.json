@@ -229,11 +229,6 @@
       ],
       "journalText": ""
     },
-    "1452356": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1452172": {
       "photo": "",
       "activityTexts": [
@@ -242,6 +237,11 @@
       "journalText": ""
     },
     "1452459": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1452356": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -452,6 +452,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456807": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461917": {
       "photo": "",
       "activityTexts": [],
@@ -475,11 +480,6 @@
       "journalText": ""
     },
     "1452771": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1456807": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -791,7 +791,10 @@
     },
     "1452462": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "45 minutes of Pilates",
+        "50 minutes of Circuit training"
+      ],
       "journalText": ""
     },
     "1453302": {
@@ -1088,6 +1091,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452191": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452487": {
       "photo": "",
       "activityTexts": [],
@@ -1109,11 +1117,6 @@
       "journalText": ""
     },
     "1458960": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452191": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1438,17 +1441,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462078": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461909": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1461891": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462078": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1909,6 +1912,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462452": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452743": {
       "photo": "",
       "activityTexts": [],
@@ -2017,6 +2025,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460539": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452749": {
       "photo": "",
       "activityTexts": [],
@@ -2028,6 +2041,11 @@
       "journalText": ""
     },
     "1453408": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1461850": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2058,6 +2076,11 @@
       "journalText": ""
     },
     "1462919": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1463179": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2109,6 +2132,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460235": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1458627": {
       "photo": "",
       "activityTexts": [],
@@ -2122,6 +2150,19 @@
     "1461814": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1462914": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1459750": {
+      "photo": "",
+      "activityTexts": [
+        "40 minutes of Body Weight Exercises (Squats, etc) ",
+        "40 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1452724": {
@@ -2146,11 +2187,6 @@
       "activityTexts": [
         "30 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
       ],
-      "journalText": ""
-    },
-    "1462914": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460137": {
@@ -2219,11 +2255,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460539": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1461275": {
       "photo": "",
       "activityTexts": [],
@@ -2271,17 +2302,7 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460235": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1460491": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1463179": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2390,11 +2411,6 @@
       "activityTexts": [
         "75 minutes of Swimming, leisure"
       ],
-      "journalText": ""
-    },
-    "1461850": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1461951": {
@@ -2533,11 +2549,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462452": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1451811": {
       "photo": "",
       "activityTexts": [],
@@ -2608,14 +2619,6 @@
       "photo": "",
       "activityTexts": [
         "30 minutes of Running, 10 min. mile/6:12 kilometer"
-      ],
-      "journalText": ""
-    },
-    "1459750": {
-      "photo": "",
-      "activityTexts": [
-        "40 minutes of Body Weight Exercises (Squats, etc) ",
-        "40 minutes of Weight lifting"
       ],
       "journalText": ""
     },
