@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T06:35:43.191668+00:00",
+  "lastUpdated": "2026-06-01T06:40:30.931559+00:00",
   "teams": [
     {
       "id": 132544,
@@ -3507,22 +3507,22 @@
     "132544": {
       "position": 2,
       "tally": 327440,
-      "outOf": 199
+      "outOf": 198
     },
     "132609": {
       "position": 6,
-      "tally": 247425,
-      "outOf": 199
+      "tally": 247456,
+      "outOf": 198
     },
     "132626": {
-      "position": 69,
+      "position": 68,
       "tally": 114236,
-      "outOf": 199
+      "outOf": 198
     },
     "132610": {
-      "position": 145,
+      "position": 144,
       "tally": 74048,
-      "outOf": 199
+      "outOf": 198
     }
   },
   "challengeLeaderboardTop10": [
