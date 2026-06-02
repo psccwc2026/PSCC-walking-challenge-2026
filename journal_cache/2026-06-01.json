@@ -1678,6 +1678,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462116": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462868": {
       "photo": "",
       "activityTexts": [],
@@ -1768,11 +1773,6 @@
       "journalText": ""
     },
     "1459441": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462116": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2704,6 +2704,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451728": {
+      "photo": "",
+      "activityTexts": [
+        "55 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1459213": {
       "photo": "",
       "activityTexts": [
@@ -3003,7 +3010,9 @@
     },
     "1460473": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "20 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1460235": {
