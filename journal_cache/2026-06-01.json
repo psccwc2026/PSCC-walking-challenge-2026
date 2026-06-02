@@ -214,6 +214,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452051": {
+      "photo": "",
+      "activityTexts": [
+        "180 minutes of Volleyball",
+        "60 minutes of Yoga"
+      ],
+      "journalText": ""
+    },
     "1452905": {
       "photo": "",
       "activityTexts": [],
@@ -457,14 +465,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452051": {
-      "photo": "",
-      "activityTexts": [
-        "180 minutes of Volleyball",
-        "60 minutes of Yoga"
-      ],
-      "journalText": ""
-    },
     "1459108": {
       "photo": "",
       "activityTexts": [],
@@ -563,6 +563,13 @@
       "photo": "",
       "activityTexts": [
         "50 minutes of Pilates"
+      ],
+      "journalText": ""
+    },
+    "1452467": {
+      "photo": "",
+      "activityTexts": [
+        "4 miles of Walking (miles of)"
       ],
       "journalText": ""
     },
@@ -728,13 +735,6 @@
     "1458394": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452467": {
-      "photo": "",
-      "activityTexts": [
-        "4 miles of Walking (miles of)"
-      ],
       "journalText": ""
     },
     "1460199": {
@@ -3595,12 +3595,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1463179": {
+    "1457470": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1457470": {
+    "1463179": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3899,6 +3899,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460923": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+      ],
+      "journalText": ""
+    },
     "1452505": {
       "photo": "",
       "activityTexts": [],
@@ -4147,7 +4154,9 @@
     },
     "1461715": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of CrossFit fast (tm)"
+      ],
       "journalText": ""
     },
     "1456482": {
@@ -4255,13 +4264,6 @@
     "1461848": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1460923": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-      ],
       "journalText": ""
     },
     "1456848": {
