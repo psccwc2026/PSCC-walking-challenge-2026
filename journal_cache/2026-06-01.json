@@ -3350,6 +3350,14 @@
       ],
       "journalText": ""
     },
+    "1459416": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Gymnastics",
+        "30 minutes of Running, 10 min. mile/6:12 kilometer"
+      ],
+      "journalText": ""
+    },
     "1452273": {
       "photo": "",
       "activityTexts": [],
@@ -3370,14 +3378,6 @@
     "1453630": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1459416": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Gymnastics",
-        "30 minutes of Running, 10 min. mile/6:12 kilometer"
-      ],
       "journalText": ""
     },
     "1460920": {
@@ -3684,6 +3684,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462559": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462911": {
       "photo": "",
       "activityTexts": [],
@@ -3697,11 +3702,6 @@
       "journalText": ""
     },
     "1460651": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462559": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3931,6 +3931,11 @@
       "journalText": ""
     },
     "1459944": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460119": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4192,11 +4197,6 @@
       "activityTexts": [
         "65 minutes of Weight lifting"
       ],
-      "journalText": ""
-    },
-    "1460119": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460506": {
@@ -4827,7 +4827,8 @@
     "1459373": {
       "photo": "",
       "activityTexts": [
-        "60 minutes of Weight lifting"
+        "60 minutes of Weight lifting",
+        "20 minutes of Walking, average"
       ],
       "journalText": ""
     },
