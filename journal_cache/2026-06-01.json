@@ -1152,6 +1152,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460775": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Body Weight Exercises (Squats, etc) ",
+        "70 minutes of Spinning (bike)"
+      ],
+      "journalText": ""
+    },
     "1461943": {
       "photo": "",
       "activityTexts": [],
@@ -1330,14 +1338,6 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of Golf, Walking"
-      ],
-      "journalText": ""
-    },
-    "1460775": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Body Weight Exercises (Squats, etc) ",
-        "70 minutes of Spinning (bike)"
       ],
       "journalText": ""
     },
@@ -1544,6 +1544,13 @@
       ],
       "journalText": ""
     },
+    "1452274": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Gymnastics"
+      ],
+      "journalText": ""
+    },
     "1460828": {
       "photo": "",
       "activityTexts": [],
@@ -1552,13 +1559,6 @@
     "1460288": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452274": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Gymnastics"
-      ],
       "journalText": ""
     },
     "1461921": {
@@ -3199,6 +3199,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462875": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452230": {
       "photo": "",
       "activityTexts": [],
@@ -3236,6 +3241,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453439": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Basketball",
+        "30 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
     "1461962": {
       "photo": "",
       "activityTexts": [],
@@ -3244,14 +3257,6 @@
     "1457122": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1453439": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Basketball",
-        "30 minutes of Body Weight Exercises (Squats, etc) "
-      ],
       "journalText": ""
     },
     "1451381": {
@@ -3878,6 +3883,13 @@
       ],
       "journalText": ""
     },
+    "1452578": {
+      "photo": "",
+      "activityTexts": [
+        "120 minutes of Bicycling (leisurely, < 12mph/20kph"
+      ],
+      "journalText": ""
+    },
     "1460137": {
       "photo": "",
       "activityTexts": [],
@@ -4469,11 +4481,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462875": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1460140": {
       "photo": "",
       "activityTexts": [
@@ -4912,6 +4919,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460092": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462304": {
       "photo": "",
       "activityTexts": [],
@@ -4983,11 +4995,6 @@
       "journalText": ""
     },
     "1464191": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460092": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5191,13 +5198,6 @@
       "activityTexts": [
         "40 minutes of Strength",
         "60 minutes of Running, average"
-      ],
-      "journalText": ""
-    },
-    "1452578": {
-      "photo": "",
-      "activityTexts": [
-        "120 minutes of Bicycling (leisurely, < 12mph/20kph"
       ],
       "journalText": ""
     },
