@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T23:40:35.935490+00:00",
+  "lastUpdated": "2026-06-02T23:45:33.315505+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1728,7 +1728,7 @@
               "activities": 0
             },
             "2026-06-02": {
-              "steps": 1398,
+              "steps": 1504,
               "activities": 0
             }
           },
@@ -2228,15 +2228,35 @@
               "activities": 0
             },
             "2026-05-28": {
-              "steps": 12971,
+              "steps": 13020,
               "activities": 0
             },
             "2026-05-27": {
-              "steps": 8171,
+              "steps": 8214,
               "activities": 0
             },
             "2026-05-26": {
               "steps": 2865,
+              "activities": 0
+            },
+            "2026-06-02": {
+              "steps": 5897,
+              "activities": 0
+            },
+            "2026-06-01": {
+              "steps": 2548,
+              "activities": 0
+            },
+            "2026-05-31": {
+              "steps": 3206,
+              "activities": 0
+            },
+            "2026-05-30": {
+              "steps": 6913,
+              "activities": 0
+            },
+            "2026-05-29": {
+              "steps": 6760,
               "activities": 0
             }
           },
@@ -3678,7 +3698,7 @@
               "activities": 1500
             },
             "2026-06-02": {
-              "steps": 5232,
+              "steps": 5395,
               "activities": 7040
             }
           },
@@ -3808,17 +3828,17 @@
     },
     "132609": {
       "position": 4,
-      "tally": 304711,
+      "tally": 304731,
       "outOf": 199
     },
     "132626": {
       "position": 77,
-      "tally": 126263,
+      "tally": 126278,
       "outOf": 199
     },
     "132610": {
-      "position": 152,
-      "tally": 82919,
+      "position": 147,
+      "tally": 86551,
       "outOf": 199
     }
   },
