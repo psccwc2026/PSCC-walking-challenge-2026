@@ -1334,7 +1334,9 @@
     },
     "1460648": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "19 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
       "journalText": ""
     },
     "1460652": {
@@ -2441,6 +2443,11 @@
       "journalText": ""
     },
     "1459410": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1463007": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
