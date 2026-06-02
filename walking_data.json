@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T03:55:40.963567+00:00",
+  "lastUpdated": "2026-06-02T04:01:02.528410+00:00",
   "teams": [
     {
       "id": 132544,
@@ -177,6 +177,13 @@
               "activities": 46800,
               "activityTexts": [
                 "360 minutes of Cricket"
+              ]
+            },
+            "2026-06-01": {
+              "steps": 9882,
+              "activities": 19650,
+              "activityTexts": [
+                "150 minutes of Badminton, casual"
               ]
             }
           },
@@ -625,7 +632,7 @@
               "activities": 10900
             },
             "2026-06-01": {
-              "steps": 1173,
+              "steps": 2768,
               "activities": 5200
             }
           },
@@ -3658,12 +3665,12 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 336303,
+      "tally": 339762,
       "outOf": 199
     },
     "132609": {
       "position": 4,
-      "tally": 285793,
+      "tally": 285816,
       "outOf": 199
     },
     "132626": {
