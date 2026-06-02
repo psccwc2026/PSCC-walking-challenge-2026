@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T04:05:49.973255+00:00",
+  "lastUpdated": "2026-06-02T04:10:31.748564+00:00",
   "teams": [
     {
       "id": 132544,
@@ -632,7 +632,7 @@
               "activities": 10900
             },
             "2026-06-01": {
-              "steps": 2768,
+              "steps": 3702,
               "activities": 5200
             }
           },
@@ -759,7 +759,11 @@
             },
             "2026-06-01": {
               "steps": 4323,
-              "activities": 0
+              "activities": 7350,
+              "activityTexts": [
+                "30 minutes of Basketball",
+                "30 minutes of Body Weight Exercises (Squats, etc) "
+              ]
             }
           },
           "memberId": 1453439
@@ -3552,7 +3556,7 @@
               "activities": 10500
             },
             "2026-06-01": {
-              "steps": 15369,
+              "steps": 15720,
               "activities": 0
             }
           },
@@ -3665,12 +3669,12 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 340122,
+      "tally": 341041,
       "outOf": 199
     },
     "132609": {
       "position": 4,
-      "tally": 285816,
+      "tally": 285860,
       "outOf": 199
     },
     "132626": {
