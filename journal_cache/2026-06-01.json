@@ -2300,6 +2300,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453458": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+      ],
+      "journalText": ""
+    },
     "1458440": {
       "photo": "",
       "activityTexts": [
@@ -2989,13 +2996,6 @@
       "photo": "",
       "activityTexts": [
         "34 minutes of Bicycling (leisurely, < 12mph/20kph)"
-      ],
-      "journalText": ""
-    },
-    "1453458": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
       ],
       "journalText": ""
     },
@@ -5120,11 +5120,6 @@
       "journalText": ""
     },
     "1460527": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452399": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
