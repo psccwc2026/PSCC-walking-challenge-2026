@@ -2741,6 +2741,11 @@
       ],
       "journalText": ""
     },
+    "1459600": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451447": {
       "photo": "",
       "activityTexts": [],
@@ -2764,11 +2769,6 @@
       "journalText": ""
     },
     "1458398": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459600": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2901,6 +2901,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452651": {
+      "photo": "",
+      "activityTexts": [
+        "42 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
+      "journalText": ""
+    },
     "1453458": {
       "photo": "",
       "activityTexts": [
@@ -2911,13 +2918,6 @@
     "1452436": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452651": {
-      "photo": "",
-      "activityTexts": [
-        "42 minutes of Bicycling (leisurely, < 12mph/20kph)"
-      ],
       "journalText": ""
     },
     "1451746": {
@@ -4664,6 +4664,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452973": {
+      "photo": "",
+      "activityTexts": [
+        "75 minutes of Body Weight Exercises (Squats, etc) ",
+        "30 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
+      "journalText": ""
+    },
     "1459822": {
       "photo": "",
       "activityTexts": [],
@@ -5382,14 +5390,6 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Swimming hard"
-      ],
-      "journalText": ""
-    },
-    "1452973": {
-      "photo": "",
-      "activityTexts": [
-        "75 minutes of Body Weight Exercises (Squats, etc) ",
-        "30 minutes of Bicycling (moderate, 12-14mph/20-22k"
       ],
       "journalText": ""
     },
