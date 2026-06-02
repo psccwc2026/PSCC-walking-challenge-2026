@@ -287,6 +287,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463243": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1463054": {
       "photo": "",
       "activityTexts": [
@@ -298,13 +305,6 @@
     "1462383": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1463243": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Weight lifting"
-      ],
       "journalText": ""
     },
     "1462943": {
@@ -1802,6 +1802,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456296": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459287": {
       "photo": "",
       "activityTexts": [],
@@ -2624,11 +2629,6 @@
       "activityTexts": [
         "15 minutes of Tennis"
       ],
-      "journalText": ""
-    },
-    "1456296": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452753": {
@@ -3828,6 +3828,13 @@
       ],
       "journalText": ""
     },
+    "1452208": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Rowing Machine"
+      ],
+      "journalText": ""
+    },
     "1451725": {
       "photo": "",
       "activityTexts": [],
@@ -3855,13 +3862,6 @@
       "photo": "",
       "activityTexts": [
         "240 minutes of Swimming, leisure"
-      ],
-      "journalText": ""
-    },
-    "1452208": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Rowing Machine"
       ],
       "journalText": ""
     },
@@ -4199,6 +4199,11 @@
       ],
       "journalText": ""
     },
+    "1453405": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456917": {
       "photo": "",
       "activityTexts": [],
@@ -4381,6 +4386,14 @@
     "1460567": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1460892": {
+      "photo": "",
+      "activityTexts": [
+        "50 minutes of Bicycling (moderate, 12-14mph/20-22k",
+        "50 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+      ],
       "journalText": ""
     },
     "1459468": {
@@ -4651,14 +4664,6 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Gymnastics"
-      ],
-      "journalText": ""
-    },
-    "1460892": {
-      "photo": "",
-      "activityTexts": [
-        "50 minutes of Bicycling (moderate, 12-14mph/20-22k",
-        "50 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
       ],
       "journalText": ""
     },
@@ -5130,11 +5135,6 @@
       "journalText": ""
     },
     "1456453": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453405": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
