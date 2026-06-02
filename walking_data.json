@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T19:15:35.664007+00:00",
+  "lastUpdated": "2026-06-02T19:20:44.273084+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2377,11 +2377,20 @@
             },
             "2026-06-01": {
               "steps": 0,
-              "activities": 0
+              "activities": 6900,
+              "activityTexts": [
+                "60 minutes of Stretching",
+                "30 minutes of Sit-ups / Push-ups / Crunches",
+                "30 minutes of Weight lifting"
+              ]
             },
             "2026-06-02": {
               "steps": 0,
-              "activities": 0
+              "activities": 3000,
+              "activityTexts": [
+                "60 minutes of Stretching",
+                "30 minutes of Body Weight Exercises (Squats, etc) "
+              ]
             }
           },
           "memberId": 1456173
@@ -3651,7 +3660,7 @@
               "activities": 1500
             },
             "2026-06-02": {
-              "steps": 605,
+              "steps": 3015,
               "activities": 7040
             }
           },
@@ -3769,7 +3778,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 296244,
+      "tally": 296545,
       "outOf": 199
     },
     "132626": {
@@ -3778,8 +3787,8 @@
       "outOf": 199
     },
     "132610": {
-      "position": 153,
-      "tally": 81633,
+      "position": 151,
+      "tally": 82919,
       "outOf": 199
     }
   },
