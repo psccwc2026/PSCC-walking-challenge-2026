@@ -2715,6 +2715,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462452": {
+      "photo": "",
+      "activityTexts": [
+        "25 minutes of Weight lifting",
+        "20 minutes of Aerobics"
+      ],
+      "journalText": ""
+    },
     "1453458": {
       "photo": "",
       "activityTexts": [
@@ -2738,14 +2746,6 @@
       "photo": "",
       "activityTexts": [
         "10 minutes of Running, 8 min. mile/4:58 kilometer"
-      ],
-      "journalText": ""
-    },
-    "1462452": {
-      "photo": "",
-      "activityTexts": [
-        "25 minutes of Weight lifting",
-        "20 minutes of Aerobics"
       ],
       "journalText": ""
     },
@@ -4462,6 +4462,11 @@
       "journalText": ""
     },
     "1461416": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460584": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
