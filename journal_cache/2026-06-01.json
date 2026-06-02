@@ -4974,6 +4974,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458272": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1458349": {
       "photo": "",
       "activityTexts": [],
@@ -4988,11 +4993,6 @@
       "journalText": ""
     },
     "1457385": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458272": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5392,6 +5392,14 @@
       "activityTexts": [
         "40 minutes of Body Weight Exercises (Squats, etc) ",
         "30 minutes of Walking, brisk"
+      ],
+      "journalText": ""
+    },
+    "1458999": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Spinning (bike)",
+        "30 minutes of Weight lifting"
       ],
       "journalText": ""
     },
