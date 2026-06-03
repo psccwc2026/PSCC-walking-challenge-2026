@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T04:20:55.158040+00:00",
+  "lastUpdated": "2026-06-03T04:25:46.236178+00:00",
   "teams": [
     {
       "id": 132544,
@@ -514,6 +514,18 @@
               "activityTexts": [
                 "150 minutes of Badminton, casual"
               ]
+            },
+            "2026-06-02": {
+              "steps": 0,
+              "activities": 21120,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/06/03/0_0ubhxYnEl9_large.jpg",
+              "activityTexts": [
+                "96 minutes of Swimming hard"
+              ]
+            },
+            "2026-06-01": {
+              "steps": 0,
+              "activities": 18190
             }
           },
           "memberId": 1456064
@@ -3842,7 +3854,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 364130,
+      "tally": 372840,
       "outOf": 199
     },
     "132609": {
