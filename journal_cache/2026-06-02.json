@@ -857,6 +857,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459593": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459034": {
       "photo": "",
       "activityTexts": [],
@@ -907,11 +912,6 @@
       "journalText": ""
     },
     "1456933": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459593": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3060,7 +3060,9 @@
     },
     "1458148": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "2 miles of Walking (miles of)"
+      ],
       "journalText": ""
     },
     "1452835": {
@@ -4456,7 +4458,9 @@
     },
     "1460911": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "80 minutes of Climbing, rock or mountain"
+      ],
       "journalText": ""
     },
     "1459710": {
