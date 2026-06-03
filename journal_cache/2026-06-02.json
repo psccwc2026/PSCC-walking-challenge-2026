@@ -1143,6 +1143,13 @@
       ],
       "journalText": ""
     },
+    "1462116": {
+      "photo": "",
+      "activityTexts": [
+        "32 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+      ],
+      "journalText": ""
+    },
     "1460532": {
       "photo": "",
       "activityTexts": [
@@ -1217,13 +1224,6 @@
     "1459002": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462116": {
-      "photo": "",
-      "activityTexts": [
-        "32 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-      ],
       "journalText": ""
     },
     "1462833": {
@@ -3228,7 +3228,9 @@
     },
     "1452365": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "45 minutes of HIIT (High intensity interval traini"
+      ],
       "journalText": ""
     },
     "1459660": {
