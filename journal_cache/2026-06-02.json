@@ -456,12 +456,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452252": {
+    "1452191": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1452191": {
+    "1452252": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2448,6 +2448,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459391": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452695": {
       "photo": "",
       "activityTexts": [
@@ -2899,7 +2904,9 @@
     },
     "1461978": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "120 minutes of Bicycling (leisurely, < 12mph/20kph"
+      ],
       "journalText": ""
     },
     "1453000": {
@@ -2964,11 +2971,6 @@
       "activityTexts": [
         "45 minutes of Sit-ups / Push-ups / Crunches"
       ],
-      "journalText": ""
-    },
-    "1459391": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460637": {
@@ -3398,6 +3400,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459552": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452063": {
       "photo": "",
       "activityTexts": [],
@@ -3470,11 +3477,6 @@
       "activityTexts": [
         "61 minutes of Body Weight Exercises (Squats, etc) "
       ],
-      "journalText": ""
-    },
-    "1459552": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1461849": {
