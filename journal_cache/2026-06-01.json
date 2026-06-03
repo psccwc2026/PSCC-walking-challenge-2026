@@ -695,6 +695,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456089": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452469": {
       "photo": "",
       "activityTexts": [],
@@ -750,11 +755,6 @@
       "journalText": ""
     },
     "1460077": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1456089": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1808,7 +1808,10 @@
     },
     "1462116": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "20 minutes of Stair climbing, up stairs",
+        "20 minutes of Stair climbing, down stairs"
+      ],
       "journalText": ""
     },
     "1462868": {
@@ -2246,6 +2249,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458278": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451630": {
       "photo": "",
       "activityTexts": [],
@@ -2256,6 +2264,11 @@
       "activityTexts": [
         "30 minutes of Strength"
       ],
+      "journalText": ""
+    },
+    "1453000": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1460468": {
@@ -2422,11 +2435,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1458278": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462121": {
       "photo": "",
       "activityTexts": [
@@ -2566,11 +2574,6 @@
       "journalText": ""
     },
     "1459149": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453000": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
