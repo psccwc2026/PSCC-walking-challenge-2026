@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T04:25:46.236178+00:00",
+  "lastUpdated": "2026-06-03T04:30:35.968911+00:00",
   "teams": [
     {
       "id": 132544,
@@ -509,14 +509,14 @@
               ]
             },
             "2026-05-31": {
-              "steps": 21190,
+              "steps": 21355,
               "activities": 19650,
               "activityTexts": [
                 "150 minutes of Badminton, casual"
               ]
             },
             "2026-06-02": {
-              "steps": 0,
+              "steps": 20860,
               "activities": 21120,
               "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/06/03/0_0ubhxYnEl9_large.jpg",
               "activityTexts": [
@@ -524,8 +524,12 @@
               ]
             },
             "2026-06-01": {
-              "steps": 0,
-              "activities": 18190
+              "steps": 18091,
+              "activities": 18190,
+              "activityTexts": [
+                "75 minutes of Badminton, casual",
+                "35 minutes of HIIT (High intensity interval traini"
+              ]
             }
           },
           "memberId": 1456064
@@ -918,7 +922,7 @@
               ]
             },
             "2026-06-02": {
-              "steps": 17287,
+              "steps": 17361,
               "activities": 11700,
               "activityTexts": [
                 "90 minutes of Bicycling (leisurely, < 12mph/20kph)"
@@ -2907,7 +2911,7 @@
               "activities": 0
             },
             "2026-06-02": {
-              "steps": 1406,
+              "steps": 1479,
               "activities": 0
             }
           },
@@ -3213,7 +3217,7 @@
               "activities": 0
             },
             "2026-06-02": {
-              "steps": 25925,
+              "steps": 25938,
               "activities": 0
             }
           },
@@ -3854,12 +3858,12 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 372840,
+      "tally": 372853,
       "outOf": 199
     },
     "132609": {
       "position": 4,
-      "tally": 310165,
+      "tally": 310176,
       "outOf": 199
     },
     "132626": {
