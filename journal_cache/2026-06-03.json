@@ -4757,7 +4757,9 @@
     },
     "1462494": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "120 minutes of Swimming, leisure"
+      ],
       "journalText": ""
     },
     "1462512": {
@@ -5380,6 +5382,13 @@
       "photo": "",
       "activityTexts": [
         "120 minutes of Walking, stroll"
+      ],
+      "journalText": ""
+    },
+    "1453392": {
+      "photo": "",
+      "activityTexts": [
+        "90 minutes of Walking, average"
       ],
       "journalText": ""
     },
