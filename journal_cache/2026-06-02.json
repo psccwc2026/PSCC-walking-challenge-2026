@@ -1370,6 +1370,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463296": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453002": {
       "photo": "",
       "activityTexts": [],
@@ -1619,11 +1624,6 @@
       "activityTexts": [
         "53 minutes of Calisthenics"
       ],
-      "journalText": ""
-    },
-    "1463296": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1461955": {
@@ -4355,6 +4355,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456674": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462203": {
       "photo": "",
       "activityTexts": [],
@@ -5136,7 +5141,9 @@
     },
     "1459980": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "50 minutes of Spinning (bike)"
+      ],
       "journalText": ""
     },
     "1462271": {
