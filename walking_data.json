@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T12:35:41.126881+00:00",
+  "lastUpdated": "2026-06-04T12:40:31.637085+00:00",
   "teams": [
     {
       "id": 132544,
@@ -549,10 +549,10 @@
             "2026-06-03": {
               "steps": 14201,
               "activities": 22440,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/06/04/0_RYH1oCpQbi_large.jpg",
               "activityTexts": [
                 "102 minutes of Swimming hard"
-              ],
-              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/06/04/0_RYH1oCpQbi_large.jpg"
+              ]
             }
           },
           "memberId": 1456064
@@ -1986,7 +1986,7 @@
               "activities": 0
             },
             "2026-06-04": {
-              "steps": 740,
+              "steps": 1301,
               "activities": 0
             }
           },
@@ -4061,8 +4061,8 @@
       "outOf": 199
     },
     "132626": {
-      "position": 77,
-      "tally": 136383,
+      "position": 76,
+      "tally": 136463,
       "outOf": 199
     },
     "132610": {
