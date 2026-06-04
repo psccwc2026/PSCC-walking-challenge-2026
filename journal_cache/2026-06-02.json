@@ -5010,6 +5010,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459146": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Pilates"
+      ],
+      "journalText": ""
+    },
     "1452208": {
       "photo": "",
       "activityTexts": [],
@@ -5025,13 +5032,6 @@
     "1458272": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1459146": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Pilates"
-      ],
       "journalText": ""
     },
     "1460140": {
@@ -5482,6 +5482,14 @@
       "activityTexts": [
         "30 minutes of HIIT (High intensity interval traini",
         "30 minutes of Walking, brisk"
+      ],
+      "journalText": ""
+    },
+    "1461953": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Walking, brisk",
+        "30 minutes of Walking, average"
       ],
       "journalText": ""
     },
