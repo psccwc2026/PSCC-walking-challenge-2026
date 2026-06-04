@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T02:05:30.788544+00:00",
+  "lastUpdated": "2026-06-04T02:10:34.590613+00:00",
   "teams": [
     {
       "id": 132544,
@@ -3311,7 +3311,7 @@
               "activities": 0
             },
             "2026-06-03": {
-              "steps": 2693,
+              "steps": 2793,
               "activities": 0
             }
           },
@@ -3957,9 +3957,9 @@
             },
             "2026-06-03": {
               "steps": 3582,
-              "activities": 15880,
+              "activities": 29280,
               "activityTexts": [
-                "53 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
+                "120 minutes of Bicycling (vigorous, 14mph+ / 22kph",
                 "15 minutes of Plyometrics"
               ]
             }
@@ -3977,7 +3977,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 319164,
+      "tally": 320851,
       "outOf": 199
     },
     "132626": {
