@@ -2425,7 +2425,9 @@
     },
     "1459941": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "15 minutes of Walking, average"
+      ],
       "journalText": ""
     },
     "1462936": {
@@ -4056,6 +4058,11 @@
       "journalText": ""
     },
     "1456682": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1461984": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
