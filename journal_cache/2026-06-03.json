@@ -2734,6 +2734,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462546": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1457759": {
       "photo": "",
       "activityTexts": [],
@@ -3220,6 +3225,14 @@
         "45 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
         "45 minutes of Weight lifting",
         "45 minutes of Walking, brisk"
+      ],
+      "journalText": ""
+    },
+    "1452835": {
+      "photo": "",
+      "activityTexts": [
+        "50 minutes of Kickboxing",
+        "30 minutes of Swimming, leisure"
       ],
       "journalText": ""
     },
@@ -4165,6 +4178,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457802": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452339": {
       "photo": "",
       "activityTexts": [
@@ -4606,6 +4624,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462515": {
+      "photo": "",
+      "activityTexts": [
+        "240 minutes of Ballet dancing"
+      ],
+      "journalText": ""
+    },
     "1462854": {
       "photo": "",
       "activityTexts": [],
@@ -4706,13 +4731,6 @@
     "1451755": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462515": {
-      "photo": "",
-      "activityTexts": [
-        "240 minutes of Ballet dancing"
-      ],
       "journalText": ""
     },
     "1462364": {
@@ -5063,14 +5081,6 @@
       "activityTexts": [
         "55 minutes of Running, 10 min. mile/6:12 kilometer",
         "95 minutes of Pickleball"
-      ],
-      "journalText": ""
-    },
-    "1452835": {
-      "photo": "",
-      "activityTexts": [
-        "50 minutes of Kickboxing",
-        "30 minutes of Swimming, leisure"
       ],
       "journalText": ""
     },
