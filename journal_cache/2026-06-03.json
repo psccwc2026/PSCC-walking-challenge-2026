@@ -1541,7 +1541,8 @@
     "1458305": {
       "photo": "",
       "activityTexts": [
-        "120 minutes of Dancing"
+        "120 minutes of Dancing",
+        "30 minutes of Stretching"
       ],
       "journalText": ""
     },
@@ -2645,6 +2646,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453354": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460598": {
       "photo": "",
       "activityTexts": [],
@@ -3404,6 +3410,13 @@
       ],
       "journalText": ""
     },
+    "1461704": {
+      "photo": "",
+      "activityTexts": [
+        "40 minutes of HIIT (High intensity interval traini"
+      ],
+      "journalText": ""
+    },
     "1457122": {
       "photo": "",
       "activityTexts": [],
@@ -3413,13 +3426,6 @@
       "photo": "",
       "activityTexts": [
         "90 minutes of Weight lifting"
-      ],
-      "journalText": ""
-    },
-    "1461704": {
-      "photo": "",
-      "activityTexts": [
-        "40 minutes of HIIT (High intensity interval traini"
       ],
       "journalText": ""
     },
@@ -4394,7 +4400,9 @@
     },
     "1460907": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Stretching"
+      ],
       "journalText": ""
     },
     "1452452": {
