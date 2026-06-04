@@ -1914,6 +1914,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452479": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Swimming hard"
+      ],
+      "journalText": ""
+    },
     "1462936": {
       "photo": "",
       "activityTexts": [],
@@ -1939,13 +1946,6 @@
     "1451630": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452479": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Swimming hard"
-      ],
       "journalText": ""
     },
     "1463665": {
@@ -2085,6 +2085,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459902": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Spinning (bike)"
+      ],
+      "journalText": ""
+    },
     "1457853": {
       "photo": "",
       "activityTexts": [],
@@ -2123,13 +2130,6 @@
     "1460651": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1459902": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Spinning (bike)"
-      ],
       "journalText": ""
     },
     "1461266": {
@@ -4035,7 +4035,10 @@
     },
     "1461416": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Weight lifting",
+        "30 minutes of Pilates"
+      ],
       "journalText": ""
     },
     "1457989": {
@@ -5094,6 +5097,13 @@
       "photo": "",
       "activityTexts": [
         "4 miles of Walking (miles of)"
+      ],
+      "journalText": ""
+    },
+    "1452400": {
+      "photo": "",
+      "activityTexts": [
+        "120 minutes of Walking, stroll"
       ],
       "journalText": ""
     },
