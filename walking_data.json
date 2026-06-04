@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T05:45:47.794124+00:00",
+  "lastUpdated": "2026-06-04T05:50:30.126719+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1139,6 +1139,15 @@
                 "25 minutes of Circuit training",
                 "20 minutes of Jumping Rope, moderate",
                 "20 minutes of Squash"
+              ]
+            },
+            "2026-06-03": {
+              "steps": 14922,
+              "activities": 5000,
+              "activityTexts": [
+                "20 minutes of Bicycling (leisurely, < 12mph/20kph)",
+                "20 minutes of Circuit training",
+                "20 minutes of Jumping Rope, moderate"
               ]
             }
           },
@@ -3998,7 +4007,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 390056,
+      "tally": 392445,
       "outOf": 199
     },
     "132609": {
