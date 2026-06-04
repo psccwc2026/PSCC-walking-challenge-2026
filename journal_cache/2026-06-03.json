@@ -2723,6 +2723,11 @@
       ],
       "journalText": ""
     },
+    "1452322": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1458582": {
       "photo": "",
       "activityTexts": [],
@@ -2987,11 +2992,6 @@
       "activityTexts": [
         "60 minutes of Weight lifting"
       ],
-      "journalText": ""
-    },
-    "1452322": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460116": {
@@ -3469,6 +3469,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453502": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462458": {
       "photo": "",
       "activityTexts": [],
@@ -3485,11 +3490,6 @@
       "journalText": ""
     },
     "1465043": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453502": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4706,7 +4706,10 @@
     },
     "1456482": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "90 minutes of Walking, average",
+        "60 minutes of Swimming, leisure"
+      ],
       "journalText": ""
     },
     "1461816": {
@@ -4717,6 +4720,13 @@
     "1452077": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1460701": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Circuit training"
+      ],
       "journalText": ""
     },
     "1453738": {
