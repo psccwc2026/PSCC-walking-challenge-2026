@@ -589,16 +589,16 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452291": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1452130": {
       "photo": "",
       "activityTexts": [
         "27 minutes of Body Weight Exercises (Squats, etc) "
       ],
+      "journalText": ""
+    },
+    "1452291": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1462888": {
@@ -2868,6 +2868,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462930": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463115": {
       "photo": "",
       "activityTexts": [
@@ -4464,6 +4469,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463313": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462854": {
       "photo": "",
       "activityTexts": [],
@@ -4792,6 +4802,13 @@
       "activityTexts": [
         "45 minutes of Body Weight Exercises (Squats, etc) ",
         "30 minutes of Walking, brisk"
+      ],
+      "journalText": ""
+    },
+    "1460121": {
+      "photo": "",
+      "activityTexts": [
+        "35 minutes of Stair climbing, machine"
       ],
       "journalText": ""
     },
