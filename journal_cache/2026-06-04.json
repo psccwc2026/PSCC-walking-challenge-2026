@@ -2144,6 +2144,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458910": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Circuit training"
+      ],
+      "journalText": ""
+    },
     "1456807": {
       "photo": "",
       "activityTexts": [],
@@ -2194,13 +2201,6 @@
     "1460656": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1458910": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Circuit training"
-      ],
       "journalText": ""
     },
     "1453604": {
@@ -2802,6 +2802,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459754": {
+      "photo": "",
+      "activityTexts": [
+        "25 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1459904": {
       "photo": "",
       "activityTexts": [],
@@ -2863,13 +2870,6 @@
     "1452510": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1459754": {
-      "photo": "",
-      "activityTexts": [
-        "25 minutes of Strength"
-      ],
       "journalText": ""
     },
     "1451450": {
@@ -3782,6 +3782,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461321": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451705": {
       "photo": "",
       "activityTexts": [],
@@ -3904,7 +3909,9 @@
     },
     "1452651": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
       "journalText": ""
     },
     "1462897": {
@@ -4177,11 +4184,6 @@
       "journalText": ""
     },
     "1462484": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461321": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
