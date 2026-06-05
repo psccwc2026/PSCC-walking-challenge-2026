@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T12:20:46.241147+00:00",
+  "lastUpdated": "2026-06-05T12:25:39.733825+00:00",
   "teams": [
     {
       "id": 132544,
@@ -3343,7 +3343,10 @@
             },
             "2026-06-04": {
               "steps": 20374,
-              "activities": 0
+              "activities": 21120,
+              "activityTexts": [
+                "60 minutes of Plyometrics"
+              ]
             }
           },
           "memberId": 1456301
@@ -4197,7 +4200,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 345239,
+      "tally": 347879,
       "outOf": 199
     },
     "132626": {
