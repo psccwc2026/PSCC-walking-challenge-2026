@@ -1467,6 +1467,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452459": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1457759": {
       "photo": "",
       "activityTexts": [],
@@ -1547,11 +1552,6 @@
       "journalText": ""
     },
     "1452540": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452459": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4178,6 +4178,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457217": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Elliptical trainer"
+      ],
+      "journalText": ""
+    },
     "1452973": {
       "photo": "",
       "activityTexts": [
@@ -5255,13 +5262,6 @@
       "photo": "",
       "activityTexts": [
         "50 minutes of Pilates"
-      ],
-      "journalText": ""
-    },
-    "1457217": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Elliptical trainer"
       ],
       "journalText": ""
     },
