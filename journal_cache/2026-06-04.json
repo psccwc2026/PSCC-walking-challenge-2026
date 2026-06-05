@@ -134,7 +134,9 @@
     },
     "1456301": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Plyometrics"
+      ],
       "journalText": ""
     },
     "1451744": {
@@ -1154,6 +1156,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452065": {
+      "photo": "",
+      "activityTexts": [
+        "43 minutes of Running, average"
+      ],
+      "journalText": ""
+    },
     "1460584": {
       "photo": "",
       "activityTexts": [],
@@ -1282,13 +1291,6 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Kettlebell/Ropes/Steel Mace"
-      ],
-      "journalText": ""
-    },
-    "1452065": {
-      "photo": "",
-      "activityTexts": [
-        "43 minutes of Running, average"
       ],
       "journalText": ""
     },
@@ -3293,6 +3295,11 @@
       "journalText": ""
     },
     "1463112": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1458885": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
