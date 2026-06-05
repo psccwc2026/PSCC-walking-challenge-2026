@@ -3437,6 +3437,13 @@
       ],
       "journalText": ""
     },
+    "1462452": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Zumba (tm)"
+      ],
+      "journalText": ""
+    },
     "1457143": {
       "photo": "",
       "activityTexts": [
@@ -3464,13 +3471,6 @@
       "photo": "",
       "activityTexts": [
         "55 minutes of Bicycling (moderate, 12-14mph/20-22k"
-      ],
-      "journalText": ""
-    },
-    "1462452": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Zumba (tm)"
       ],
       "journalText": ""
     },
@@ -4123,7 +4123,9 @@
     },
     "1452398": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Strength"
+      ],
       "journalText": ""
     },
     "1461413": {
@@ -4666,6 +4668,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460701": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452855": {
       "photo": "",
       "activityTexts": [],
@@ -5055,11 +5062,6 @@
       "journalText": ""
     },
     "1462145": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460701": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
