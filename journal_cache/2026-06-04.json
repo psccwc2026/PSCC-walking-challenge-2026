@@ -2111,6 +2111,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452776": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451714": {
       "photo": "",
       "activityTexts": [],
@@ -3911,11 +3916,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452776": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1459392": {
       "photo": "",
       "activityTexts": [],
@@ -5037,6 +5037,13 @@
       "photo": "",
       "activityTexts": [
         "35 minutes of Stair climbing, machine"
+      ],
+      "journalText": ""
+    },
+    "1452528": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Weight lifting"
       ],
       "journalText": ""
     },
