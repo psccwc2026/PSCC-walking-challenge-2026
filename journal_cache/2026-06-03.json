@@ -972,7 +972,9 @@
     },
     "1460529": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Body Weight Exercises (Squats, etc) "
+      ],
       "journalText": ""
     },
     "1459812": {
@@ -2704,6 +2706,13 @@
       ],
       "journalText": ""
     },
+    "1452024": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Spinning (bike)"
+      ],
+      "journalText": ""
+    },
     "1460637": {
       "photo": "",
       "activityTexts": [],
@@ -4386,13 +4395,6 @@
     "1460492": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452024": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Spinning (bike)"
-      ],
       "journalText": ""
     },
     "1461350": {
