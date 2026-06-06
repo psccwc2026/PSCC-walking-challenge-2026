@@ -548,6 +548,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460592": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452723": {
       "photo": "",
       "activityTexts": [],
@@ -979,11 +984,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460592": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1458286": {
       "photo": "",
       "activityTexts": [],
@@ -1060,6 +1060,11 @@
       "journalText": ""
     },
     "1461738": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460656": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1145,6 +1150,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462185": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452144": {
       "photo": "",
       "activityTexts": [
@@ -1154,11 +1164,6 @@
       "journalText": ""
     },
     "1460569": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462185": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1671,11 +1676,6 @@
       "journalText": ""
     },
     "1458969": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460656": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3202,12 +3202,15 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459688": {
+    "1459392": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "55 minutes of Cross Training",
+        "12 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
       "journalText": ""
     },
-    "1459392": {
+    "1459688": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
