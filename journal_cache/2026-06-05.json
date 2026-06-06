@@ -551,6 +551,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452024": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Barre"
+      ],
+      "journalText": ""
+    },
     "1456842": {
       "photo": "",
       "activityTexts": [],
@@ -1179,6 +1186,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459108": {
+      "photo": "",
+      "activityTexts": [
+        "66 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1460465": {
       "photo": "",
       "activityTexts": [],
@@ -1693,13 +1707,6 @@
     "1461936": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1459108": {
-      "photo": "",
-      "activityTexts": [
-        "66 minutes of Weight lifting"
-      ],
       "journalText": ""
     },
     "1463044": {
@@ -2613,7 +2620,9 @@
     },
     "1460478": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Zumba (tm)"
+      ],
       "journalText": ""
     },
     "1460316": {
@@ -3767,12 +3776,15 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459369": {
+    "1452216": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "20 minutes of Rowing Machine",
+        "20 minutes of Body Weight Exercises (Squats, etc) "
+      ],
       "journalText": ""
     },
-    "1452216": {
+    "1459369": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
