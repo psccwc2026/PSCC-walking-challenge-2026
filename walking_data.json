@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T17:55:29.337981+00:00",
+  "lastUpdated": "2026-06-06T18:02:36.197205+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1248,6 +1248,10 @@
                 "15 minutes of Circuit training",
                 "25 minutes of Squash"
               ]
+            },
+            "2026-06-06": {
+              "steps": 35,
+              "activities": 0
             }
           },
           "memberId": 1460532
@@ -2136,7 +2140,7 @@
               "activities": 0
             },
             "2026-06-06": {
-              "steps": 3214,
+              "steps": 3230,
               "activities": 0
             }
           },
@@ -4320,7 +4324,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 438786,
+      "tally": 438790,
       "outOf": 199
     },
     "132609": {
@@ -4330,7 +4334,7 @@
     },
     "132626": {
       "position": 74,
-      "tally": 153164,
+      "tally": 153166,
       "outOf": 199
     },
     "132610": {
