@@ -1022,6 +1022,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452568": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460906": {
       "photo": "",
       "activityTexts": [],
@@ -1035,11 +1040,6 @@
       "journalText": ""
     },
     "1459312": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452568": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1461,6 +1461,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462888": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
+      "journalText": ""
+    },
     "1461392": {
       "photo": "",
       "activityTexts": [
@@ -1529,13 +1536,6 @@
       "photo": "",
       "activityTexts": [
         "30 minutes of HIIT (High intensity interval traini"
-      ],
-      "journalText": ""
-    },
-    "1462888": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Bicycling (leisurely, < 12mph/20kph)"
       ],
       "journalText": ""
     },
@@ -2044,6 +2044,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453049": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1458313": {
       "photo": "",
       "activityTexts": [],
@@ -2239,11 +2244,6 @@
         "20 minutes of Strength",
         "50 minutes of Pilates"
       ],
-      "journalText": ""
-    },
-    "1453049": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460107": {
@@ -2516,6 +2516,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462317": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of HIIT (High intensity interval traini",
+        "30 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
+      "journalText": ""
+    },
     "1452107": {
       "photo": "",
       "activityTexts": [],
@@ -2574,14 +2582,6 @@
     "1451747": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462317": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of HIIT (High intensity interval traini",
-        "30 minutes of Bicycling (moderate, 12-14mph/20-22k"
-      ],
       "journalText": ""
     },
     "1461951": {
@@ -3043,17 +3043,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461964": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459840": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1460330": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461964": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
