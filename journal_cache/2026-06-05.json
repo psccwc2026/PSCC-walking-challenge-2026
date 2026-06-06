@@ -1775,6 +1775,13 @@
       ],
       "journalText": ""
     },
+    "1452695": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Aerobics"
+      ],
+      "journalText": ""
+    },
     "1453203": {
       "photo": "",
       "activityTexts": [],
@@ -1793,13 +1800,6 @@
     "1456798": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452695": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Aerobics"
-      ],
       "journalText": ""
     },
     "1462530": {
@@ -2074,6 +2074,13 @@
       "activityTexts": [
         "20 minutes of Strength",
         "50 minutes of Pilates"
+      ],
+      "journalText": ""
+    },
+    "936457": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Strength"
       ],
       "journalText": ""
     },
@@ -2385,13 +2392,6 @@
     "1460523": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "936457": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Strength"
-      ],
       "journalText": ""
     },
     "1459603": {
@@ -3054,6 +3054,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458325": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460623": {
       "photo": "",
       "activityTexts": [],
@@ -3105,11 +3110,6 @@
       "journalText": ""
     },
     "1451725": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458325": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
