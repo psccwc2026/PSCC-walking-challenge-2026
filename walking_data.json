@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T06:20:42.134910+00:00",
+  "lastUpdated": "2026-06-06T06:25:33.788068+00:00",
   "teams": [
     {
       "id": 132544,
@@ -577,8 +577,11 @@
               ]
             },
             "2026-06-05": {
-              "steps": 22963,
-              "activities": 0
+              "steps": 23001,
+              "activities": 22860,
+              "activityTexts": [
+                "90 minutes of Racquetball, competitive"
+              ]
             }
           },
           "memberId": 1456064
@@ -724,7 +727,7 @@
               "activities": 11350
             },
             "2026-06-05": {
-              "steps": 2638,
+              "steps": 3401,
               "activities": 12850
             }
           },
@@ -4262,7 +4265,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 435859,
+      "tally": 438419,
       "outOf": 199
     },
     "132609": {
