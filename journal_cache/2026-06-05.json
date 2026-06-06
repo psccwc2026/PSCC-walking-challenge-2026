@@ -1676,7 +1676,9 @@
     },
     "1456841": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "20 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
       "journalText": ""
     },
     "1462386": {
@@ -3783,6 +3785,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463077": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463021": {
       "photo": "",
       "activityTexts": [],
@@ -3841,11 +3848,6 @@
       "journalText": ""
     },
     "1452077": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1463077": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
