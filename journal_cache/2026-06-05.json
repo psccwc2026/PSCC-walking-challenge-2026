@@ -1397,6 +1397,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453439": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Bicycling (leisurely, < 12mph/20kph)",
+        "30 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
     "1452796": {
       "photo": "",
       "activityTexts": [],
@@ -1412,14 +1420,6 @@
     "1462078": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1453439": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Bicycling (leisurely, < 12mph/20kph)",
-        "30 minutes of Body Weight Exercises (Squats, etc) "
-      ],
       "journalText": ""
     },
     "1463107": {
@@ -3110,6 +3110,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462271": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460078": {
       "photo": "",
       "activityTexts": [
@@ -3158,11 +3163,6 @@
       "journalText": ""
     },
     "1459941": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462271": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
