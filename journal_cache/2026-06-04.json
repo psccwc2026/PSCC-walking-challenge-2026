@@ -1363,6 +1363,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458789": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460712": {
       "photo": "",
       "activityTexts": [],
@@ -1690,11 +1695,6 @@
       "journalText": ""
     },
     "1460879": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458789": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3156,17 +3156,17 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1451450": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Bicycling (moderate, 12-14mph/20-22k"
-      ],
-      "journalText": ""
-    },
     "1457742": {
       "photo": "",
       "activityTexts": [
         "20 minutes of Circuit training"
+      ],
+      "journalText": ""
+    },
+    "1451450": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Bicycling (moderate, 12-14mph/20-22k"
       ],
       "journalText": ""
     },
@@ -3533,6 +3533,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462331": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1458582": {
       "photo": "",
       "activityTexts": [],
@@ -3764,7 +3769,9 @@
     },
     "1457629": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "240 minutes of Swimming, leisure"
+      ],
       "journalText": ""
     },
     "1459412": {
