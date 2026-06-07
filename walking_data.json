@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T13:45:26.228650+00:00",
+  "lastUpdated": "2026-06-07T13:50:40.638089+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2025,7 +2025,7 @@
               "activities": 0
             },
             "2026-06-07": {
-              "steps": 557,
+              "steps": 565,
               "activities": 0
             }
           },
@@ -2176,7 +2176,7 @@
               "activities": 0
             },
             "2026-06-07": {
-              "steps": 577,
+              "steps": 1398,
               "activities": 2180,
               "activityTexts": [
                 "20 minutes of Dancing"
@@ -4389,7 +4389,7 @@
     },
     "132626": {
       "position": 74,
-      "tally": 158207,
+      "tally": 158326,
       "outOf": 199
     },
     "132610": {
