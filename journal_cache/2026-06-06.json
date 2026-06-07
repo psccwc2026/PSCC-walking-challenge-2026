@@ -1067,7 +1067,9 @@
     },
     "1452739": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "32 minutes of Swimming hard"
+      ],
       "journalText": ""
     },
     "1460087": {
@@ -1808,6 +1810,13 @@
       ],
       "journalText": ""
     },
+    "1452209": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Cross Training"
+      ],
+      "journalText": ""
+    },
     "1459944": {
       "photo": "",
       "activityTexts": [],
@@ -1821,13 +1830,6 @@
     "1459429": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452209": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Cross Training"
-      ],
       "journalText": ""
     },
     "1459680": {
@@ -4389,6 +4391,11 @@
       "journalText": ""
     },
     "1458398": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1452053": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
