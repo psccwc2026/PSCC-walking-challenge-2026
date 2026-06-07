@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T06:55:27.263071+00:00",
+  "lastUpdated": "2026-06-07T07:00:47.786920+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1671,6 +1671,10 @@
             "2026-06-06": {
               "steps": 21607,
               "activities": 0
+            },
+            "2026-06-07": {
+              "steps": 1463,
+              "activities": 0
             }
           },
           "memberId": 1456296
@@ -2015,6 +2019,10 @@
             "2026-06-06": {
               "steps": 4776,
               "activities": 0
+            },
+            "2026-06-07": {
+              "steps": 191,
+              "activities": 0
             }
           },
           "memberId": 1456289
@@ -2162,6 +2170,13 @@
             "2026-06-06": {
               "steps": 3230,
               "activities": 0
+            },
+            "2026-06-07": {
+              "steps": 0,
+              "activities": 2180,
+              "activityTexts": [
+                "20 minutes of Dancing"
+              ]
             }
           },
           "memberId": 1456435
