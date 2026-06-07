@@ -1898,6 +1898,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462888": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Rowing Machine",
+        "45 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1453298": {
       "photo": "",
       "activityTexts": [],
@@ -1911,14 +1919,6 @@
     "1460742": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462888": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Rowing Machine",
-        "45 minutes of Weight lifting"
-      ],
       "journalText": ""
     },
     "1456089": {
@@ -3357,16 +3357,16 @@
       ],
       "journalText": ""
     },
-    "1460478": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1453271": {
       "photo": "",
       "activityTexts": [
         "30 minutes of HIIT (High intensity interval traini"
       ],
+      "journalText": ""
+    },
+    "1460478": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1458603": {
