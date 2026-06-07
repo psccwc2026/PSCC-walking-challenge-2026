@@ -663,7 +663,8 @@
     "1452172": {
       "photo": "",
       "activityTexts": [
-        "10 minutes of Sit-ups / Push-ups / Crunches"
+        "10 minutes of Sit-ups / Push-ups / Crunches",
+        "35 minutes of Rowing Machine"
       ],
       "journalText": ""
     },
@@ -1259,6 +1260,11 @@
       "activityTexts": [
         "40 minutes of Circuit training"
       ],
+      "journalText": ""
+    },
+    "1459591": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1453366": {
@@ -4275,11 +4281,6 @@
       "journalText": ""
     },
     "1461909": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459591": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
