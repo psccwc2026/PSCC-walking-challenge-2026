@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T23:45:29.820031+00:00",
+  "lastUpdated": "2026-06-07T23:50:32.595556+00:00",
   "teams": [
     {
       "id": 132544,
@@ -363,7 +363,10 @@
             },
             "2026-06-07": {
               "steps": 9397,
-              "activities": 0
+              "activities": 9600,
+              "activityTexts": [
+                "120 minutes of Strength"
+              ]
             },
             "2026-06-06": {
               "steps": 7048,
