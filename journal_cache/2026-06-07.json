@@ -1257,6 +1257,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456448": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+      ],
+      "journalText": ""
+    },
     "1461893": {
       "photo": "",
       "activityTexts": [],
@@ -1288,6 +1295,11 @@
       "journalText": ""
     },
     "1459486": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1452927": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1478,6 +1490,13 @@
       ],
       "journalText": ""
     },
+    "1462151": {
+      "photo": "",
+      "activityTexts": [
+        "25 minutes of Jumping Rope, fast"
+      ],
+      "journalText": ""
+    },
     "1452753": {
       "photo": "",
       "activityTexts": [],
@@ -1522,6 +1541,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458305": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Circuit training"
+      ],
+      "journalText": ""
+    },
     "1451627": {
       "photo": "",
       "activityTexts": [],
@@ -1547,23 +1573,9 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1456448": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-      ],
-      "journalText": ""
-    },
     "1462536": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462151": {
-      "photo": "",
-      "activityTexts": [
-        "25 minutes of Jumping Rope, fast"
-      ],
       "journalText": ""
     },
     "1460087": {
@@ -1601,13 +1613,6 @@
     "1460922": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1458305": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Circuit training"
-      ],
       "journalText": ""
     },
     "1461932": {
@@ -2020,11 +2025,6 @@
       "journalText": ""
     },
     "1460835": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452927": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2772,6 +2772,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459980": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451445": {
       "photo": "",
       "activityTexts": [],
@@ -2825,11 +2830,6 @@
       "journalText": ""
     },
     "1462947": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459980": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3580,6 +3580,11 @@
       ],
       "journalText": ""
     },
+    "1464760": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459934": {
       "photo": "",
       "activityTexts": [],
@@ -3687,11 +3692,6 @@
       "journalText": ""
     },
     "1460695": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1464760": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4652,6 +4652,13 @@
       "activityTexts": [
         "90 minutes of Baseball",
         "30 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
+      "journalText": ""
+    },
+    "1459516": {
+      "photo": "",
+      "activityTexts": [
+        "140 minutes of Golf, Walking"
       ],
       "journalText": ""
     },
