@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T14:25:41.028618+00:00",
+  "lastUpdated": "2026-06-08T14:30:38.798265+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1339,6 +1339,10 @@
               "activityTexts": [
                 "45 minutes of Squash"
               ]
+            },
+            "2026-06-08": {
+              "steps": 76,
+              "activities": 0
             }
           },
           "memberId": 1460532
@@ -3598,11 +3602,27 @@
               ]
             },
             "2026-06-04": {
-              "steps": 20374,
+              "steps": 20611,
               "activities": 21120,
               "activityTexts": [
                 "60 minutes of Plyometrics"
               ]
+            },
+            "2026-06-08": {
+              "steps": 4,
+              "activities": 0
+            },
+            "2026-06-07": {
+              "steps": 26484,
+              "activities": 0
+            },
+            "2026-06-06": {
+              "steps": 14461,
+              "activities": 0
+            },
+            "2026-06-05": {
+              "steps": 13477,
+              "activities": 6000
             }
           },
           "memberId": 1456301
@@ -4513,8 +4533,8 @@
       "outOf": 199
     },
     "132609": {
-      "position": 6,
-      "tally": 369177,
+      "position": 5,
+      "tally": 376759,
       "outOf": 199
     },
     "132626": {
