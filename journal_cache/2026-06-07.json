@@ -1470,6 +1470,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460623": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452578": {
       "photo": "",
       "activityTexts": [],
@@ -3181,11 +3186,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460623": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462122": {
       "photo": "",
       "activityTexts": [
@@ -3962,7 +3962,9 @@
     },
     "1461816": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "45 minutes of Cross Training"
+      ],
       "journalText": ""
     },
     "1461769": {
@@ -4198,6 +4200,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459600": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Walking, brisk"
+      ],
+      "journalText": ""
+    },
     "1460593": {
       "photo": "",
       "activityTexts": [],
@@ -4294,13 +4303,6 @@
     "1461916": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1459600": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Walking, brisk"
-      ],
       "journalText": ""
     },
     "1458368": {
