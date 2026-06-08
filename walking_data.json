@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T21:30:42.719392+00:00",
+  "lastUpdated": "2026-06-08T21:35:34.303861+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2913,11 +2913,15 @@
             },
             "2026-06-08": {
               "steps": 0,
-              "activities": 0
+              "activities": 6000,
+              "activityTexts": [
+                "30 minutes of Body Weight Exercises (Squats, etc) ",
+                "60 minutes of Weight lifting"
+              ]
             },
             "2026-06-07": {
               "steps": 0,
-              "activities": 0,
+              "activities": 6300,
               "activityTexts": [
                 "60 minutes of Walking, brisk"
               ]
@@ -4598,8 +4602,8 @@
       "outOf": 199
     },
     "132610": {
-      "position": 163,
-      "tally": 105390,
+      "position": 162,
+      "tally": 106247,
       "outOf": 199
     }
   },
