@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T21:25:50.592597+00:00",
+  "lastUpdated": "2026-06-08T21:30:42.719392+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2910,6 +2910,21 @@
             "2026-06-05": {
               "steps": 0,
               "activities": 0
+            },
+            "2026-06-08": {
+              "steps": 0,
+              "activities": 0
+            },
+            "2026-06-07": {
+              "steps": 0,
+              "activities": 0,
+              "activityTexts": [
+                "60 minutes of Walking, brisk"
+              ]
+            },
+            "2026-06-06": {
+              "steps": 0,
+              "activities": 0
             }
           },
           "memberId": 1456173
@@ -4583,8 +4598,8 @@
       "outOf": 199
     },
     "132610": {
-      "position": 164,
-      "tally": 104490,
+      "position": 163,
+      "tally": 105390,
       "outOf": 199
     }
   },
