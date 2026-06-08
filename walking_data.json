@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T03:35:31.349575+00:00",
+  "lastUpdated": "2026-06-08T03:40:49.436391+00:00",
   "teams": [
     {
       "id": 132544,
@@ -592,10 +592,25 @@
               ]
             },
             "2026-06-05": {
-              "steps": 23001,
+              "steps": 23166,
               "activities": 22860,
               "activityTexts": [
                 "90 minutes of Racquetball, competitive"
+              ]
+            },
+            "2026-06-07": {
+              "steps": 14607,
+              "activities": 24640,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/06/08/0_lKUf6ie2Ez_large.jpg",
+              "activityTexts": [
+                "112 minutes of Swimming hard"
+              ]
+            },
+            "2026-06-06": {
+              "steps": 20236,
+              "activities": 13650,
+              "activityTexts": [
+                "150 minutes of Volleyball"
               ]
             }
           },
@@ -4441,7 +4456,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 463926,
+      "tally": 468181,
       "outOf": 199
     },
     "132609": {
