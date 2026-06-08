@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T05:00:36.088366+00:00",
+  "lastUpdated": "2026-06-08T05:05:46.960059+00:00",
   "teams": [
     {
       "id": 132544,
@@ -765,7 +765,7 @@
               "activities": 11900
             },
             "2026-06-07": {
-              "steps": 6624,
+              "steps": 6663,
               "activities": 8500
             }
           },
@@ -930,11 +930,15 @@
             },
             "2026-06-06": {
               "steps": 4254,
-              "activities": 0
+              "activities": 6900
             },
             "2026-06-07": {
               "steps": 4368,
-              "activities": 0
+              "activities": 6900,
+              "activityTexts": [
+                "30 minutes of Bicycling (leisurely, < 12mph/20kph)",
+                "30 minutes of Body Weight Exercises (Squats, etc) "
+              ]
             }
           },
           "memberId": 1453439
@@ -4456,7 +4460,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 468738,
+      "tally": 470277,
       "outOf": 199
     },
     "132609": {
