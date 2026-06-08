@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T16:05:48.435163+00:00",
+  "lastUpdated": "2026-06-08T16:10:43.765121+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2116,7 +2116,7 @@
               "activities": 0
             },
             "2026-06-08": {
-              "steps": 2581,
+              "steps": 2655,
               "activities": 9799,
               "activityTexts": [
                 "41 minutes of HIIT (High intensity interval traini"
@@ -3614,7 +3614,7 @@
             },
             "2026-06-08": {
               "steps": 4,
-              "activities": 10560,
+              "activities": 0,
               "activityTexts": [
                 "30 minutes of Plyometrics"
               ]
@@ -3988,7 +3988,7 @@
               "activities": 0
             },
             "2026-06-08": {
-              "steps": 666,
+              "steps": 702,
               "activities": 0
             },
             "2026-06-07": {
@@ -4556,12 +4556,12 @@
     },
     "132609": {
       "position": 4,
-      "tally": 384660,
+      "tally": 384664,
       "outOf": 199
     },
     "132626": {
       "position": 83,
-      "tally": 163912,
+      "tally": 163923,
       "outOf": 199
     },
     "132610": {
