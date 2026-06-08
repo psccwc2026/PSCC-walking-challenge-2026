@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T06:10:43.935615+00:00",
+  "lastUpdated": "2026-06-08T06:15:46.880521+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1306,13 +1306,17 @@
               ]
             },
             "2026-06-06": {
-              "steps": 16721,
+              "steps": 16780,
               "activities": 17900,
               "activityTexts": [
                 "20 minutes of Bicycling (leisurely, < 12mph/20kph)",
                 "20 minutes of Circuit training",
                 "40 minutes of Squash"
               ]
+            },
+            "2026-06-07": {
+              "steps": 22266,
+              "activities": 0
             }
           },
           "memberId": 1460532
@@ -4460,7 +4464,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 470283,
+      "tally": 472764,
       "outOf": 199
     },
     "132609": {
