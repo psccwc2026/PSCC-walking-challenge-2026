@@ -212,6 +212,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463007": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460650": {
       "photo": "",
       "activityTexts": [],
@@ -254,7 +259,9 @@
     },
     "1452317": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "120 minutes of Strength"
+      ],
       "journalText": ""
     },
     "1460491": {
@@ -473,6 +480,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453604": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462943": {
       "photo": "",
       "activityTexts": [],
@@ -561,11 +573,6 @@
       "journalText": ""
     },
     "1452475": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453604": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1253,6 +1260,11 @@
       "activityTexts": [
         "30 minutes of Barre"
       ],
+      "journalText": ""
+    },
+    "1460823": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1462833": {
@@ -3025,7 +3037,11 @@
     },
     "1452746": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Running, 10 min. mile/6:12 kilometer",
+        "20 minutes of Body Weight Exercises (Squats, etc) ",
+        "60 minutes of Swimming hard"
+      ],
       "journalText": ""
     },
     "1459660": {
@@ -3462,11 +3478,6 @@
         "30 minutes of Elliptical trainer",
         "30 minutes of Weight lifting"
       ],
-      "journalText": ""
-    },
-    "1460823": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460787": {
