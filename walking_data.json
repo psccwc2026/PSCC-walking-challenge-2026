@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T06:55:28.601632+00:00",
+  "lastUpdated": "2026-06-08T07:00:36.814060+00:00",
   "teams": [
     {
       "id": 132544,
@@ -939,6 +939,10 @@
                 "30 minutes of Bicycling (leisurely, < 12mph/20kph)",
                 "30 minutes of Body Weight Exercises (Squats, etc) "
               ]
+            },
+            "2026-06-08": {
+              "steps": 45,
+              "activities": 0
             }
           },
           "memberId": 1453439
@@ -2241,6 +2245,10 @@
               "activityTexts": [
                 "20 minutes of Dancing"
               ]
+            },
+            "2026-06-08": {
+              "steps": 19,
+              "activities": 0
             }
           },
           "memberId": 1456435
