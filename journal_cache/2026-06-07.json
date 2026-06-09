@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "sealed": false,
+  "sealed": true,
   "members": {
     "1459955": {
       "photo": "",
@@ -4286,6 +4286,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462321": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459468": {
       "photo": "",
       "activityTexts": [],
@@ -4947,11 +4952,6 @@
       "journalText": ""
     },
     "1460908": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462321": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
