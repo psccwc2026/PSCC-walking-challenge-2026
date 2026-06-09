@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T19:05:55.161342+00:00",
+  "lastUpdated": "2026-06-09T19:10:42.614955+00:00",
   "teams": [
     {
       "id": 132544,
@@ -3525,11 +3525,17 @@
             },
             "2026-06-08": {
               "steps": 1125,
-              "activities": 0
+              "activities": 8700,
+              "activityTexts": [
+                "30 minutes of Kickboxing"
+              ]
             },
             "2026-06-09": {
               "steps": 191,
-              "activities": 0
+              "activities": 10150,
+              "activityTexts": [
+                "35 minutes of Kickboxing"
+              ]
             }
           },
           "memberId": 1456303
@@ -4689,7 +4695,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 399836,
+      "tally": 402192,
       "outOf": 199
     },
     "132626": {
