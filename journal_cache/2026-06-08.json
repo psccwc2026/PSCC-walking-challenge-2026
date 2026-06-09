@@ -778,7 +778,9 @@
     },
     "1460078": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Rowing Machine"
+      ],
       "journalText": ""
     },
     "1451386": {
@@ -1556,6 +1558,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452425": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452435": {
       "photo": "",
       "activityTexts": [],
@@ -2294,16 +2301,16 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460524": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462452": {
       "photo": "",
       "activityTexts": [
         "60 minutes of Zumba (tm)"
       ],
+      "journalText": ""
+    },
+    "1460524": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1453011": {
@@ -2819,6 +2826,13 @@
       ],
       "journalText": ""
     },
+    "1463123": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Pilates"
+      ],
+      "journalText": ""
+    },
     "1457629": {
       "photo": "",
       "activityTexts": [],
@@ -2833,13 +2847,6 @@
       "photo": "",
       "activityTexts": [
         "53 minutes of Swimming hard"
-      ],
-      "journalText": ""
-    },
-    "1463123": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Pilates"
       ],
       "journalText": ""
     },
@@ -3095,6 +3102,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452569": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463119": {
       "photo": "",
       "activityTexts": [],
@@ -3341,6 +3353,13 @@
       ],
       "journalText": ""
     },
+    "1452923": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1457082": {
       "photo": "",
       "activityTexts": [
@@ -3390,13 +3409,6 @@
       "photo": "",
       "activityTexts": [
         "30 minutes of Pilates"
-      ],
-      "journalText": ""
-    },
-    "1452923": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Weight lifting"
       ],
       "journalText": ""
     },
@@ -3682,6 +3694,13 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Circuit training"
+      ],
+      "journalText": ""
+    },
+    "1460568": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of HIIT (High intensity interval traini"
       ],
       "journalText": ""
     },
