@@ -329,6 +329,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452191": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459108": {
       "photo": "",
       "activityTexts": [],
@@ -340,11 +345,6 @@
       "journalText": ""
     },
     "1460626": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452191": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4122,7 +4122,9 @@
     },
     "1462512": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "75 minutes of Body Weight Exercises (Squats, etc) "
+      ],
       "journalText": ""
     },
     "1462953": {
