@@ -734,6 +734,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462999": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460115": {
       "photo": "",
       "activityTexts": [],
@@ -784,11 +789,6 @@
       ],
       "journalText": ""
     },
-    "1462999": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1452044": {
       "photo": "",
       "activityTexts": [],
@@ -833,6 +833,11 @@
       "journalText": ""
     },
     "1460188": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1453654": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -913,11 +918,6 @@
       "journalText": ""
     },
     "1460861": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453654": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2735,12 +2735,12 @@
       ],
       "journalText": ""
     },
-    "1460316": {
+    "1456448": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1456448": {
+    "1460316": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3615,6 +3615,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456853": {
+      "photo": "",
+      "activityTexts": [
+        "40 minutes of HIIT (High intensity interval traini"
+      ],
+      "journalText": ""
+    },
     "1459415": {
       "photo": "",
       "activityTexts": [],
@@ -3845,6 +3852,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460520": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460222": {
       "photo": "",
       "activityTexts": [],
@@ -3866,11 +3878,6 @@
       "journalText": ""
     },
     "1456451": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460520": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3951,6 +3958,14 @@
     "1459441": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1451661": {
+      "photo": "",
+      "activityTexts": [
+        "35 minutes of Strength",
+        "60 minutes of Running, average"
+      ],
       "journalText": ""
     },
     "1453250": {
@@ -4242,13 +4257,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1456853": {
-      "photo": "",
-      "activityTexts": [
-        "40 minutes of HIIT (High intensity interval traini"
-      ],
-      "journalText": ""
-    },
     "1461956": {
       "photo": "",
       "activityTexts": [],
@@ -4456,7 +4464,9 @@
     },
     "1459706": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1460140": {
@@ -4695,12 +4705,12 @@
       ],
       "journalText": ""
     },
-    "1459461": {
+    "1453633": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1453633": {
+    "1459461": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4721,6 +4731,11 @@
       "journalText": ""
     },
     "1460448": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1457997": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4783,11 +4798,6 @@
         "20 minutes of Tabata",
         "15 minutes of Aerobics"
       ],
-      "journalText": ""
-    },
-    "1457997": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1453382": {
@@ -4975,14 +4985,6 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of CrossFit fast (tm)"
-      ],
-      "journalText": ""
-    },
-    "1451661": {
-      "photo": "",
-      "activityTexts": [
-        "35 minutes of Strength",
-        "60 minutes of Running, average"
       ],
       "journalText": ""
     },
