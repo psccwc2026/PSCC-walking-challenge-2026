@@ -269,6 +269,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456711": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1453354": {
       "photo": "",
       "activityTexts": [],
@@ -279,13 +286,6 @@
       "activityTexts": [
         "120 minutes of Strength",
         "40 minutes of Stair climbing, machine"
-      ],
-      "journalText": ""
-    },
-    "1456711": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Weight lifting"
       ],
       "journalText": ""
     },
@@ -2725,7 +2725,9 @@
       "photo": "",
       "activityTexts": [
         "50 minutes of Body Weight Exercises (Squats, etc) ",
-        "60 minutes of Walking, brisk"
+        "60 minutes of Walking, brisk",
+        "65 minutes of Weight lifting",
+        "10 minutes of Cross Training"
       ],
       "journalText": ""
     },
