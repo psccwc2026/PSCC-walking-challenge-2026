@@ -306,6 +306,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459812": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1457385": {
       "photo": "",
       "activityTexts": [],
@@ -327,11 +332,6 @@
       "journalText": ""
     },
     "1461281": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459812": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3723,6 +3723,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458913": {
+      "photo": "",
+      "activityTexts": [
+        "17 minutes of Spinning (bike)",
+        "22 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1460310": {
       "photo": "",
       "activityTexts": [
@@ -4829,7 +4837,9 @@
     },
     "1456303": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Kickboxing"
+      ],
       "journalText": ""
     },
     "1452195": {
@@ -5414,14 +5424,6 @@
       "photo": "",
       "activityTexts": [
         "60 minutes of Pilates"
-      ],
-      "journalText": ""
-    },
-    "1458913": {
-      "photo": "",
-      "activityTexts": [
-        "17 minutes of Spinning (bike)",
-        "22 minutes of Strength"
       ],
       "journalText": ""
     },
