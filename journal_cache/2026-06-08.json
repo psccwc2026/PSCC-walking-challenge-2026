@@ -1137,6 +1137,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458403": {
+      "photo": "",
+      "activityTexts": [
+        "57 minutes of HIIT (High intensity interval traini"
+      ],
+      "journalText": ""
+    },
     "1461738": {
       "photo": "",
       "activityTexts": [],
@@ -1145,13 +1152,6 @@
     "1452354": {
       "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/06/08/0_Huz0SvRByp_large.jpg",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1458403": {
-      "photo": "",
-      "activityTexts": [
-        "57 minutes of HIIT (High intensity interval traini"
-      ],
       "journalText": ""
     },
     "1462309": {
@@ -2345,6 +2345,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463114": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452517": {
       "photo": "",
       "activityTexts": [],
@@ -2454,11 +2459,6 @@
       "journalText": ""
     },
     "1458385": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1463114": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2826,7 +2826,9 @@
     },
     "1458148": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "2 miles of Walking (miles of)"
+      ],
       "journalText": ""
     },
     "1463521": {
