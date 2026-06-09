@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T01:35:36.321496+00:00",
+  "lastUpdated": "2026-06-09T01:40:49.387846+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1128,7 +1128,10 @@
             },
             "2026-06-08": {
               "steps": 8719,
-              "activities": 0
+              "activities": 10200,
+              "activityTexts": [
+                "60 minutes of Bicycling (moderate, 12-14mph/20-22k"
+              ]
             }
           },
           "memberId": 1456310
@@ -3168,7 +3171,7 @@
               "activities": 0
             },
             "2026-06-08": {
-              "steps": 448,
+              "steps": 5166,
               "activities": 0
             }
           },
@@ -4596,7 +4599,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 489934,
+      "tally": 491067,
       "outOf": 199
     },
     "132609": {
@@ -4610,8 +4613,8 @@
       "outOf": 199
     },
     "132610": {
-      "position": 163,
-      "tally": 106247,
+      "position": 162,
+      "tally": 106921,
       "outOf": 199
     }
   },
