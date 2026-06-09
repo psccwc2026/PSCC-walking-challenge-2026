@@ -3195,6 +3195,15 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457943": {
+      "photo": "",
+      "activityTexts": [
+        "10 minutes of Bicycling (moderate, 12-14mph/20-22k",
+        "10 minutes of Stair climbing, up stairs",
+        "15 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
     "1459880": {
       "photo": "",
       "activityTexts": [],
@@ -3208,15 +3217,6 @@
     "1461347": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1457943": {
-      "photo": "",
-      "activityTexts": [
-        "10 minutes of Bicycling (moderate, 12-14mph/20-22k",
-        "10 minutes of Stair climbing, up stairs",
-        "15 minutes of Body Weight Exercises (Squats, etc) "
-      ],
       "journalText": ""
     },
     "1452661": {
@@ -4495,7 +4495,9 @@
     },
     "1462494": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Body Weight Exercises (Squats, etc) "
+      ],
       "journalText": ""
     },
     "1462388": {
