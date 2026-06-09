@@ -853,6 +853,15 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452032": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Yoga",
+        "60 minutes of Weight lifting",
+        "60 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
+      ],
+      "journalText": ""
+    },
     "1456827": {
       "photo": "",
       "activityTexts": [
@@ -886,15 +895,6 @@
     "1453502": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452032": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Yoga",
-        "60 minutes of Weight lifting",
-        "60 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-      ],
       "journalText": ""
     },
     "1460712": {
@@ -2070,6 +2070,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451542": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451607": {
       "photo": "",
       "activityTexts": [],
@@ -3021,11 +3026,6 @@
       "activityTexts": [
         "41 minutes of HIIT (High intensity interval traini"
       ],
-      "journalText": ""
-    },
-    "1451542": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1462266": {
@@ -4026,6 +4026,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452216": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Body Weight Exercises (Squats, etc) ",
+        "20 minutes of Rowing Machine"
+      ],
+      "journalText": ""
+    },
     "1451562": {
       "photo": "",
       "activityTexts": [
@@ -4036,14 +4044,6 @@
     "1452138": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452216": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Body Weight Exercises (Squats, etc) ",
-        "20 minutes of Rowing Machine"
-      ],
       "journalText": ""
     },
     "1457122": {
@@ -5193,11 +5193,6 @@
       "journalText": ""
     },
     "1456822": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460124": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
