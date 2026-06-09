@@ -3040,6 +3040,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452142": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460750": {
       "photo": "",
       "activityTexts": [],
@@ -3276,11 +3281,6 @@
       "journalText": ""
     },
     "1460461": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452142": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5350,6 +5350,13 @@
       "activityTexts": [
         "60 minutes of Walking, brisk",
         "45 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
+    "1462846": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Hiking"
       ],
       "journalText": ""
     },
