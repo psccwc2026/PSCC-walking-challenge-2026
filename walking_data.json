@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T03:40:34.862861+00:00",
+  "lastUpdated": "2026-06-09T03:45:31.856024+00:00",
   "teams": [
     {
       "id": 132544,
@@ -392,7 +392,7 @@
               "activities": 0
             },
             "2026-06-08": {
-              "steps": 11396,
+              "steps": 12172,
               "activities": 9600,
               "activityTexts": [
                 "120 minutes of Strength"
@@ -4615,7 +4615,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 492306,
+      "tally": 492393,
       "outOf": 199
     },
     "132609": {
