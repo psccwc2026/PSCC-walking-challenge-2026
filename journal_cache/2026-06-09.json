@@ -3370,7 +3370,9 @@
     },
     "1452785": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Strength"
+      ],
       "journalText": ""
     },
     "1458325": {
@@ -4743,6 +4745,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452077": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456435": {
       "photo": "",
       "activityTexts": [],
@@ -4842,11 +4849,6 @@
       "journalText": ""
     },
     "1456482": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452077": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
