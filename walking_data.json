@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T06:05:32.569787+00:00",
+  "lastUpdated": "2026-06-10T06:10:33.645754+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1173,10 +1173,11 @@
               ]
             },
             "2026-06-09": {
-              "steps": 9434,
-              "activities": 7800,
+              "steps": 9905,
+              "activities": 11800,
               "activityTexts": [
-                "60 minutes of Bicycling (leisurely, < 12mph/20kph)"
+                "60 minutes of Bicycling (leisurely, < 12mph/20kph)",
+                "20 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
               ]
             }
           },
@@ -3575,7 +3576,7 @@
               ]
             },
             "2026-06-09": {
-              "steps": 772,
+              "steps": 1159,
               "activities": 10150,
               "activityTexts": [
                 "35 minutes of Kickboxing"
@@ -4745,12 +4746,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 515808,
+      "tally": 516304,
       "outOf": 198
     },
     "132609": {
       "position": 4,
-      "tally": 415177,
+      "tally": 415226,
       "outOf": 198
     },
     "132626": {
