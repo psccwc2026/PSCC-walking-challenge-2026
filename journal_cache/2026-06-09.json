@@ -513,6 +513,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453061": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Kickboxing"
+      ],
+      "journalText": ""
+    },
     "1453659": {
       "photo": "",
       "activityTexts": [],
@@ -521,13 +528,6 @@
     "1451542": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1453061": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Kickboxing"
-      ],
       "journalText": ""
     },
     "1460535": {
@@ -1059,6 +1059,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456317": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459318": {
       "photo": "",
       "activityTexts": [
@@ -1068,11 +1073,6 @@
       "journalText": ""
     },
     "1462943": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1456317": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2032,6 +2032,15 @@
       ],
       "journalText": ""
     },
+    "1452464": {
+      "photo": "",
+      "activityTexts": [
+        "10 minutes of Jumping Rope, moderate",
+        "15 minutes of Weight lifting",
+        "30 minutes of Stretching"
+      ],
+      "journalText": ""
+    },
     "1462493": {
       "photo": "",
       "activityTexts": [],
@@ -2048,15 +2057,6 @@
     "1463328": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452464": {
-      "photo": "",
-      "activityTexts": [
-        "10 minutes of Jumping Rope, moderate",
-        "15 minutes of Weight lifting",
-        "30 minutes of Stretching"
-      ],
       "journalText": ""
     },
     "1453654": {
@@ -2223,6 +2223,14 @@
     "1452603": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1457648": {
+      "photo": "",
+      "activityTexts": [
+        "5 minutes of Body Weight Exercises (Squats, etc) ",
+        "15 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1459007": {
@@ -2418,14 +2426,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1457648": {
-      "photo": "",
-      "activityTexts": [
-        "5 minutes of Body Weight Exercises (Squats, etc) ",
-        "15 minutes of Weight lifting"
-      ],
-      "journalText": ""
-    },
     "1462024": {
       "photo": "",
       "activityTexts": [
@@ -2489,7 +2489,9 @@
     },
     "1452398": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Aerobics"
+      ],
       "journalText": ""
     },
     "1459671": {
