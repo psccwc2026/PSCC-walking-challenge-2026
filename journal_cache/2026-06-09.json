@@ -755,6 +755,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453604": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460840": {
       "photo": "",
       "activityTexts": [],
@@ -829,11 +834,6 @@
       "activityTexts": [
         "30 minutes of Body Weight Exercises (Squats, etc) "
       ],
-      "journalText": ""
-    },
-    "1453604": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1458394": {
@@ -1586,6 +1586,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460478": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462537": {
       "photo": "",
       "activityTexts": [],
@@ -1871,11 +1876,6 @@
       "journalText": ""
     },
     "1460732": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460478": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3209,6 +3209,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460476": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461920": {
       "photo": "",
       "activityTexts": [],
@@ -3351,11 +3356,6 @@
       "activityTexts": [
         "30 minutes of Pilates"
       ],
-      "journalText": ""
-    },
-    "1460476": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460434": {
@@ -4951,6 +4951,14 @@
       ],
       "journalText": ""
     },
+    "1460575": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Strength",
+        "60 minutes of Skating"
+      ],
+      "journalText": ""
+    },
     "1459048": {
       "photo": "",
       "activityTexts": [
@@ -4963,6 +4971,13 @@
       "photo": "",
       "activityTexts": [
         "50 minutes of Spinning (bike)"
+      ],
+      "journalText": ""
+    },
+    "1461743": {
+      "photo": "",
+      "activityTexts": [
+        "4 miles of Walking (miles of)"
       ],
       "journalText": ""
     },
