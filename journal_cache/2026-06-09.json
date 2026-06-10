@@ -2305,6 +2305,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460650": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451576": {
       "photo": "",
       "activityTexts": [],
@@ -2711,6 +2716,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462888": {
+      "photo": "",
+      "activityTexts": [
+        "10 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
+      "journalText": ""
+    },
     "1452765": {
       "photo": "",
       "activityTexts": [],
@@ -2753,13 +2765,6 @@
       "activityTexts": [
         "60 minutes of Gymnastics",
         "60 minutes of Judo & Karate"
-      ],
-      "journalText": ""
-    },
-    "1462888": {
-      "photo": "",
-      "activityTexts": [
-        "10 minutes of Bicycling (leisurely, < 12mph/20kph)"
       ],
       "journalText": ""
     },
@@ -4296,11 +4301,6 @@
       "journalText": ""
     },
     "1452452": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460650": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
