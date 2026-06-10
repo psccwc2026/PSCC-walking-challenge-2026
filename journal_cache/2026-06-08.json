@@ -502,16 +502,16 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460650": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1463243": {
       "photo": "",
       "activityTexts": [
         "35 minutes of Weight lifting"
       ],
+      "journalText": ""
+    },
+    "1460650": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1458956": {
@@ -1798,6 +1798,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456304": {
+      "photo": "",
+      "activityTexts": [
+        "76 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
+        "30 minutes of Plyometrics"
+      ],
+      "journalText": ""
+    },
     "1459792": {
       "photo": "",
       "activityTexts": [],
@@ -1850,14 +1858,6 @@
     "1452955": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1456304": {
-      "photo": "",
-      "activityTexts": [
-        "76 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
-        "30 minutes of Plyometrics"
-      ],
       "journalText": ""
     },
     "1456892": {
@@ -5315,6 +5315,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462486": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452077": {
       "photo": "",
       "activityTexts": [],
@@ -5335,11 +5340,6 @@
       "activityTexts": [
         "120 minutes of Soccer"
       ],
-      "journalText": ""
-    },
-    "1462486": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1456950": {
