@@ -1297,6 +1297,13 @@
       ],
       "journalText": ""
     },
+    "1452065": {
+      "photo": "",
+      "activityTexts": [
+        "38 minutes of Running, average"
+      ],
+      "journalText": ""
+    },
     "1456839": {
       "photo": "",
       "activityTexts": [],
@@ -1318,13 +1325,6 @@
       "photo": "",
       "activityTexts": [
         "30 minutes of Bicycling (vigorous, 14mph+ / 22kph+"
-      ],
-      "journalText": ""
-    },
-    "1452065": {
-      "photo": "",
-      "activityTexts": [
-        "38 minutes of Running, average"
       ],
       "journalText": ""
     },
@@ -1369,6 +1369,11 @@
       "journalText": ""
     },
     "1457943": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460313": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2650,11 +2655,6 @@
       ],
       "journalText": ""
     },
-    "1460313": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1456452": {
       "photo": "",
       "activityTexts": [],
@@ -3379,6 +3379,11 @@
       ],
       "journalText": ""
     },
+    "1461769": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461715": {
       "photo": "",
       "activityTexts": [],
@@ -3554,11 +3559,6 @@
       "journalText": ""
     },
     "1460523": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461769": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4306,7 +4306,9 @@
     },
     "1452452": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of HIIT (High intensity interval traini"
+      ],
       "journalText": ""
     },
     "1462494": {
@@ -4375,6 +4377,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458405": {
+      "photo": "",
+      "activityTexts": [
+        "37 minutes of Elliptical trainer"
+      ],
+      "journalText": ""
+    },
     "1451549": {
       "photo": "",
       "activityTexts": [],
@@ -4413,13 +4422,6 @@
     "1453018": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1458405": {
-      "photo": "",
-      "activityTexts": [
-        "37 minutes of Elliptical trainer"
-      ],
       "journalText": ""
     },
     "1452527": {
