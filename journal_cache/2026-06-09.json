@@ -1461,12 +1461,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458313": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461927": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1458313": {
+    "1460918": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1492,11 +1497,6 @@
         "60 minutes of Zumba (tm)",
         "60 minutes of HIIT (High intensity interval traini"
       ],
-      "journalText": ""
-    },
-    "1460918": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1451709": {
@@ -1879,6 +1879,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452464": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460125": {
       "photo": "",
       "activityTexts": [],
@@ -1910,11 +1915,6 @@
       "journalText": ""
     },
     "1459558": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452464": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2231,6 +2231,13 @@
       ],
       "journalText": ""
     },
+    "1461951": {
+      "photo": "",
+      "activityTexts": [
+        "50 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
+      "journalText": ""
+    },
     "1457692": {
       "photo": "",
       "activityTexts": [],
@@ -2350,13 +2357,6 @@
       "photo": "",
       "activityTexts": [
         "240 minutes of Golf, Walking"
-      ],
-      "journalText": ""
-    },
-    "1461951": {
-      "photo": "",
-      "activityTexts": [
-        "50 minutes of Bicycling (moderate, 12-14mph/20-22k"
       ],
       "journalText": ""
     },
@@ -3183,12 +3183,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452360": {
+    "1453393": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1453393": {
+    "1452360": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3870,6 +3870,13 @@
       "photo": "",
       "activityTexts": [
         "32 minutes of Running, 8 min. mile/4:58 kilometer"
+      ],
+      "journalText": ""
+    },
+    "1458604": {
+      "photo": "",
+      "activityTexts": [
+        "90 minutes of Walking, average"
       ],
       "journalText": ""
     },
