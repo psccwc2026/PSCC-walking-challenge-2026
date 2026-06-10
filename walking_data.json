@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T05:50:32.407759+00:00",
+  "lastUpdated": "2026-06-10T05:55:31.773369+00:00",
   "teams": [
     {
       "id": 132544,
@@ -813,8 +813,8 @@
               "activities": 7650
             },
             "2026-06-09": {
-              "steps": 176,
-              "activities": 0
+              "steps": 4781,
+              "activities": 8500
             }
           },
           "memberId": 1453462
@@ -1394,7 +1394,7 @@
               ]
             },
             "2026-06-07": {
-              "steps": 22266,
+              "steps": 22316,
               "activities": 15660,
               "activityTexts": [
                 "45 minutes of Squash"
@@ -1408,6 +1408,10 @@
                 "20 minutes of Jumping Rope, moderate",
                 "45 minutes of Squash"
               ]
+            },
+            "2026-06-09": {
+              "steps": 2144,
+              "activities": 0
             }
           },
           "memberId": 1460532
@@ -4741,7 +4745,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 514108,
+      "tally": 515808,
       "outOf": 198
     },
     "132609": {
