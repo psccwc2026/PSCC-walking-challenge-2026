@@ -2228,7 +2228,8 @@
     "1462121": {
       "photo": "",
       "activityTexts": [
-        "16 minutes of Spinning (bike)"
+        "16 minutes of Spinning (bike)",
+        "39 minutes of Strength"
       ],
       "journalText": ""
     },
@@ -2701,6 +2702,13 @@
     "1452921": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1457217": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Elliptical trainer"
+      ],
       "journalText": ""
     },
     "1458305": {
@@ -5192,13 +5200,6 @@
       "photo": "",
       "activityTexts": [
         "40 minutes of Walking, brisk"
-      ],
-      "journalText": ""
-    },
-    "1457217": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Elliptical trainer"
       ],
       "journalText": ""
     },
