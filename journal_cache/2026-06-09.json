@@ -441,6 +441,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452469": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451445": {
       "photo": "",
       "activityTexts": [],
@@ -1242,7 +1247,9 @@
     },
     "1460652": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1461265": {
@@ -4100,6 +4107,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462146": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462936": {
       "photo": "",
       "activityTexts": [],
@@ -4221,11 +4233,6 @@
       "journalText": ""
     },
     "1462512": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462146": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4985,6 +4992,13 @@
         "25 minutes of Rowing Machine",
         "15 minutes of Sit-ups / Push-ups / Crunches",
         "15 minutes of HIIT (High intensity interval traini"
+      ],
+      "journalText": ""
+    },
+    "1456974": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of HIIT (High intensity interval traini"
       ],
       "journalText": ""
     },
