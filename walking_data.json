@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T13:35:34.675824+00:00",
+  "lastUpdated": "2026-06-10T13:40:37.907451+00:00",
   "teams": [
     {
       "id": 132544,
@@ -417,7 +417,7 @@
               ]
             },
             "2026-06-10": {
-              "steps": 19,
+              "steps": 351,
               "activities": 0
             }
           },
@@ -3616,6 +3616,10 @@
               "activityTexts": [
                 "35 minutes of Kickboxing"
               ]
+            },
+            "2026-06-10": {
+              "steps": 47,
+              "activities": 0
             }
           },
           "memberId": 1456303
@@ -4784,12 +4788,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 523566,
+      "tally": 523603,
       "outOf": 198
     },
     "132609": {
       "position": 4,
-      "tally": 418137,
+      "tally": 418143,
       "outOf": 198
     },
     "132626": {
