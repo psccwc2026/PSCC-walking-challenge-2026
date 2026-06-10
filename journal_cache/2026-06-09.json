@@ -856,7 +856,10 @@
     },
     "1459392": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "55 minutes of Cross Training",
+        "15 minutes of Running, 12 min. mile/7:22 kilometer"
+      ],
       "journalText": ""
     },
     "1459564": {
@@ -1915,6 +1918,13 @@
     "1462345": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1460581": {
+      "photo": "",
+      "activityTexts": [
+        "35 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1460623": {
@@ -3566,16 +3576,16 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1461805": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1452462": {
       "photo": "",
       "activityTexts": [
         "45 minutes of Bicycling (moderate, 12-14mph/20-22k"
       ],
+      "journalText": ""
+    },
+    "1461805": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1456798": {
@@ -5278,6 +5288,13 @@
       "activityTexts": [
         "45 minutes of Walking, brisk",
         "25 minutes of Tai chi"
+      ],
+      "journalText": ""
+    },
+    "1463278": {
+      "photo": "",
+      "activityTexts": [
+        "33 minutes of Bicycling (moderate, 12-14mph/20-22k"
       ],
       "journalText": ""
     },
