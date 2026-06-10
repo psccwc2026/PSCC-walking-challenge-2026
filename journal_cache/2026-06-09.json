@@ -2227,7 +2227,9 @@
     },
     "1462121": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "16 minutes of Spinning (bike)"
+      ],
       "journalText": ""
     },
     "1459840": {
@@ -5126,6 +5128,13 @@
       "activityTexts": [
         "63 minutes of Walking, brisk",
         "60 minutes of Walking, average"
+      ],
+      "journalText": ""
+    },
+    "1452147": {
+      "photo": "",
+      "activityTexts": [
+        "50 minutes of Circuit training"
       ],
       "journalText": ""
     },
