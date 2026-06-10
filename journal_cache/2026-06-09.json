@@ -1547,7 +1547,9 @@
     },
     "1457861": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Pilates"
+      ],
       "journalText": ""
     },
     "1458313": {
@@ -3087,6 +3089,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457863": {
+      "photo": "",
+      "activityTexts": [
+        "70 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
+      "journalText": ""
+    },
     "1461759": {
       "photo": "",
       "activityTexts": [],
@@ -3477,6 +3486,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1464657": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Squash"
+      ],
+      "journalText": ""
+    },
     "1460892": {
       "photo": "",
       "activityTexts": [
@@ -3777,7 +3793,9 @@
     },
     "1458603": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "40 minutes of CrossFit fast (tm)"
+      ],
       "journalText": ""
     },
     "1453647": {
@@ -4407,11 +4425,6 @@
       "activityTexts": [
         "50 minutes of Pilates"
       ],
-      "journalText": ""
-    },
-    "1457863": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1459051": {
