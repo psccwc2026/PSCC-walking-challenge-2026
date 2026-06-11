@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T12:15:43.701522+00:00",
+  "lastUpdated": "2026-06-11T12:20:51.935759+00:00",
   "teams": [
     {
       "id": 132544,
@@ -661,7 +661,7 @@
               ]
             },
             "2026-06-10": {
-              "steps": 21971,
+              "steps": 21997,
               "activities": 7170,
               "activityTexts": [
                 "30 minutes of HIIT (High intensity interval traini"
@@ -677,6 +677,10 @@
             "2026-06-08": {
               "steps": 20477,
               "activities": 8365
+            },
+            "2026-06-11": {
+              "steps": 37,
+              "activities": 0
             }
           },
           "memberId": 1456064
@@ -4932,7 +4936,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 547817,
+      "tally": 547824,
       "outOf": 198
     },
     "132609": {
