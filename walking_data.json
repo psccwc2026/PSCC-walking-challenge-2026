@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T05:15:40.546065+00:00",
+  "lastUpdated": "2026-06-11T05:20:34.984038+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1216,7 +1216,7 @@
               ]
             },
             "2026-06-10": {
-              "steps": 10713,
+              "steps": 10963,
               "activities": 0
             }
           },
@@ -1454,7 +1454,7 @@
               "activities": 0
             },
             "2026-06-10": {
-              "steps": 16542,
+              "steps": 16908,
               "activities": 15660,
               "activityTexts": [
                 "45 minutes of Squash"
@@ -4894,7 +4894,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 542750,
+      "tally": 542815,
       "outOf": 198
     },
     "132609": {
