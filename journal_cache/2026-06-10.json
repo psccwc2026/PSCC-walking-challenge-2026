@@ -1811,6 +1811,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458969": {
+      "photo": "",
+      "activityTexts": [
+        "40 minutes of Aerobics"
+      ],
+      "journalText": ""
+    },
     "1452167": {
       "photo": "",
       "activityTexts": [],
@@ -1947,13 +1954,6 @@
     "1458960": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1458969": {
-      "photo": "",
-      "activityTexts": [
-        "40 minutes of Aerobics"
-      ],
       "journalText": ""
     },
     "1452191": {
@@ -2686,6 +2686,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459593": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462124": {
       "photo": "",
       "activityTexts": [
@@ -2960,11 +2965,6 @@
       "journalText": ""
     },
     "1460235": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459593": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4573,7 +4573,9 @@
     },
     "1456302": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Swimming, leisure"
+      ],
       "journalText": ""
     },
     "1459159": {
