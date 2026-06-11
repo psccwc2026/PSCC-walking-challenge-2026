@@ -657,6 +657,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459587": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460600": {
       "photo": "",
       "activityTexts": [],
@@ -786,11 +791,6 @@
         "10 minutes of Stretching",
         "35 minutes of Strength"
       ],
-      "journalText": ""
-    },
-    "1459587": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1459318": {
@@ -1150,6 +1150,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462185": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460875": {
       "photo": "",
       "activityTexts": [],
@@ -1206,6 +1211,13 @@
       ],
       "journalText": ""
     },
+    "1459600": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Swimming hard"
+      ],
+      "journalText": ""
+    },
     "1460823": {
       "photo": "",
       "activityTexts": [],
@@ -1214,13 +1226,6 @@
     "1461943": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1459600": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Swimming hard"
-      ],
       "journalText": ""
     },
     "1456892": {
@@ -2611,6 +2616,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459754": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459685": {
       "photo": "",
       "activityTexts": [],
@@ -2659,11 +2669,6 @@
       "journalText": ""
     },
     "1462930": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459754": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2958,6 +2963,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461321": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452921": {
       "photo": "",
       "activityTexts": [],
@@ -2969,11 +2979,6 @@
       "journalText": ""
     },
     "1452749": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461321": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3294,17 +3299,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456292": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463695": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1453034": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1456292": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3493,11 +3498,6 @@
       ],
       "journalText": ""
     },
-    "1462185": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1458910": {
       "photo": "",
       "activityTexts": [],
@@ -3557,6 +3557,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459480": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Weight lifting",
+        "30 minutes of Elliptical trainer"
+      ],
+      "journalText": ""
+    },
     "1458667": {
       "photo": "",
       "activityTexts": [],
@@ -3604,14 +3612,6 @@
       "photo": "",
       "activityTexts": [
         "180 minutes of Weight lifting"
-      ],
-      "journalText": ""
-    },
-    "1459480": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of Weight lifting",
-        "30 minutes of Elliptical trainer"
       ],
       "journalText": ""
     },
@@ -4151,7 +4151,7 @@
     "1461350": {
       "photo": "",
       "activityTexts": [
-        "110 minutes of Dancing"
+        "70 minutes of Dancing"
       ],
       "journalText": ""
     },
@@ -4832,6 +4832,15 @@
       "photo": "",
       "activityTexts": [
         "50 minutes of Circuit training"
+      ],
+      "journalText": ""
+    },
+    "1463278": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of Stair climbing, machine",
+        "25 minutes of Weight lifting",
+        "5 minutes of Sit-ups / Push-ups / Crunches"
       ],
       "journalText": ""
     },
