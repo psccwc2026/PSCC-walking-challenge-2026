@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T04:20:36.492342+00:00",
+  "lastUpdated": "2026-06-11T04:25:33.218912+00:00",
   "teams": [
     {
       "id": 132544,
@@ -839,7 +839,7 @@
               "activities": 8500
             },
             "2026-06-10": {
-              "steps": 15353,
+              "steps": 15383,
               "activities": 0
             }
           },
@@ -1031,10 +1031,12 @@
               ]
             },
             "2026-06-10": {
-              "steps": 2087,
-              "activities": 0,
+              "steps": 2620,
+              "activities": 11250,
               "activityTexts": [
-                "30 minutes of Basketball"
+                "30 minutes of Basketball",
+                "30 minutes of Bicycling (leisurely, < 12mph/20kph)",
+                "30 minutes of Body Weight Exercises (Squats, etc) "
               ]
             }
           },
@@ -4868,7 +4870,7 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 541454,
+      "tally": 542280,
       "outOf": 198
     },
     "132609": {
