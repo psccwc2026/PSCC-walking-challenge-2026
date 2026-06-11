@@ -1631,6 +1631,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453553": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459941": {
       "photo": "",
       "activityTexts": [],
@@ -4080,11 +4085,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1453553": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1451725": {
       "photo": "",
       "activityTexts": [],
@@ -5075,6 +5075,13 @@
         "15 minutes of Walking, brisk",
         "6 minutes of Stretching",
         "12 minutes of Strength"
+      ],
+      "journalText": ""
+    },
+    "1460338": {
+      "photo": "",
+      "activityTexts": [
+        "90 minutes of Tennis"
       ],
       "journalText": ""
     },
