@@ -490,6 +490,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452304": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462313": {
       "photo": "",
       "activityTexts": [],
@@ -2156,6 +2161,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458385": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451709": {
       "photo": "",
       "activityTexts": [],
@@ -2711,7 +2721,9 @@
     },
     "1458148": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "2 miles of Walking (miles of)"
+      ],
       "journalText": ""
     },
     "1459754": {
@@ -3294,6 +3306,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456674": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460694": {
       "photo": "",
       "activityTexts": [
@@ -3394,17 +3411,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459441": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460843": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1457577": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459441": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3635,6 +3652,11 @@
       ],
       "journalText": ""
     },
+    "1459558": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461324": {
       "photo": "",
       "activityTexts": [
@@ -3682,17 +3704,19 @@
       ],
       "journalText": ""
     },
+    "1451614": {
+      "photo": "",
+      "activityTexts": [
+        "75 minutes of Walking, average"
+      ],
+      "journalText": ""
+    },
     "1453040": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1460204": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459558": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4594,11 +4618,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1458385": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1460695": {
       "photo": "",
       "activityTexts": [],
@@ -4976,13 +4995,6 @@
         "30 minutes of Stair climbing, machine",
         "25 minutes of Weight lifting",
         "5 minutes of Sit-ups / Push-ups / Crunches"
-      ],
-      "journalText": ""
-    },
-    "1451614": {
-      "photo": "",
-      "activityTexts": [
-        "75 minutes of Walking, average"
       ],
       "journalText": ""
     },
