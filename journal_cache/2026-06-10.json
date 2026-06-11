@@ -2330,6 +2330,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456296": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1463273": {
       "photo": "",
       "activityTexts": [],
@@ -2721,11 +2726,6 @@
       "journalText": ""
     },
     "1452785": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1456296": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3803,6 +3803,13 @@
       "photo": "",
       "activityTexts": [
         "85 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
+    "1457217": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Elliptical trainer"
       ],
       "journalText": ""
     },
@@ -5113,13 +5120,6 @@
       ],
       "journalText": ""
     },
-    "1457217": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Elliptical trainer"
-      ],
-      "journalText": ""
-    },
     "1451737": {
       "photo": "",
       "activityTexts": [
@@ -5139,11 +5139,6 @@
       "activityTexts": [
         "30 minutes of Walking, average"
       ],
-      "journalText": ""
-    },
-    "1452220": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1453505": {
