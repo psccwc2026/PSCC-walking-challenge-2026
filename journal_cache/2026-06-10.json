@@ -1212,6 +1212,14 @@
       ],
       "journalText": ""
     },
+    "1462888": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Rowing Machine",
+        "45 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
     "1462150": {
       "photo": "",
       "activityTexts": [],
@@ -1485,14 +1493,6 @@
       "photo": "",
       "activityTexts": [
         "35 minutes of Strength"
-      ],
-      "journalText": ""
-    },
-    "1462888": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Rowing Machine",
-        "45 minutes of Body Weight Exercises (Squats, etc) "
       ],
       "journalText": ""
     },
@@ -3532,6 +3532,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462509": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461956": {
       "photo": "",
       "activityTexts": [],
@@ -3593,11 +3598,6 @@
       "journalText": ""
     },
     "1462304": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462509": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
