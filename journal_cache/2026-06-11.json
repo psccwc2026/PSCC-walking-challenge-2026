@@ -4781,7 +4781,9 @@
     },
     "1459321": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "18 minutes of Running, average"
+      ],
       "journalText": ""
     },
     "1459159": {
@@ -4852,6 +4854,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461700": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456674": {
       "photo": "",
       "activityTexts": [],
@@ -4902,11 +4909,6 @@
       "journalText": ""
     },
     "1462763": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461700": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
