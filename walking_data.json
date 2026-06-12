@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T02:10:46.244384+00:00",
+  "lastUpdated": "2026-06-12T02:15:40.992638+00:00",
   "teams": [
     {
       "id": 132544,
@@ -3202,6 +3202,14 @@
               "activities": 0
             },
             "2026-06-09": {
+              "steps": 1275,
+              "activities": 0
+            },
+            "2026-06-11": {
+              "steps": 5070,
+              "activities": 0
+            },
+            "2026-06-10": {
               "steps": 0,
               "activities": 0
             }
@@ -5021,11 +5029,19 @@
               "activities": 20280
             },
             "2026-06-10": {
-              "steps": 9733,
+              "steps": 9845,
               "activities": 25040,
               "activityTexts": [
                 "46 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
                 "45 minutes of Plyometrics"
+              ]
+            },
+            "2026-06-11": {
+              "steps": 6367,
+              "activities": 20280,
+              "activityTexts": [
+                "75 minutes of Bicycling (vigorous, 14mph+ / 22kph+",
+                "15 minutes of Plyometrics"
               ]
             }
           },
@@ -5042,7 +5058,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 456166,
+      "tally": 459511,
       "outOf": 198
     },
     "132626": {
@@ -5052,7 +5068,7 @@
     },
     "132610": {
       "position": 162,
-      "tally": 117935,
+      "tally": 118841,
       "outOf": 198
     }
   },
