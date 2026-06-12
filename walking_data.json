@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T02:30:45.453874+00:00",
+  "lastUpdated": "2026-06-12T02:35:32.296266+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1486,10 +1486,17 @@
               "activities": 0
             },
             "2026-06-10": {
-              "steps": 16908,
+              "steps": 16967,
               "activities": 15660,
               "activityTexts": [
                 "45 minutes of Squash"
+              ]
+            },
+            "2026-06-11": {
+              "steps": 16946,
+              "activities": 17400,
+              "activityTexts": [
+                "50 minutes of Squash"
               ]
             }
           },
@@ -4588,7 +4595,7 @@
               "activities": 0
             },
             "2026-06-11": {
-              "steps": 5522,
+              "steps": 7858,
               "activities": 0
             }
           },
@@ -5053,12 +5060,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 555013,
+      "tally": 558836,
       "outOf": 198
     },
     "132609": {
       "position": 4,
-      "tally": 459518,
+      "tally": 459810,
       "outOf": 198
     },
     "132626": {
