@@ -353,11 +353,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1461701": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1460699": {
       "photo": "",
       "activityTexts": [
@@ -365,6 +360,11 @@
         "45 minutes of Weight lifting",
         "45 minutes of Walking, brisk"
       ],
+      "journalText": ""
+    },
+    "1461701": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1453231": {
@@ -1729,6 +1729,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460339": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462145": {
       "photo": "",
       "activityTexts": [],
@@ -2890,6 +2895,13 @@
       ],
       "journalText": ""
     },
+    "1461321": {
+      "photo": "",
+      "activityTexts": [
+        "32 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1462267": {
       "photo": "",
       "activityTexts": [],
@@ -2920,13 +2932,6 @@
     "1460113": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1461321": {
-      "photo": "",
-      "activityTexts": [
-        "32 minutes of Weight lifting"
-      ],
       "journalText": ""
     },
     "1462024": {
@@ -3175,11 +3180,6 @@
       "activityTexts": [
         "90 minutes of Squash"
       ],
-      "journalText": ""
-    },
-    "1460339": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1462189": {
