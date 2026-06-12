@@ -1879,6 +1879,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456089": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460713": {
       "photo": "",
       "activityTexts": [],
@@ -1991,11 +1996,6 @@
       "journalText": ""
     },
     "1464761": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1456089": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3088,7 +3088,9 @@
     },
     "1461416": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Pilates"
+      ],
       "journalText": ""
     },
     "1452785": {
