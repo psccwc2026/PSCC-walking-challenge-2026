@@ -1606,6 +1606,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461986": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460087": {
       "photo": "",
       "activityTexts": [],
@@ -1681,11 +1686,6 @@
       "journalText": ""
     },
     "1452721": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461986": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2937,6 +2937,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460598": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460837": {
       "photo": "",
       "activityTexts": [],
@@ -2975,11 +2980,6 @@
       "journalText": ""
     },
     "1460213": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460598": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3434,6 +3434,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463237": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453502": {
       "photo": "",
       "activityTexts": [],
@@ -3449,12 +3454,14 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1451593": {
+    "1463146": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of CrossFit fast (tm)"
+      ],
       "journalText": ""
     },
-    "1463237": {
+    "1451593": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4189,6 +4196,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451614": {
+      "photo": "",
+      "activityTexts": [
+        "25 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1460843": {
       "photo": "",
       "activityTexts": [],
@@ -4238,13 +4252,6 @@
       "photo": "",
       "activityTexts": [
         "30 minutes of Aerobics"
-      ],
-      "journalText": ""
-    },
-    "1451614": {
-      "photo": "",
-      "activityTexts": [
-        "25 minutes of Strength"
       ],
       "journalText": ""
     },
@@ -4690,13 +4697,6 @@
     "1460567": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1463146": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of CrossFit fast (tm)"
-      ],
       "journalText": ""
     },
     "1461953": {
