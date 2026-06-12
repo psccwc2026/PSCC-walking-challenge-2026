@@ -817,6 +817,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453061": {
+      "photo": "",
+      "activityTexts": [
+        "15 minutes of Body Weight Exercises (Squats, etc) ",
+        "15 minutes of HIIT (High intensity interval traini"
+      ],
+      "journalText": ""
+    },
     "1458415": {
       "photo": "",
       "activityTexts": [],
@@ -825,14 +833,6 @@
     "1459812": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1453061": {
-      "photo": "",
-      "activityTexts": [
-        "15 minutes of Body Weight Exercises (Squats, etc) ",
-        "15 minutes of HIIT (High intensity interval traini"
-      ],
       "journalText": ""
     },
     "1453049": {
@@ -1287,6 +1287,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462316": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462513": {
       "photo": "",
       "activityTexts": [
@@ -1299,11 +1304,6 @@
       "activityTexts": [
         "45 minutes of Circuit training"
       ],
-      "journalText": ""
-    },
-    "1462316": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452462": {
@@ -4938,6 +4938,13 @@
         "8 minutes of Weight lifting",
         "116 minutes of Bicycling (moderate, 12-14mph/20-22",
         "10 minutes of Stretching"
+      ],
+      "journalText": ""
+    },
+    "1453392": {
+      "photo": "",
+      "activityTexts": [
+        "240 minutes of Walking, average"
       ],
       "journalText": ""
     },
