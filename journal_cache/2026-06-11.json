@@ -2478,6 +2478,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461704": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461923": {
       "photo": "",
       "activityTexts": [],
@@ -2494,11 +2499,6 @@
       "journalText": ""
     },
     "1459605": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461704": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3823,7 +3823,9 @@
     },
     "1460787": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Running, 10 min. mile/6:12 kilometer"
+      ],
       "journalText": ""
     },
     "1452077": {
