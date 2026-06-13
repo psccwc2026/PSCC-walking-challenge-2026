@@ -1537,6 +1537,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1461690": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456317": {
       "photo": "",
       "activityTexts": [],
@@ -1696,11 +1701,6 @@
       "journalText": ""
     },
     "1459952": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1461690": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4065,6 +4065,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452452": {
+      "photo": "",
+      "activityTexts": [
+        "30 minutes of HIIT (High intensity interval traini",
+        "30 minutes of Weight lifting"
+      ],
+      "journalText": ""
+    },
     "1460312": {
       "photo": "",
       "activityTexts": [],
@@ -4164,14 +4172,6 @@
       "activityTexts": [
         "50 minutes of Weight lifting",
         "12 minutes of Stair climbing, machine"
-      ],
-      "journalText": ""
-    },
-    "1452452": {
-      "photo": "",
-      "activityTexts": [
-        "30 minutes of HIIT (High intensity interval traini",
-        "30 minutes of Weight lifting"
       ],
       "journalText": ""
     },
