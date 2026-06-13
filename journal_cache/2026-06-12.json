@@ -375,6 +375,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452093": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461738": {
       "photo": "",
       "activityTexts": [],
@@ -405,12 +410,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1452093": {
+    "1456089": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1456089": {
+    "1457993": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -431,11 +436,6 @@
       "journalText": ""
     },
     "1459922": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1457993": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -636,17 +636,22 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462911": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460466": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1452872": {
+    "1453647": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1453647": {
+    "1452872": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1035,12 +1040,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459015": {
+    "1463304": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1462911": {
+    "1459015": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1057,11 +1062,6 @@
       ],
       "journalText": ""
     },
-    "1463304": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1461881": {
       "photo": "",
       "activityTexts": [],
@@ -1069,7 +1069,9 @@
     },
     "1460268": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "50 minutes of HIIT (High intensity interval traini"
+      ],
       "journalText": ""
     },
     "1460531": {
@@ -1088,6 +1090,11 @@
         "90 minutes of Strength",
         "30 minutes of Stair climbing, machine"
       ],
+      "journalText": ""
+    },
+    "1462185": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1451445": {
@@ -1129,11 +1136,6 @@
       "journalText": ""
     },
     "1458440": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462185": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1435,12 +1437,22 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459934": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1457103": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1453121": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1452459": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1541,6 +1553,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453034": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460637": {
       "photo": "",
       "activityTexts": [],
@@ -1582,22 +1599,17 @@
       ],
       "journalText": ""
     },
-    "1453034": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452459": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1458415": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1460318": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460505": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1805,11 +1817,6 @@
       ],
       "journalText": ""
     },
-    "1460505": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1460147": {
       "photo": "",
       "activityTexts": [],
@@ -1830,16 +1837,16 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462914": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462513": {
       "photo": "",
       "activityTexts": [
         "30 minutes of HIIT (High intensity interval traini"
       ],
-      "journalText": ""
-    },
-    "1462914": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1456451": {
@@ -1959,6 +1966,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462024": {
+      "photo": "",
+      "activityTexts": [
+        "20 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1460235": {
       "photo": "",
       "activityTexts": [],
@@ -2054,9 +2068,23 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463115": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of CrossFit fast (tm)"
+      ],
+      "journalText": ""
+    },
     "1460700": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1462399": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Yoga"
+      ],
       "journalText": ""
     },
     "1460476": {
@@ -2134,13 +2162,6 @@
       "photo": "",
       "activityTexts": [
         "55 minutes of HIIT (High intensity interval traini"
-      ],
-      "journalText": ""
-    },
-    "1462399": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Yoga"
       ],
       "journalText": ""
     },
@@ -2224,11 +2245,9 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462024": {
+    "1453002": {
       "photo": "",
-      "activityTexts": [
-        "20 minutes of Strength"
-      ],
+      "activityTexts": [],
       "journalText": ""
     },
     "1461986": {
@@ -2242,6 +2261,11 @@
       "journalText": ""
     },
     "1460694": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460879": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2296,11 +2320,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460879": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1460113": {
       "photo": "",
       "activityTexts": [],
@@ -2323,6 +2342,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452360": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1457629": {
       "photo": "",
       "activityTexts": [],
@@ -2338,22 +2362,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459934": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1457470": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1457471": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452360": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2530,13 +2544,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1463115": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of CrossFit fast (tm)"
-      ],
-      "journalText": ""
-    },
     "1462550": {
       "photo": "",
       "activityTexts": [],
@@ -2562,12 +2569,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1453002": {
+    "1463044": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1463044": {
+    "1459904": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2610,9 +2617,11 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459904": {
+    "1451709": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "25 minutes of Body Weight Exercises (Squats, etc) "
+      ],
       "journalText": ""
     },
     "1455983": {
@@ -2623,13 +2632,6 @@
     "1456302": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1451709": {
-      "photo": "",
-      "activityTexts": [
-        "25 minutes of Body Weight Exercises (Squats, etc) "
-      ],
       "journalText": ""
     },
     "1451453": {
@@ -2692,6 +2694,11 @@
       "journalText": ""
     },
     "1461919": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460527": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2849,12 +2856,12 @@
       ],
       "journalText": ""
     },
-    "1460527": {
+    "1460673": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1460673": {
+    "1459840": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2895,6 +2902,11 @@
         "40 minutes of Strength",
         "65 minutes of Running, average"
       ],
+      "journalText": ""
+    },
+    "1456317": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1462955": {
@@ -2955,11 +2967,6 @@
       "journalText": ""
     },
     "1462549": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1456317": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3048,6 +3055,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1453606": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452746": {
       "photo": "",
       "activityTexts": [],
@@ -3074,11 +3086,6 @@
       "journalText": ""
     },
     "1461292": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459840": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3288,9 +3295,11 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1453606": {
+    "1462509": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Gymnastics"
+      ],
       "journalText": ""
     },
     "1459528": {
@@ -3306,13 +3315,6 @@
     "1460755": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462509": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Gymnastics"
-      ],
       "journalText": ""
     },
     "1452274": {
@@ -3375,6 +3377,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460744": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460441": {
       "photo": "",
       "activityTexts": [],
@@ -3401,11 +3408,6 @@
       "journalText": ""
     },
     "1460837": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460744": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
