@@ -84,6 +84,11 @@
       ],
       "journalText": ""
     },
+    "1457385": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453515": {
       "photo": "",
       "activityTexts": [],
@@ -100,11 +105,6 @@
       "journalText": ""
     },
     "1458612": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1457385": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2104,6 +2104,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451731": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462493": {
       "photo": "",
       "activityTexts": [],
@@ -2135,6 +2140,11 @@
       "journalText": ""
     },
     "1460367": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1457405": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2213,11 +2223,6 @@
         "25 minutes of Bicycling (leisurely, < 12mph/20kph)",
         "35 minutes of Badminton, casual"
       ],
-      "journalText": ""
-    },
-    "1457405": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452492": {
@@ -2377,9 +2382,11 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1451731": {
+    "1462024": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "20 minutes of Strength"
+      ],
       "journalText": ""
     },
     "1461321": {
@@ -2636,13 +2643,6 @@
     "1463695": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462024": {
-      "photo": "",
-      "activityTexts": [
-        "20 minutes of Strength"
-      ],
       "journalText": ""
     },
     "1460091": {
