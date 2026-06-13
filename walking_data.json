@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T19:35:32.283201+00:00",
+  "lastUpdated": "2026-06-13T19:40:37.703996+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1100,7 +1100,7 @@
               ]
             },
             "2026-06-12": {
-              "steps": 2790,
+              "steps": 2823,
               "activities": 11250,
               "activityTexts": [
                 "30 minutes of Basketball",
@@ -1109,7 +1109,7 @@
               ]
             },
             "2026-06-13": {
-              "steps": 166,
+              "steps": 3731,
               "activities": 0
             }
           },
@@ -5261,8 +5261,8 @@
   ],
   "challengeRankings": {
     "132544": {
-      "position": 3,
-      "tally": 594079,
+      "position": 2,
+      "tally": 594478,
       "outOf": 198
     },
     "132609": {
