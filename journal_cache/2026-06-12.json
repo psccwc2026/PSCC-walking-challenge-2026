@@ -2089,7 +2089,9 @@
     },
     "1456819": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "20 minutes of Running, 10 min. mile/6:12 kilometer"
+      ],
       "journalText": ""
     },
     "1458736": {
@@ -2218,6 +2220,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462128": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462122": {
       "photo": "",
       "activityTexts": [
@@ -2226,11 +2233,6 @@
       "journalText": ""
     },
     "1452475": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462128": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
