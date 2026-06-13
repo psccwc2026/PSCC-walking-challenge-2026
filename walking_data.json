@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T12:10:35.319483+00:00",
+  "lastUpdated": "2026-06-13T12:15:43.420227+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1096,13 +1096,17 @@
               ]
             },
             "2026-06-12": {
-              "steps": 2745,
+              "steps": 2790,
               "activities": 11250,
               "activityTexts": [
                 "30 minutes of Basketball",
                 "30 minutes of Bicycling (leisurely, < 12mph/20kph)",
                 "30 minutes of Body Weight Exercises (Squats, etc) "
               ]
+            },
+            "2026-06-13": {
+              "steps": 99,
+              "activities": 0
             }
           },
           "memberId": 1453439
