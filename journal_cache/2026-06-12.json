@@ -318,6 +318,16 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463148": {
+      "photo": "",
+      "activityTexts": [
+        "2 minutes of Aerobics",
+        "3 minutes of Jumping Rope, moderate",
+        "10 minutes of Stretching",
+        "35 minutes of Strength"
+      ],
+      "journalText": ""
+    },
     "1456810": {
       "photo": "",
       "activityTexts": [],
@@ -344,16 +354,6 @@
       "photo": "",
       "activityTexts": [
         "50 minutes of HIIT (High intensity interval traini"
-      ],
-      "journalText": ""
-    },
-    "1463148": {
-      "photo": "",
-      "activityTexts": [
-        "2 minutes of Aerobics",
-        "3 minutes of Jumping Rope, moderate",
-        "10 minutes of Stretching",
-        "35 minutes of Strength"
       ],
       "journalText": ""
     },
@@ -624,6 +624,11 @@
       "activityTexts": [
         "15 minutes of Weight lifting"
       ],
+      "journalText": ""
+    },
+    "1464760": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1461738": {
@@ -2520,11 +2525,6 @@
       "journalText": ""
     },
     "1462499": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1464760": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
