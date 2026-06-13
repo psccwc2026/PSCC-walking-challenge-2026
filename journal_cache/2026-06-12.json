@@ -1157,17 +1157,17 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452216": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1458440": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
     "1458956": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452216": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -1257,6 +1257,13 @@
       "photo": "",
       "activityTexts": [
         "65 minutes of Swimming hard"
+      ],
+      "journalText": ""
+    },
+    "1452832": {
+      "photo": "",
+      "activityTexts": [
+        "90 minutes of Pickleball"
       ],
       "journalText": ""
     },
@@ -1379,13 +1386,6 @@
       "activityTexts": [
         "30 minutes of Strength",
         "45 minutes of Yoga"
-      ],
-      "journalText": ""
-    },
-    "1452832": {
-      "photo": "",
-      "activityTexts": [
-        "90 minutes of Pickleball"
       ],
       "journalText": ""
     },
@@ -1723,6 +1723,11 @@
         "15 minutes of Strength",
         "30 minutes of Walking, brisk"
       ],
+      "journalText": ""
+    },
+    "1452123": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1459410": {
@@ -3028,7 +3033,8 @@
     "1452289": {
       "photo": "",
       "activityTexts": [
-        "60 minutes of HIIT (High intensity interval traini"
+        "60 minutes of HIIT (High intensity interval traini",
+        "60 minutes of Bicycling (moderate, 12-14mph/20-22k"
       ],
       "journalText": ""
     },
@@ -3308,6 +3314,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452322": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456302": {
       "photo": "",
       "activityTexts": [],
@@ -3440,12 +3451,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460843": {
+    "1453489": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1452322": {
+    "1460843": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3837,11 +3848,6 @@
       "journalText": ""
     },
     "1460832": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1453489": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
