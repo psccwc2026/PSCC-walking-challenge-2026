@@ -1153,6 +1153,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457555": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462537": {
       "photo": "",
       "activityTexts": [],
@@ -1243,11 +1248,6 @@
       "activityTexts": [
         "10 minutes of Bicycling (moderate, 12-14mph/20-22k"
       ],
-      "journalText": ""
-    },
-    "1457555": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460498": {
@@ -1783,12 +1783,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1456807": {
+    "1462263": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1462263": {
+    "1456807": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2542,6 +2542,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460509": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Weight lifting",
+        "60 minutes of Hiking"
+      ],
+      "journalText": ""
+    },
     "1460487": {
       "photo": "",
       "activityTexts": [],
@@ -2565,14 +2573,6 @@
     "1462499": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1460509": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Weight lifting",
-        "60 minutes of Hiking"
-      ],
       "journalText": ""
     },
     "1452749": {
@@ -3473,11 +3473,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1451705": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1453439": {
       "photo": "",
       "activityTexts": [
@@ -3485,6 +3480,11 @@
         "30 minutes of Bicycling (leisurely, < 12mph/20kph)",
         "30 minutes of Body Weight Exercises (Squats, etc) "
       ],
+      "journalText": ""
+    },
+    "1451705": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1463313": {
