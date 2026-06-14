@@ -377,6 +377,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1460755": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460878": {
       "photo": "",
       "activityTexts": [],
@@ -1248,11 +1253,6 @@
         "30 minutes of Calisthenics",
         "45 minutes of Running, 10 min. mile/6:12 kilometer"
       ],
-      "journalText": ""
-    },
-    "1460755": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452079": {
@@ -3101,6 +3101,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459600": {
+      "photo": "",
+      "activityTexts": [
+        "25 minutes of Swimming hard"
+      ],
+      "journalText": ""
+    },
     "1459415": {
       "photo": "",
       "activityTexts": [],
@@ -3178,6 +3185,11 @@
       "journalText": ""
     },
     "1452273": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1457943": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3314,11 +3326,6 @@
       "journalText": ""
     },
     "1460637": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1457943": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3501,13 +3508,6 @@
       "photo": "",
       "activityTexts": [
         "30 minutes of Rowing Machine"
-      ],
-      "journalText": ""
-    },
-    "1459600": {
-      "photo": "",
-      "activityTexts": [
-        "25 minutes of Swimming hard"
       ],
       "journalText": ""
     },
