@@ -1184,6 +1184,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463346": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459461": {
       "photo": "",
       "activityTexts": [],
@@ -1209,11 +1214,6 @@
       "activityTexts": [
         "90 minutes of Tennis"
       ],
-      "journalText": ""
-    },
-    "1463346": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1452087": {
@@ -3966,7 +3966,9 @@
     },
     "1456482": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Swimming, leisure"
+      ],
       "journalText": ""
     },
     "1452923": {
@@ -4791,6 +4793,14 @@
       "photo": "",
       "activityTexts": [
         "30 minutes of Elliptical trainer"
+      ],
+      "journalText": ""
+    },
+    "1453068": {
+      "photo": "",
+      "activityTexts": [
+        "10 minutes of Spinning (bike)",
+        "25 minutes of Weight lifting"
       ],
       "journalText": ""
     },
