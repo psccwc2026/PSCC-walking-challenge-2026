@@ -1221,6 +1221,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452483": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452191": {
       "photo": "",
       "activityTexts": [],
@@ -1372,7 +1377,9 @@
     },
     "1460652": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1452828": {
@@ -3990,11 +3997,6 @@
       "journalText": ""
     },
     "1460148": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452483": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
