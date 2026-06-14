@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T04:25:50.163457+00:00",
+  "lastUpdated": "2026-06-14T04:30:46.220726+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1317,7 +1317,10 @@
             },
             "2026-06-13": {
               "steps": 5023,
-              "activities": 0
+              "activities": 6930,
+              "activityTexts": [
+                "45 minutes of Swimming, leisure"
+              ]
             }
           },
           "memberId": 1456310
@@ -5278,7 +5281,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 599924,
+      "tally": 600694,
       "outOf": 198
     },
     "132609": {
