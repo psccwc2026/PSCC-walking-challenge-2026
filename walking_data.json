@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T20:10:48.405990+00:00",
+  "lastUpdated": "2026-06-14T20:15:42.238777+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1591,14 +1591,14 @@
               ]
             },
             "2026-06-13": {
-              "steps": 18549,
+              "steps": 18603,
               "activities": 20880,
               "activityTexts": [
                 "60 minutes of Squash"
               ]
             },
             "2026-06-14": {
-              "steps": 135,
+              "steps": 265,
               "activities": 0
             }
           },
@@ -2920,7 +2920,7 @@
               "activities": 0
             },
             "2026-06-14": {
-              "steps": 2937,
+              "steps": 3029,
               "activities": 14340,
               "activityTexts": [
                 "60 minutes of HIIT (High intensity interval traini"
@@ -4665,7 +4665,7 @@
               "activities": 0
             },
             "2026-06-14": {
-              "steps": 2530,
+              "steps": 2612,
               "activities": 0
             }
           },
@@ -5351,17 +5351,17 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 608106,
+      "tally": 608126,
       "outOf": 198
     },
     "132609": {
       "position": 5,
-      "tally": 474740,
+      "tally": 474751,
       "outOf": 198
     },
     "132626": {
       "position": 96,
-      "tally": 192343,
+      "tally": 192356,
       "outOf": 198
     },
     "132610": {
