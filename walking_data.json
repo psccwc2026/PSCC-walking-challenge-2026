@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T20:30:52.250756+00:00",
+  "lastUpdated": "2026-06-15T20:35:57.573455+00:00",
   "teams": [
     {
       "id": 132544,
@@ -2148,7 +2148,7 @@
             },
             "2026-06-05": {
               "steps": 14975,
-              "activities": 0
+              "activities": 9000
             },
             "2026-06-06": {
               "steps": 21634,
@@ -2160,11 +2160,11 @@
             },
             "2026-06-08": {
               "steps": 6568,
-              "activities": 0
+              "activities": 6000
             },
             "2026-06-09": {
               "steps": 22965,
-              "activities": 0
+              "activities": 9000
             },
             "2026-06-10": {
               "steps": 7954,
@@ -2184,7 +2184,10 @@
             },
             "2026-06-14": {
               "steps": 10183,
-              "activities": 0
+              "activities": 9000,
+              "activityTexts": [
+                "90 minutes of Weight lifting"
+              ]
             },
             "2026-06-15": {
               "steps": 4254,
@@ -4563,7 +4566,7 @@
               "activities": 0
             },
             "2026-06-15": {
-              "steps": 817,
+              "steps": 846,
               "activities": 0
             }
           },
@@ -5515,12 +5518,12 @@
     },
     "132609": {
       "position": 4,
-      "tally": 503478,
+      "tally": 503482,
       "outOf": 198
     },
     "132626": {
-      "position": 92,
-      "tally": 211673,
+      "position": 90,
+      "tally": 216388,
       "outOf": 198
     },
     "132610": {
