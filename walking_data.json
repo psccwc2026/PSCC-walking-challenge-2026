@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T04:40:34.511847+00:00",
+  "lastUpdated": "2026-06-15T04:45:36.174731+00:00",
   "teams": [
     {
       "id": 132544,
@@ -739,7 +739,7 @@
               "activities": 15240
             },
             "2026-06-14": {
-              "steps": 20215,
+              "steps": 20463,
               "activities": 15720,
               "activityTexts": [
                 "120 minutes of Badminton, casual"
@@ -5406,7 +5406,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 642264,
+      "tally": 642292,
       "outOf": 198
     },
     "132609": {
