@@ -1703,6 +1703,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459552": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1456844": {
       "photo": "",
       "activityTexts": [],
@@ -2632,11 +2637,6 @@
       "journalText": ""
     },
     "1460834": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459552": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4094,7 +4094,9 @@
     },
     "1459443": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "4 km of Walking (kilometers of)"
+      ],
       "journalText": ""
     },
     "1461759": {
