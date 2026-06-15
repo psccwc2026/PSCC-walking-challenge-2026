@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "sealed": false,
+  "sealed": true,
   "members": {
     "1459955": {
       "photo": "",
@@ -458,7 +458,9 @@
     },
     "1461987": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Elliptical trainer"
+      ],
       "journalText": ""
     },
     "1460496": {
