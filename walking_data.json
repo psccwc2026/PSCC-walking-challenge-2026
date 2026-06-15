@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T04:45:36.174731+00:00",
+  "lastUpdated": "2026-06-15T04:50:50.388983+00:00",
   "teams": [
     {
       "id": 132544,
@@ -739,7 +739,7 @@
               "activities": 15240
             },
             "2026-06-14": {
-              "steps": 20463,
+              "steps": 20484,
               "activities": 15720,
               "activityTexts": [
                 "120 minutes of Badminton, casual"
@@ -1374,7 +1374,7 @@
               ]
             },
             "2026-06-14": {
-              "steps": 9606,
+              "steps": 9627,
               "activities": 24540,
               "activityTexts": [
                 "90 minutes of Bicycling (moderate, 12-14mph/20-22k",
@@ -4719,7 +4719,7 @@
               "activities": 0
             },
             "2026-06-14": {
-              "steps": 8659,
+              "steps": 9055,
               "activities": 0
             }
           },
@@ -5406,16 +5406,16 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 642292,
+      "tally": 642297,
       "outOf": 198
     },
     "132609": {
       "position": 5,
-      "tally": 478022,
+      "tally": 478072,
       "outOf": 198
     },
     "132626": {
-      "position": 98,
+      "position": 99,
       "tally": 193207,
       "outOf": 198
     },
