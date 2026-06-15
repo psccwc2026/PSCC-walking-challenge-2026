@@ -555,6 +555,13 @@
       ],
       "journalText": ""
     },
+    "1462888": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Body Weight Exercises (Squats, etc) "
+      ],
+      "journalText": ""
+    },
     "1459848": {
       "photo": "",
       "activityTexts": [],
@@ -563,13 +570,6 @@
     "1456933": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462888": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Body Weight Exercises (Squats, etc) "
-      ],
       "journalText": ""
     },
     "1463304": {
@@ -1208,12 +1208,12 @@
       ],
       "journalText": ""
     },
-    "1460906": {
+    "1451708": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1451708": {
+    "1460906": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2291,6 +2291,11 @@
         "40 minutes of Yoga",
         "20 minutes of Bicycling (leisurely, < 12mph/20kph)"
       ],
+      "journalText": ""
+    },
+    "1460595": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1458286": {
@@ -3767,11 +3772,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1460595": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462763": {
       "photo": "",
       "activityTexts": [],
@@ -4264,12 +4264,14 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462077": {
+    "1459403": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Tennis"
+      ],
       "journalText": ""
     },
-    "1459403": {
+    "1462077": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4534,11 +4536,6 @@
       "journalText": ""
     },
     "1452220": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459235": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
