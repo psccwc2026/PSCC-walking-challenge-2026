@@ -2341,7 +2341,8 @@
     "1452726": {
       "photo": "",
       "activityTexts": [
-        "70 minutes of Bicycling (moderate, 12-14mph/20-22k"
+        "70 minutes of Bicycling (moderate, 12-14mph/20-22k",
+        "10 minutes of Stair climbing, machine"
       ],
       "journalText": ""
     },
@@ -3684,6 +3685,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452828": {
+      "photo": "",
+      "activityTexts": [
+        "10 minutes of Swimming hard",
+        "3 miles of Walking (miles of)"
+      ],
+      "journalText": ""
+    },
     "1461978": {
       "photo": "",
       "activityTexts": [],
@@ -3736,14 +3745,6 @@
       "photo": "",
       "activityTexts": [
         "90 minutes of Running, 10 min. mile/6:12 kilometer"
-      ],
-      "journalText": ""
-    },
-    "1452828": {
-      "photo": "",
-      "activityTexts": [
-        "10 minutes of Swimming hard",
-        "3 miles of Walking (miles of)"
       ],
       "journalText": ""
     },
@@ -4671,6 +4672,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1457393": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452347": {
       "photo": "",
       "activityTexts": [],
@@ -4698,11 +4704,6 @@
       "activityTexts": [
         "50 minutes of Pilates"
       ],
-      "journalText": ""
-    },
-    "1457393": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460503": {
