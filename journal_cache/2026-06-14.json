@@ -248,6 +248,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1456089": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1452252": {
       "photo": "",
       "activityTexts": [],
@@ -592,11 +597,6 @@
       "activityTexts": [
         "60 minutes of Spinning (bike)"
       ],
-      "journalText": ""
-    },
-    "1456089": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1451630": {
@@ -960,6 +960,14 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1463243": {
+      "photo": "",
+      "activityTexts": [
+        "38 minutes of Weight lifting",
+        "15 minutes of Yoga"
+      ],
+      "journalText": ""
+    },
     "1460569": {
       "photo": "",
       "activityTexts": [],
@@ -969,14 +977,6 @@
       "photo": "",
       "activityTexts": [
         "10 minutes of Body Weight Exercises (Squats, etc) "
-      ],
-      "journalText": ""
-    },
-    "1463243": {
-      "photo": "",
-      "activityTexts": [
-        "38 minutes of Weight lifting",
-        "15 minutes of Yoga"
       ],
       "journalText": ""
     },
@@ -1150,16 +1150,16 @@
       ],
       "journalText": ""
     },
+    "1461738": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451475": {
       "photo": "",
       "activityTexts": [
         "240 minutes of Tennis"
       ],
-      "journalText": ""
-    },
-    "1461738": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1460115": {
@@ -3078,6 +3078,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458995": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Kickboxing"
+      ],
+      "journalText": ""
+    },
     "1452257": {
       "photo": "",
       "activityTexts": [],
@@ -3086,13 +3093,6 @@
     "1460087": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1458995": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Kickboxing"
-      ],
       "journalText": ""
     },
     "1458272": {
@@ -3638,6 +3638,13 @@
     "1459922": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1453250": {
+      "photo": "",
+      "activityTexts": [
+        "45 minutes of Yoga"
+      ],
       "journalText": ""
     },
     "1462223": {
@@ -4416,7 +4423,9 @@
     },
     "1456950": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Dancing"
+      ],
       "journalText": ""
     },
     "1459403": {
@@ -4469,13 +4478,6 @@
     "1463244": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1453250": {
-      "photo": "",
-      "activityTexts": [
-        "45 minutes of Yoga"
-      ],
       "journalText": ""
     },
     "1462515": {
