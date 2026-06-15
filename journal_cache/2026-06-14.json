@@ -1877,6 +1877,11 @@
       ],
       "journalText": ""
     },
+    "1451704": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460742": {
       "photo": "",
       "activityTexts": [],
@@ -1895,11 +1900,6 @@
       "journalText": ""
     },
     "1456415": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1451704": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2361,7 +2361,9 @@
     },
     "1451450": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "15 minutes of Bicycling (moderate, 12-14mph/20-22k"
+      ],
       "journalText": ""
     },
     "1451811": {
@@ -3346,16 +3348,16 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462188": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1459392": {
       "photo": "",
       "activityTexts": [
         "50 minutes of Circuit training"
       ],
+      "journalText": ""
+    },
+    "1462188": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1459480": {
@@ -3696,6 +3698,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458604": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1451453": {
       "photo": "",
       "activityTexts": [],
@@ -4032,11 +4039,6 @@
       "journalText": ""
     },
     "1459822": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458604": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
