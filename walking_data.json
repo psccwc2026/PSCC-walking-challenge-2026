@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T03:05:42.975221+00:00",
+  "lastUpdated": "2026-06-15T03:10:41.813848+00:00",
   "teams": [
     {
       "id": 132544,
@@ -242,7 +242,7 @@
             },
             "2026-06-12": {
               "steps": 3724,
-              "activities": 0
+              "activities": 31200
             },
             "2026-06-11": {
               "steps": 2506,
@@ -257,15 +257,15 @@
             },
             "2026-06-14": {
               "steps": 7385,
-              "activities": 57600,
+              "activities": 34200,
               "activityTexts": [
                 "120 minutes of Swimming hard",
-                "240 minutes of Cricket"
+                "60 minutes of Cricket"
               ]
             },
             "2026-06-13": {
               "steps": 6483,
-              "activities": 7800,
+              "activities": 0,
               "activityTexts": [
                 "60 minutes of Cricket"
               ]
@@ -735,8 +735,23 @@
               "activities": 0
             },
             "2026-06-12": {
-              "steps": 84,
-              "activities": 0
+              "steps": 6855,
+              "activities": 15240
+            },
+            "2026-06-14": {
+              "steps": 20112,
+              "activities": 15720,
+              "activityTexts": [
+                "120 minutes of Badminton, casual"
+              ]
+            },
+            "2026-06-13": {
+              "steps": 16590,
+              "activities": 24200,
+              "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/06/15/0_Mpvz2pX3bh_large.jpg",
+              "activityTexts": [
+                "121 minutes of Bicycling (vigorous, 14mph+ / 22kph"
+              ]
             }
           },
           "memberId": 1456064
@@ -5378,7 +5393,7 @@
   "challengeRankings": {
     "132544": {
       "position": 2,
-      "tally": 623495,
+      "tally": 634454,
       "outOf": 198
     },
     "132609": {
