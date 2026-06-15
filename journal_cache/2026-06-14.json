@@ -350,6 +350,13 @@
       ],
       "journalText": ""
     },
+    "1452061": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of BodyAttack(tm)"
+      ],
+      "journalText": ""
+    },
     "1463473": {
       "photo": "",
       "activityTexts": [],
@@ -372,13 +379,6 @@
     "1452739": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452061": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of BodyAttack(tm)"
-      ],
       "journalText": ""
     },
     "1456817": {
@@ -1284,6 +1284,11 @@
       "photo": "https://cdn.tbybewell.com/prod/blog_images/2026/06/14/0_YXFO3pS8fg_large.jpg",
       "activityTexts": [],
       "journalText": "Last weekend of the challenge. Blue sky and a peaceful walk. lovely day!"
+    },
+    "1462266": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
     },
     "1459486": {
       "photo": "",
@@ -2818,12 +2823,12 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1463051": {
+    "1459600": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
     },
-    "1459600": {
+    "1463051": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3486,12 +3491,14 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1453100": {
+    "1460787": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "30 minutes of Running, 10 min. mile/6:12 kilometer"
+      ],
       "journalText": ""
     },
-    "1460787": {
+    "1453100": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4161,6 +4168,11 @@
       ],
       "journalText": ""
     },
+    "1462512": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453121": {
       "photo": "",
       "activityTexts": [],
@@ -4263,11 +4275,6 @@
       "journalText": ""
     },
     "1461759": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462512": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4451,11 +4458,6 @@
       "journalText": ""
     },
     "1458289": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462266": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
