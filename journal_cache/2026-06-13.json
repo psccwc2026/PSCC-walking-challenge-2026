@@ -842,7 +842,9 @@
     },
     "1460833": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "180 minutes of Bicycling (vigorous, 14mph+ / 22kph"
+      ],
       "journalText": ""
     },
     "1460441": {
@@ -4394,6 +4396,11 @@
       "journalText": ""
     },
     "1459929": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1463306": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
