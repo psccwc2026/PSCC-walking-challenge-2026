@@ -1636,6 +1636,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1451731": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459149": {
       "photo": "",
       "activityTexts": [],
@@ -1756,11 +1761,6 @@
       "journalText": ""
     },
     "1460813": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1451731": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2278,6 +2278,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462875": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1459155": {
       "photo": "",
       "activityTexts": [],
@@ -2323,6 +2328,14 @@
     "1452401": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1453343": {
+      "photo": "",
+      "activityTexts": [
+        "90 minutes of Spinning (bike)",
+        "60 minutes of Pickleball"
+      ],
       "journalText": ""
     },
     "1453229": {
@@ -2534,11 +2547,6 @@
       "journalText": ""
     },
     "1451811": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462875": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2792,7 +2800,9 @@
     },
     "1452661": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Weight lifting"
+      ],
       "journalText": ""
     },
     "1462024": {
@@ -2806,6 +2816,11 @@
       "journalText": ""
     },
     "1462999": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1459754": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3441,6 +3456,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459840": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1462314": {
       "photo": "",
       "activityTexts": [],
@@ -3452,11 +3472,6 @@
       "journalText": ""
     },
     "1459468": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459840": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -3744,6 +3759,11 @@
       "journalText": ""
     },
     "1456303": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1462397": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4589,11 +4609,6 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1459754": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
     "1462396": {
       "photo": "",
       "activityTexts": [],
@@ -4666,14 +4681,6 @@
       "photo": "",
       "activityTexts": [
         "240 minutes of Dancing"
-      ],
-      "journalText": ""
-    },
-    "1453343": {
-      "photo": "",
-      "activityTexts": [
-        "90 minutes of Spinning (bike)",
-        "60 minutes of Pickleball"
       ],
       "journalText": ""
     },
