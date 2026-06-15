@@ -791,7 +791,9 @@
     },
     "1456842": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Strength"
+      ],
       "journalText": ""
     },
     "1461986": {
@@ -2076,6 +2078,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452962": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460367": {
       "photo": "",
       "activityTexts": [
@@ -2104,11 +2111,6 @@
         "30 minutes of Bicycling (leisurely, < 12mph/20kph)",
         "30 minutes of Body Weight Exercises (Squats, etc) "
       ],
-      "journalText": ""
-    },
-    "1452962": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1461805": {
@@ -2151,6 +2153,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1458148": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1457555": {
       "photo": "",
       "activityTexts": [],
@@ -2167,11 +2174,6 @@
       "journalText": ""
     },
     "1460148": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1458148": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -2248,6 +2250,15 @@
     "1461909": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1452201": {
+      "photo": "",
+      "activityTexts": [
+        "10 minutes of Strength",
+        "37 minutes of Bicycling (leisurely, < 12mph/20kph)",
+        "10 minutes of Stretching"
+      ],
       "journalText": ""
     },
     "1458313": {
@@ -2434,15 +2445,6 @@
     "1463695": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1452201": {
-      "photo": "",
-      "activityTexts": [
-        "10 minutes of Strength",
-        "37 minutes of Bicycling (leisurely, < 12mph/20kph)",
-        "10 minutes of Stretching"
-      ],
       "journalText": ""
     },
     "1460078": {
@@ -3353,6 +3355,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452725": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1461956": {
       "photo": "",
       "activityTexts": [],
@@ -3369,11 +3376,6 @@
       "journalText": ""
     },
     "1459412": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452725": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
