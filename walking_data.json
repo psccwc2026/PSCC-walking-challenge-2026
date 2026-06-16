@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T23:10:38.670844+00:00",
+  "lastUpdated": "2026-06-16T23:15:35.242027+00:00",
   "teams": [
     {
       "id": 132544,
@@ -3691,11 +3691,63 @@
               "activities": 0
             },
             "2026-06-03": {
-              "steps": 4416,
+              "steps": 4657,
               "activities": 0
             },
             "2026-06-02": {
               "steps": 7666,
+              "activities": 0
+            },
+            "2026-06-16": {
+              "steps": 3212,
+              "activities": 0
+            },
+            "2026-06-15": {
+              "steps": 3632,
+              "activities": 0
+            },
+            "2026-06-14": {
+              "steps": 6450,
+              "activities": 0
+            },
+            "2026-06-13": {
+              "steps": 8823,
+              "activities": 0
+            },
+            "2026-06-12": {
+              "steps": 7884,
+              "activities": 0
+            },
+            "2026-06-11": {
+              "steps": 5546,
+              "activities": 0
+            },
+            "2026-06-10": {
+              "steps": 4437,
+              "activities": 0
+            },
+            "2026-06-09": {
+              "steps": 5523,
+              "activities": 0
+            },
+            "2026-06-08": {
+              "steps": 2884,
+              "activities": 0
+            },
+            "2026-06-07": {
+              "steps": 4332,
+              "activities": 0
+            },
+            "2026-06-06": {
+              "steps": 9497,
+              "activities": 0
+            },
+            "2026-06-05": {
+              "steps": 1961,
+              "activities": 0
+            },
+            "2026-06-04": {
+              "steps": 3481,
               "activities": 0
             }
           },
@@ -4193,7 +4245,7 @@
             },
             "2026-06-04": {
               "steps": 2112,
-              "activities": 0
+              "activities": 11600
             },
             "2026-06-05": {
               "steps": 2749,
@@ -4227,27 +4279,30 @@
             },
             "2026-06-11": {
               "steps": 1206,
-              "activities": 0
+              "activities": 11600
             },
             "2026-06-12": {
               "steps": 1576,
-              "activities": 0
+              "activities": 6000
             },
             "2026-06-13": {
               "steps": 4939,
-              "activities": 0
+              "activities": 8700
             },
             "2026-06-14": {
               "steps": 2866,
-              "activities": 0
+              "activities": 6000
             },
             "2026-06-15": {
               "steps": 977,
-              "activities": 0
+              "activities": 7250,
+              "activityTexts": [
+                "25 minutes of Kickboxing"
+              ]
             },
             "2026-06-16": {
               "steps": 515,
-              "activities": 0
+              "activities": 4000
             }
           },
           "memberId": 1456303
@@ -5683,7 +5738,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 534985,
+      "tally": 540629,
       "outOf": 198
     },
     "132626": {
@@ -5692,8 +5747,8 @@
       "outOf": 198
     },
     "132610": {
-      "position": 167,
-      "tally": 131812,
+      "position": 161,
+      "tally": 141056,
       "outOf": 198
     }
   },
