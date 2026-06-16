@@ -4126,7 +4126,9 @@
     },
     "1462280": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "90 minutes of Walking, brisk"
+      ],
       "journalText": ""
     },
     "1462523": {
@@ -4316,6 +4318,11 @@
       "journalText": ""
     },
     "1462512": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1460192": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4786,11 +4793,6 @@
       "journalText": ""
     },
     "1451445": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1460192": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
