@@ -3898,6 +3898,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462523": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453034": {
       "photo": "",
       "activityTexts": [],
@@ -3918,11 +3923,6 @@
       "activityTexts": [
         "30 minutes of Walking, average"
       ],
-      "journalText": ""
-    },
-    "1462523": {
-      "photo": "",
-      "activityTexts": [],
       "journalText": ""
     },
     "1456661": {
@@ -5272,6 +5272,14 @@
       "photo": "",
       "activityTexts": [
         "45 minutes of Aerobics"
+      ],
+      "journalText": ""
+    },
+    "1463124": {
+      "photo": "",
+      "activityTexts": [
+        "24 minutes of Bicycling (moderate, 12-14mph/20-22k",
+        "10 minutes of Calisthenics"
       ],
       "journalText": ""
     },
