@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T22:45:37.245350+00:00",
+  "lastUpdated": "2026-06-16T22:50:39.685387+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1202,7 +1202,7 @@
               "activities": 6620
             },
             "2026-06-16": {
-              "steps": 645,
+              "steps": 1211,
               "activities": 0
             }
           },
@@ -4490,12 +4490,15 @@
               "activities": 10560
             },
             "2026-06-16": {
-              "steps": 4266,
+              "steps": 4284,
               "activities": 0
             },
             "2026-06-15": {
               "steps": 15086,
-              "activities": 0
+              "activities": 10560,
+              "activityTexts": [
+                "30 minutes of Plyometrics"
+              ]
             }
           },
           "memberId": 1456301
@@ -5680,7 +5683,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 533665,
+      "tally": 534985,
       "outOf": 198
     },
     "132626": {
