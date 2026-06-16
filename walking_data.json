@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T22:40:37.094820+00:00",
+  "lastUpdated": "2026-06-16T22:45:37.245350+00:00",
   "teams": [
     {
       "id": 132544,
@@ -3331,7 +3331,7 @@
               "activities": 0
             },
             "2026-06-10": {
-              "steps": 7238,
+              "steps": 7249,
               "activities": 0
             },
             "2026-06-09": {
@@ -3355,7 +3355,27 @@
               "activities": 0
             },
             "2026-06-11": {
-              "steps": 411,
+              "steps": 4864,
+              "activities": 0
+            },
+            "2026-06-16": {
+              "steps": 2116,
+              "activities": 0
+            },
+            "2026-06-15": {
+              "steps": 6373,
+              "activities": 0
+            },
+            "2026-06-14": {
+              "steps": 3644,
+              "activities": 0
+            },
+            "2026-06-13": {
+              "steps": 4112,
+              "activities": 0
+            },
+            "2026-06-12": {
+              "steps": 3724,
               "activities": 0
             }
           },
@@ -4451,7 +4471,7 @@
               ]
             },
             "2026-06-14": {
-              "steps": 4821,
+              "steps": 5171,
               "activities": 10560,
               "activityTexts": [
                 "30 minutes of Plyometrics"
@@ -4468,6 +4488,14 @@
             "2026-06-11": {
               "steps": 15323,
               "activities": 10560
+            },
+            "2026-06-16": {
+              "steps": 4266,
+              "activities": 0
+            },
+            "2026-06-15": {
+              "steps": 15086,
+              "activities": 0
             }
           },
           "memberId": 1456301
@@ -5652,7 +5680,7 @@
     },
     "132609": {
       "position": 4,
-      "tally": 531779,
+      "tally": 533665,
       "outOf": 198
     },
     "132626": {
@@ -5661,8 +5689,8 @@
       "outOf": 198
     },
     "132610": {
-      "position": 170,
-      "tally": 128625,
+      "position": 167,
+      "tally": 131812,
       "outOf": 198
     }
   },
