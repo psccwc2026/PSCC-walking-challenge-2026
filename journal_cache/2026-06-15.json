@@ -3985,6 +3985,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1459603": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1460673": {
       "photo": "",
       "activityTexts": [
@@ -4049,11 +4054,6 @@
       "journalText": ""
     },
     "1456661": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1459603": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5359,6 +5359,13 @@
       "activityTexts": [
         "30 minutes of Tai chi",
         "90 minutes of Walking, average"
+      ],
+      "journalText": ""
+    },
+    "1461743": {
+      "photo": "",
+      "activityTexts": [
+        "4 miles of Walking (miles of)"
       ],
       "journalText": ""
     },
