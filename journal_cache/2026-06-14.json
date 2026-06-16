@@ -801,7 +801,8 @@
       "photo": "",
       "activityTexts": [
         "30 minutes of Hiking",
-        "30 minutes of Plyometrics"
+        "30 minutes of Plyometrics",
+        "121 minutes of Bicycling (vigorous, 14mph+ / 22kph"
       ],
       "journalText": ""
     },
@@ -1314,6 +1315,11 @@
       "activityTexts": [
         "240 minutes of Tennis"
       ],
+      "journalText": ""
+    },
+    "1459312": {
+      "photo": "",
+      "activityTexts": [],
       "journalText": ""
     },
     "1460115": {
@@ -3698,9 +3704,16 @@
       "activityTexts": [],
       "journalText": ""
     },
-    "1462271": {
+    "1459056": {
       "photo": "",
       "activityTexts": [],
+      "journalText": ""
+    },
+    "1462271": {
+      "photo": "",
+      "activityTexts": [
+        "7 miles of Walking (miles of)"
+      ],
       "journalText": ""
     },
     "1459400": {
@@ -3972,6 +3985,11 @@
       "journalText": ""
     },
     "1452267": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1462939": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
