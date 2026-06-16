@@ -264,6 +264,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462532": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453351": {
       "photo": "",
       "activityTexts": [],
@@ -1607,11 +1612,6 @@
       "journalText": ""
     },
     "1462875": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1462532": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4249,7 +4249,9 @@
     },
     "1460650": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "60 minutes of Spinning (bike)"
+      ],
       "journalText": ""
     },
     "1463295": {
@@ -4538,6 +4540,13 @@
       ],
       "journalText": ""
     },
+    "1462859": {
+      "photo": "",
+      "activityTexts": [
+        "60 minutes of Bicycling (leisurely, < 12mph/20kph)"
+      ],
+      "journalText": ""
+    },
     "1458485": {
       "photo": "",
       "activityTexts": [],
@@ -4739,13 +4748,6 @@
     "1459477": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462859": {
-      "photo": "",
-      "activityTexts": [
-        "60 minutes of Bicycling (leisurely, < 12mph/20kph)"
-      ],
       "journalText": ""
     },
     "1456990": {
