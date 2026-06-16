@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T07:00:41.517767+00:00",
+  "lastUpdated": "2026-06-16T14:45:45.785124+00:00",
   "teams": [
     {
       "id": 132544,
@@ -483,7 +483,11 @@
               "activities": 0
             },
             "2026-06-15": {
-              "steps": 10929,
+              "steps": 11066,
+              "activities": 0
+            },
+            "2026-06-16": {
+              "steps": 1843,
               "activities": 0
             }
           },
@@ -1405,12 +1409,16 @@
               ]
             },
             "2026-06-15": {
-              "steps": 7903,
+              "steps": 7937,
               "activities": 26240,
               "activityTexts": [
                 "60 minutes of Swimming, leisure",
                 "100 minutes of Bicycling (moderate, 12-14mph/20-22"
               ]
+            },
+            "2026-06-16": {
+              "steps": 214,
+              "activities": 0
             }
           },
           "memberId": 1456310
@@ -1687,6 +1695,10 @@
               "activityTexts": [
                 "60 minutes of Squash"
               ]
+            },
+            "2026-06-16": {
+              "steps": 16,
+              "activities": 0
             }
           },
           "memberId": 1460532
@@ -2629,7 +2641,11 @@
               "activities": 0
             },
             "2026-06-15": {
-              "steps": 2189,
+              "steps": 10043,
+              "activities": 0
+            },
+            "2026-06-16": {
+              "steps": 2953,
               "activities": 0
             }
           },
@@ -2819,7 +2835,7 @@
               "activities": 0
             },
             "2026-06-16": {
-              "steps": 325,
+              "steps": 368,
               "activities": 0
             }
           },
@@ -3059,7 +3075,7 @@
               ]
             },
             "2026-06-16": {
-              "steps": 237,
+              "steps": 239,
               "activities": 0
             }
           },
@@ -3554,6 +3570,10 @@
             "2026-06-15": {
               "steps": 0,
               "activities": 0
+            },
+            "2026-06-16": {
+              "steps": 0,
+              "activities": 0
             }
           },
           "memberId": 1456173
@@ -3938,6 +3958,10 @@
             "2026-06-12": {
               "steps": 2916,
               "activities": 0
+            },
+            "2026-06-16": {
+              "steps": 199,
+              "activities": 0
             }
           },
           "memberId": 1461341
@@ -4179,6 +4203,10 @@
             },
             "2026-06-15": {
               "steps": 977,
+              "activities": 0
+            },
+            "2026-06-16": {
+              "steps": 37,
               "activities": 0
             }
           },
@@ -4622,6 +4650,10 @@
             "2026-06-15": {
               "steps": 3142,
               "activities": 0
+            },
+            "2026-06-16": {
+              "steps": 467,
+              "activities": 0
             }
           },
           "memberId": 1456302
@@ -4860,7 +4892,11 @@
               "activities": 0
             },
             "2026-06-15": {
-              "steps": 10260,
+              "steps": 10389,
+              "activities": 0
+            },
+            "2026-06-16": {
+              "steps": 18,
               "activities": 0
             }
           },
@@ -5587,21 +5623,21 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 670203,
+      "tally": 670222,
       "outOf": 198
     },
     "132609": {
       "position": 4,
-      "tally": 531763,
+      "tally": 531779,
       "outOf": 198
     },
     "132626": {
       "position": 89,
-      "tally": 218735,
+      "tally": 219857,
       "outOf": 198
     },
     "132610": {
-      "position": 169,
+      "position": 170,
       "tally": 128267,
       "outOf": 198
     }
