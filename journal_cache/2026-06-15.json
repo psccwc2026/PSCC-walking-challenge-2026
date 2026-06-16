@@ -4056,6 +4056,11 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1452230": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
     "1453040": {
       "photo": "",
       "activityTexts": [
@@ -4101,11 +4106,6 @@
       "journalText": ""
     },
     "1460650": {
-      "photo": "",
-      "activityTexts": [],
-      "journalText": ""
-    },
-    "1452230": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -4998,7 +4998,10 @@
     },
     "1463063": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "4 minutes of Stair climbing, up stairs",
+        "4 minutes of Stair climbing, down stairs"
+      ],
       "journalText": ""
     },
     "1451444": {
