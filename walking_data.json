@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T02:05:45.566731+00:00",
+  "lastUpdated": "2026-06-16T02:11:04.924773+00:00",
   "teams": [
     {
       "id": 132544,
@@ -1405,8 +1405,11 @@
               ]
             },
             "2026-06-15": {
-              "steps": 3389,
-              "activities": 0
+              "steps": 3506,
+              "activities": 9240,
+              "activityTexts": [
+                "60 minutes of Swimming, leisure"
+              ]
             }
           },
           "memberId": 1456310
@@ -3903,6 +3906,22 @@
             "2026-06-10": {
               "steps": 4968,
               "activities": 0
+            },
+            "2026-06-15": {
+              "steps": 872,
+              "activities": 0
+            },
+            "2026-06-14": {
+              "steps": 2110,
+              "activities": 0
+            },
+            "2026-06-13": {
+              "steps": 2896,
+              "activities": 0
+            },
+            "2026-06-12": {
+              "steps": 2916,
+              "activities": 0
             }
           },
           "memberId": 1461341
@@ -4581,7 +4600,7 @@
               "activities": 0
             },
             "2026-06-15": {
-              "steps": 2633,
+              "steps": 2757,
               "activities": 0
             }
           },
@@ -5536,12 +5555,12 @@
   "challengeRankings": {
     "132544": {
       "position": 3,
-      "tally": 658723,
+      "tally": 659762,
       "outOf": 198
     },
     "132609": {
       "position": 4,
-      "tally": 521857,
+      "tally": 521872,
       "outOf": 198
     },
     "132626": {
@@ -5550,8 +5569,8 @@
       "outOf": 198
     },
     "132610": {
-      "position": 169,
-      "tally": 126244,
+      "position": 168,
+      "tally": 127502,
       "outOf": 198
     }
   },
