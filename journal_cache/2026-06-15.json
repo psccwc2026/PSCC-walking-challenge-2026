@@ -1927,7 +1927,9 @@
     },
     "1451473": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "45 minutes of Yoga"
+      ],
       "journalText": ""
     },
     "1461813": {
@@ -2317,6 +2319,11 @@
       "journalText": ""
     },
     "1459558": {
+      "photo": "",
+      "activityTexts": [],
+      "journalText": ""
+    },
+    "1452569": {
       "photo": "",
       "activityTexts": [],
       "journalText": ""
@@ -5128,6 +5135,13 @@
       "activityTexts": [],
       "journalText": ""
     },
+    "1462913": {
+      "photo": "",
+      "activityTexts": [
+        "32 minutes of Circuit training"
+      ],
+      "journalText": ""
+    },
     "1458717": {
       "photo": "",
       "activityTexts": [
@@ -5146,13 +5160,6 @@
     "1458538": {
       "photo": "",
       "activityTexts": [],
-      "journalText": ""
-    },
-    "1462913": {
-      "photo": "",
-      "activityTexts": [
-        "32 minutes of Circuit training"
-      ],
       "journalText": ""
     },
     "1456701": {
