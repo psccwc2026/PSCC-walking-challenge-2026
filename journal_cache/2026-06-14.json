@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "sealed": false,
+  "sealed": true,
   "members": {
     "1452754": {
       "photo": "",
@@ -5179,7 +5179,9 @@
     },
     "1458603": {
       "photo": "",
-      "activityTexts": [],
+      "activityTexts": [
+        "90 minutes of Swimming, leisure"
+      ],
       "journalText": ""
     },
     "1452747": {
